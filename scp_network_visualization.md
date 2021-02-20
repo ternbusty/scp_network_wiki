@@ -1,6 +1,6 @@
 # SCP network visualization
 
-If the drawing does not appear after a short wait, reload the page.
+If the chart does not appear after a short wait, reload the page.
 
 ### What's this?
 - A visualization of [this wiki](https://iwasaki501.github.io/ternbusty/).
@@ -9,6 +9,6 @@ If the drawing does not appear after a short wait, reload the page.
 
 ### Network chart
 - The size of a node represents how many times the SCP is cited by other SCPs.
-- Click a node and Ctrl + Click the link in the popup to check the SCPs and tales which cite the SCP.
+- Click a node and Ctrl + Click the link in the popup to check articles which cite the SCP.
 
 <div class="flourish-embed flourish-network" data-src="visualisation/5326575"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
