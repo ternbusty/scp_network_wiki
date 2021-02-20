@@ -6,4 +6,3 @@
 - The data was collected from [SCP Foundation](https://scp-wiki.wikidot.com/) on February 17, 2021.
 
 
-<div class="flourish-embed flourish-network" data-src="visualisation/5326575"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
