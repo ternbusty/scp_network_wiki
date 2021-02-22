@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Traveling through SCP
-=======
-# Walking through the world of SCP
->>>>>>> origin/master
 
 ### What's this?
 - A wiki for those who want to check the SCPs and tales in which their favorite SCPs appear.
