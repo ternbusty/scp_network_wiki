@@ -8,8 +8,10 @@
 
 ## SCP Lists
 
+* [SCP-001](scp-001.md)
+
 * [Series I](series1.md)
-  * [000 - 099](series1.md#000-to-099)
+  * [002 - 099](series1.md#002-to-099)
   * [100 - 199](series1.md#100-to-199)
   * [200 - 299](series1.md#200-to-299)
   * [300 - 399](series1.md#300-to-399)
@@ -80,3 +82,7 @@
   * [5800 - 5899](series6.md#5800-to-5899)
   * [5900 - 5999](series6.md#5900-to-5999)
 
+* [Explained SCPs](explained.md)
+* [Archived SCPs](archived.md)
+* [Decommissioned SCPs](decommissioned.md)
+* [Joke SCPs](joke.md)
