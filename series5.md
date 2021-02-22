@@ -18,11 +18,11 @@
     - [How Is Your Name?](https://scp-wiki.wikidot.com/how-is-your-name) (+50)
     - [A Fellow Scholar](https://scp-wiki.wikidot.com/a-fellow-scholar) (+48)
     - [Old Business](https://scp-wiki.wikidot.com/old-business) (+37)
-    - [the-grove-of-exiles](https://scp-wiki.wikidot.com/the-grove-of-exiles)
-    - [deer-and-the-overseers](https://scp-wiki.wikidot.com/deer-and-the-overseers)
-    - [the-knight-of-flowers](https://scp-wiki.wikidot.com/the-knight-of-flowers)
-    - [ute-1919-discofather](https://scp-wiki.wikidot.com/ute-1919-discofather)
     - [the-great-shucks-of-the-unnamed-lords](https://scp-wiki.wikidot.com/the-great-shucks-of-the-unnamed-lords)
+    - [ute-1919-discofather](https://scp-wiki.wikidot.com/ute-1919-discofather)
+    - [the-knight-of-flowers](https://scp-wiki.wikidot.com/the-knight-of-flowers)
+    - [deer-and-the-overseers](https://scp-wiki.wikidot.com/deer-and-the-overseers)
+    - [the-grove-of-exiles](https://scp-wiki.wikidot.com/the-grove-of-exiles)
 
 ### [SCP-4001](https://scp-wiki.wikidot.com/scp-4001)
 - **Metatitle**: Alexandria Eternal
@@ -330,8 +330,8 @@
     - [SCP-4127](https://scp-wiki.wikidot.com/scp-4127) (Heads or Tails, +195)
     - [SCP-4362](https://scp-wiki.wikidot.com/scp-4362) (Achilles Defense Systems, +188)
     - [SCP-3546](https://scp-wiki.wikidot.com/scp-3546) (Doggone it, I Fold!, +172)
-    - [SCP-3057](https://scp-wiki.wikidot.com/scp-3057) (Fossil Fuels, +164)
     - [SCP-3561](https://scp-wiki.wikidot.com/scp-3561) (An Unfinished Work, +164)
+    - [SCP-3057](https://scp-wiki.wikidot.com/scp-3057) (Fossil Fuels, +164)
     - [SCP-3079](https://scp-wiki.wikidot.com/scp-3079) (300 Tricks: Stage Magic Made Easy, +161)
     - [SCP-3138](https://scp-wiki.wikidot.com/scp-3138) (A Sepulcher by the Sea, +157)
     - [SCP-4153](https://scp-wiki.wikidot.com/scp-4153) (Vincent Price presents… IT CAME FROM SITE-9!, +134)
@@ -353,8 +353,8 @@
     - [Don Quixote vs Classy Carlos](https://scp-wiki.wikidot.com/don-quixote-vs-classy-carlos) (+48)
     - [Down with the Sickness](https://scp-wiki.wikidot.com/down-with-the-sickness) (+46)
     - [Dogs of War](https://scp-wiki.wikidot.com/dogs-of-war) (+39)
-    - [Project Hellhound](https://scp-wiki.wikidot.com/project-hellhound) (+36)
     - [The Ultimate Showdown of Ultimate DEETstiny](https://scp-wiki.wikidot.com/spock-the-rock-doc-ock-and-hulk-hogan) (+36)
+    - [Project Hellhound](https://scp-wiki.wikidot.com/project-hellhound) (+36)
     - [Tight Bookshelves](https://scp-wiki.wikidot.com/tight-bookshelves) (+35)
     - [Arm-ageddon](https://scp-wiki.wikidot.com/armageddon) (+27)
     - [murphy-law-hub](https://scp-wiki.wikidot.com/murphy-law-hub)
@@ -553,8 +553,8 @@
     - [Who Wants To Live Forever?](https://scp-wiki.wikidot.com/who-wants-to-live-forever) (+61)
     - [The Hermit, Death, and The Devil](https://scp-wiki.wikidot.com/the-hermit-death-and-the-devil) (+59)
     - [Wonder World Dossier](https://scp-wiki.wikidot.com/wonder-world-dossier) (+52)
-    - [Tim Wilson's Close Shave](https://scp-wiki.wikidot.com/tim-wilson-s-close-shave) (+50)
     - [Dr. Isabel Helga Anastasia Parvati Wondertainment, V is Displeased With Her Happy Meal](https://scp-wiki.wikidot.com/isabels-happy-meal) (+50)
+    - [Tim Wilson's Close Shave](https://scp-wiki.wikidot.com/tim-wilson-s-close-shave) (+50)
     - [Square your shoulders, lift your pack, and leave your friends and go.](https://scp-wiki.wikidot.com/square-your-shoulders) (+41)
     - [Gluttony Is Impossible](https://scp-wiki.wikidot.com/gluttony-is-impossible) (+34)
     - [wonder-world](https://scp-wiki.wikidot.com/wonder-world)
@@ -802,8 +802,8 @@
     - [SCP-3461](https://scp-wiki.wikidot.com/scp-3461) (When The Saints Go Marching In, +69)
 - **Associated with 3 articles**: 
     - [Like a Rock](https://scp-wiki.wikidot.com/in-memoriam) (+56)
-    - [ad-astra-per-aspera-hub](https://scp-wiki.wikidot.com/ad-astra-per-aspera-hub)
     - [autonomy-part-v](https://scp-wiki.wikidot.com/autonomy-part-v#)
+    - [ad-astra-per-aspera-hub](https://scp-wiki.wikidot.com/ad-astra-per-aspera-hub)
 
 ### [SCP-4070](https://scp-wiki.wikidot.com/scp-4070)
 - **Metatitle**: Just Something He Thinks About
@@ -1930,8 +1930,8 @@
     - [SCP-3470](https://scp-wiki.wikidot.com/scp-3470) (Harry Potter's Revenge, +177)
     - [SCP-2210](https://scp-wiki.wikidot.com/scp-2210) (Policy #40535: Anomalous Intelligence, +161)
     - [SCP-4776](https://scp-wiki.wikidot.com/scp-4776) (REAGANWEAPON., +157)
-    - [SCP-3850](https://scp-wiki.wikidot.com/scp-3850) (I Can't Drown My Demons, +133)
     - [SCP-3360](https://scp-wiki.wikidot.com/scp-3360) (Proletariart, by San Francisco Jones, +133)
+    - [SCP-3850](https://scp-wiki.wikidot.com/scp-3850) (I Can't Drown My Demons, +133)
     - [SCP-3874](https://scp-wiki.wikidot.com/scp-3874) (Six-Hundred To One, +108)
     - [SCP-2910](https://scp-wiki.wikidot.com/scp-2910) (That Only a Mother, +97)
     - [SCP-2060](https://scp-wiki.wikidot.com/scp-2060) (We Burn Every Day, +95)
@@ -2091,8 +2091,8 @@
     - [SCP-4669](https://scp-wiki.wikidot.com/scp-4669) (Nuestra Señora de la Revolución Popular, +129)
     - [SCP-3697](https://scp-wiki.wikidot.com/scp-3697) ("Let Me Redirect You Right Now", +118)
     - [SCP-285](https://scp-wiki.wikidot.com/scp-285) (A Hack Job, +90)
-    - [SCP-3869](https://scp-wiki.wikidot.com/scp-3869) (High Quality Ripoff, +82)
     - [SCP-3015](https://scp-wiki.wikidot.com/scp-3015) (A Story Concerning Self-Doubt, Slight Disillusionment, and Frustration, As Told By the Lucky Member of a Group Whose Relatable Works Are Loved Internationally, +82)
+    - [SCP-3869](https://scp-wiki.wikidot.com/scp-3869) (High Quality Ripoff, +82)
     - [SCP-2476](https://scp-wiki.wikidot.com/scp-2476) (I Didn't Expect That, +57)
     - [SCP-5128](https://scp-wiki.wikidot.com/scp-5128) (The Source, +54)
 - **Associated with 3 articles**: 
@@ -4033,8 +4033,8 @@
     - [There's a Job For Everyone](https://scp-wiki.wikidot.com/there-s-a-job-for-everyone) (+27)
     - [The Place To Find Yourself](https://scp-wiki.wikidot.com/the-place-to-find-yourself) (+25)
     - [SCP-ide](https://scp-wiki.wikidot.com/scp-ide) (+25)
-    - [Three Portlands Pastries](https://scp-wiki.wikidot.com/three-portlands-pastries) (+22)
     - [The Bed Salesman: A Brief Interlude](https://scp-wiki.wikidot.com/the-bed-salesman) (+22)
+    - [Three Portlands Pastries](https://scp-wiki.wikidot.com/three-portlands-pastries) (+22)
     - [Memory Dives & Deep Desires](https://scp-wiki.wikidot.com/memory-dives-deep-desires) (+18)
 
 ### [SCP-4493](https://scp-wiki.wikidot.com/scp-4493)
@@ -4262,8 +4262,8 @@
     - [A Surprise Encounter with Crispy Sex Pirates](https://scp-wiki.wikidot.com/crispy-sex-pirates) (+47)
     - [A Necromantic Prelude](https://scp-wiki.wikidot.com/a-necromantic-prelude) (+30)
     - [Solidão](https://scp-wiki.wikidot.com/solidao) (+21)
-    - [non-prophet-organization-hub](https://scp-wiki.wikidot.com/non-prophet-organization-hub)
     - [grant-request-post-mortem-neural-preservation](https://scp-wiki.wikidot.com/grant-request-post-mortem-neural-preservation)
+    - [non-prophet-organization-hub](https://scp-wiki.wikidot.com/non-prophet-organization-hub)
 
 ### [SCP-4520](https://scp-wiki.wikidot.com/scp-4520)
 - **Metatitle**: Alea Iacta Est
@@ -4829,9 +4829,9 @@
 - **Rate**: +65
 - **Cited by 0 objects**
 - **Associated with 3 articles**: 
-    - [the-bowe-decommission-part-one](https://scp-wiki.wikidot.com/the-bowe-decommission-part-one)
     - [broken-bowe](https://scp-wiki.wikidot.com/broken-bowe)
     - [the-bowe-decommission-part-two](https://scp-wiki.wikidot.com/the-bowe-decommission-part-two)
+    - [the-bowe-decommission-part-one](https://scp-wiki.wikidot.com/the-bowe-decommission-part-one)
 
 ### [SCP-4602](https://scp-wiki.wikidot.com/scp-4602)
 - **Metatitle**: The Money-ki Neko
@@ -5316,8 +5316,8 @@
     - [SCP-3024](https://scp-wiki.wikidot.com/scp-3024) (The Doxx Ghost, +134)
     - [SCP-3697](https://scp-wiki.wikidot.com/scp-3697) ("Let Me Redirect You Right Now", +118)
     - [SCP-285](https://scp-wiki.wikidot.com/scp-285) (A Hack Job, +90)
-    - [SCP-3869](https://scp-wiki.wikidot.com/scp-3869) (High Quality Ripoff, +82)
     - [SCP-3015](https://scp-wiki.wikidot.com/scp-3015) (A Story Concerning Self-Doubt, Slight Disillusionment, and Frustration, As Told By the Lucky Member of a Group Whose Relatable Works Are Loved Internationally, +82)
+    - [SCP-3869](https://scp-wiki.wikidot.com/scp-3869) (High Quality Ripoff, +82)
     - [SCP-2476](https://scp-wiki.wikidot.com/scp-2476) (I Didn't Expect That, +57)
     - [SCP-3245](https://scp-wiki.wikidot.com/scp-3245) (Mr. Playing Games Is Bad For Your Health, +40)
 - **Associated with 2 articles**: 
@@ -5344,8 +5344,8 @@
     - [SCP-2680](https://scp-wiki.wikidot.com/scp-2680) (The Gorillas Simply Freeze to Death, +194)
     - [SCP-3470](https://scp-wiki.wikidot.com/scp-3470) (Harry Potter's Revenge, +177)
     - [SCP-2210](https://scp-wiki.wikidot.com/scp-2210) (Policy #40535: Anomalous Intelligence, +161)
-    - [SCP-3850](https://scp-wiki.wikidot.com/scp-3850) (I Can't Drown My Demons, +133)
     - [SCP-3360](https://scp-wiki.wikidot.com/scp-3360) (Proletariart, by San Francisco Jones, +133)
+    - [SCP-3850](https://scp-wiki.wikidot.com/scp-3850) (I Can't Drown My Demons, +133)
     - [SCP-2910](https://scp-wiki.wikidot.com/scp-2910) (That Only a Mother, +97)
     - [SCP-2060](https://scp-wiki.wikidot.com/scp-2060) (We Burn Every Day, +95)
     - [SCP-2650](https://scp-wiki.wikidot.com/scp-2650) (Pediatric Pupaphobia, +86)
@@ -5631,8 +5631,8 @@
     - [SCP-2680](https://scp-wiki.wikidot.com/scp-2680) (The Gorillas Simply Freeze to Death, +194)
     - [SCP-3470](https://scp-wiki.wikidot.com/scp-3470) (Harry Potter's Revenge, +177)
     - [SCP-2210](https://scp-wiki.wikidot.com/scp-2210) (Policy #40535: Anomalous Intelligence, +161)
-    - [SCP-3850](https://scp-wiki.wikidot.com/scp-3850) (I Can't Drown My Demons, +133)
     - [SCP-3360](https://scp-wiki.wikidot.com/scp-3360) (Proletariart, by San Francisco Jones, +133)
+    - [SCP-3850](https://scp-wiki.wikidot.com/scp-3850) (I Can't Drown My Demons, +133)
     - [SCP-2910](https://scp-wiki.wikidot.com/scp-2910) (That Only a Mother, +97)
     - [SCP-2060](https://scp-wiki.wikidot.com/scp-2060) (We Burn Every Day, +95)
     - [SCP-2650](https://scp-wiki.wikidot.com/scp-2650) (Pediatric Pupaphobia, +86)
@@ -6097,10 +6097,10 @@
 - **Cited by 1 objects**: 
     - [SCP-5307](https://scp-wiki.wikidot.com/scp-5307) (Double Donk Juice, +33)
 - **Associated with 4 articles**: 
-    - [ulysses-b-donkman-and-the-heinous-hitman](https://scp-wiki.wikidot.com/ulysses-b-donkman-and-the-heinous-hitman)
-    - [ulysses-b-donkman-and-the-mournful-birthday](https://scp-wiki.wikidot.com/ulysses-b-donkman-and-the-mournful-birthday)
     - [ulysses-b-donkman-and-the-clockwork-bandits](https://scp-wiki.wikidot.com/ulysses-b-donkman-and-the-clockwork-bandits)
     - [ulysses-b-donkman-and-the-foreboding-forest](https://scp-wiki.wikidot.com/ulysses-b-donkman-and-the-foreboding-forest)
+    - [ulysses-b-donkman-and-the-heinous-hitman](https://scp-wiki.wikidot.com/ulysses-b-donkman-and-the-heinous-hitman)
+    - [ulysses-b-donkman-and-the-mournful-birthday](https://scp-wiki.wikidot.com/ulysses-b-donkman-and-the-mournful-birthday)
 
 ### [SCP-4769](https://scp-wiki.wikidot.com/scp-4769)
 - **Metatitle**: Physics Teacher
@@ -6138,8 +6138,8 @@
 - **Cited by 4 objects**: 
     - [SCP-002-EX](https://scp-wiki.wikidot.com/scp-002-ex) (Lost it All, +100)
     - [SCP-4313](https://scp-wiki.wikidot.com/scp-4313) (Stormy Seas in the Milky Way, +67)
-    - [SCP-5255](https://scp-wiki.wikidot.com/scp-5255) (Primordial Truth, +56)
     - [SCP-4377](https://scp-wiki.wikidot.com/scp-4377) (Fight! Fight for the Man of the People!, +56)
+    - [SCP-5255](https://scp-wiki.wikidot.com/scp-5255) (Primordial Truth, +56)
 - **Associated with 1 articles**: 
     - [ad-astra-per-aspera-hub](https://scp-wiki.wikidot.com/ad-astra-per-aspera-hub)
 
@@ -6220,8 +6220,8 @@
     - [SCP-2680](https://scp-wiki.wikidot.com/scp-2680) (The Gorillas Simply Freeze to Death, +194)
     - [SCP-3470](https://scp-wiki.wikidot.com/scp-3470) (Harry Potter's Revenge, +177)
     - [SCP-2210](https://scp-wiki.wikidot.com/scp-2210) (Policy #40535: Anomalous Intelligence, +161)
-    - [SCP-3850](https://scp-wiki.wikidot.com/scp-3850) (I Can't Drown My Demons, +133)
     - [SCP-3360](https://scp-wiki.wikidot.com/scp-3360) (Proletariart, by San Francisco Jones, +133)
+    - [SCP-3850](https://scp-wiki.wikidot.com/scp-3850) (I Can't Drown My Demons, +133)
     - [SCP-2910](https://scp-wiki.wikidot.com/scp-2910) (That Only a Mother, +97)
     - [SCP-2060](https://scp-wiki.wikidot.com/scp-2060) (We Burn Every Day, +95)
     - [SCP-2650](https://scp-wiki.wikidot.com/scp-2650) (Pediatric Pupaphobia, +86)
@@ -6265,8 +6265,8 @@
 - **Associated with 4 articles**: 
     - ["Smile! You Are Being Watched!"](https://scp-wiki.wikidot.com/smile-you-are-being-watched) (+58)
     - [the-eternal-mxtape](https://scp-wiki.wikidot.com/the-eternal-mxtape)
-    - [extra-salty](https://scp-wiki.wikidot.com/extra-salty)
     - [the-not-too-distant-future](https://scp-wiki.wikidot.com/the-not-too-distant-future)
+    - [extra-salty](https://scp-wiki.wikidot.com/extra-salty)
 
 ### [SCP-4785](https://scp-wiki.wikidot.com/scp-4785)
 - **Metatitle**: Infohazardous Cabinet
@@ -6888,8 +6888,8 @@
     - [SCP-5902](https://scp-wiki.wikidot.com/scp-5902) (The Department of Administration, +126)
     - [SCP-3897](https://scp-wiki.wikidot.com/scp-3897) (Mother's Eye Is Upon You, +110)
     - [SCP-3896](https://scp-wiki.wikidot.com/scp-3896) (We'll Never Stop Eating Big Gordo, +104)
-    - [SCP-4449](https://scp-wiki.wikidot.com/scp-4449) (Daisuke Kawamoto, aka Kakashi-san, Scarecrow Samurai and Legendary Slayer of Evil, +100)
     - [SCP-3982](https://scp-wiki.wikidot.com/scp-3982) (The Devourer of Filth Would Like to Be Friends With You, +100)
+    - [SCP-4449](https://scp-wiki.wikidot.com/scp-4449) (Daisuke Kawamoto, aka Kakashi-san, Scarecrow Samurai and Legendary Slayer of Evil, +100)
     - [SCP-3893](https://scp-wiki.wikidot.com/scp-3893) (I'm Going to Have a Motherfucking Meltdown, +97)
     - [SCP-4333](https://scp-wiki.wikidot.com/scp-4333) (The Profligate, +93)
     - [SCP-4933](https://scp-wiki.wikidot.com/scp-4933) (We Interrupt This Broadcast, +71)
@@ -6945,8 +6945,8 @@
 - **Metatitle**: Friends With You
 - **Rate**: +49
 - **Cited by 3 objects**: 
-    - [SCP-5033](https://scp-wiki.wikidot.com/scp-5033) (A Pampered Sheep (please don't explode), +66)
     - [SCP-4492](https://scp-wiki.wikidot.com/scp-4492) (Umbrella In The Toilet, +66)
+    - [SCP-5033](https://scp-wiki.wikidot.com/scp-5033) (A Pampered Sheep (please don't explode), +66)
     - [SCP-5986](https://scp-wiki.wikidot.com/scp-5986) (Mom, take me to Millie's Candy Shop!, +25)
 - **Associated with 16 articles**: 
     - [S & C Plastics Actually Does Their Job](https://scp-wiki.wikidot.com/s-c-plastics-actually-does-their-job) (+83)
@@ -6962,8 +6962,8 @@
     - [There's a Job For Everyone](https://scp-wiki.wikidot.com/there-s-a-job-for-everyone) (+27)
     - [The Place To Find Yourself](https://scp-wiki.wikidot.com/the-place-to-find-yourself) (+25)
     - [SCP-ide](https://scp-wiki.wikidot.com/scp-ide) (+25)
-    - [Three Portlands Pastries](https://scp-wiki.wikidot.com/three-portlands-pastries) (+22)
     - [The Bed Salesman: A Brief Interlude](https://scp-wiki.wikidot.com/the-bed-salesman) (+22)
+    - [Three Portlands Pastries](https://scp-wiki.wikidot.com/three-portlands-pastries) (+22)
     - [Memory Dives & Deep Desires](https://scp-wiki.wikidot.com/memory-dives-deep-desires) (+18)
 
 ### [SCP-4875](https://scp-wiki.wikidot.com/scp-4875)
@@ -7667,8 +7667,8 @@
     - [SCP-4286](https://scp-wiki.wikidot.com/scp-4286) (The Skeleton Fairy, +70)
     - [SCP-4570](https://scp-wiki.wikidot.com/scp-4570) (Almost Heaven, West Virginia, +53)
 - **Associated with 2 articles**: 
-    - [detective-tubb-and-the-case-of-the-capricious-keter](https://scp-wiki.wikidot.com/detective-tubb-and-the-case-of-the-capricious-keter)
     - [and-then-it-was-morning](https://scp-wiki.wikidot.com/and-then-it-was-morning)
+    - [detective-tubb-and-the-case-of-the-capricious-keter](https://scp-wiki.wikidot.com/detective-tubb-and-the-case-of-the-capricious-keter)
 
 ### [SCP-4967](https://scp-wiki.wikidot.com/scp-4967)
 - **Metatitle**: Thaumielvis
@@ -7834,8 +7834,8 @@
     - [SCP-5018](https://scp-wiki.wikidot.com/scp-5018) (The Broken Rose, +118)
     - [SCP-5346](https://scp-wiki.wikidot.com/scp-5346) (GUMP, +117)
     - [SCP-5850](https://scp-wiki.wikidot.com/scp-5850) (A Train to Hell, +79)
-    - [SCP-5343](https://scp-wiki.wikidot.com/scp-5343) (The "For-You News" App!, +65)
     - [SCP-5150](https://scp-wiki.wikidot.com/scp-5150) (Anomalous Dental Office, +65)
+    - [SCP-5343](https://scp-wiki.wikidot.com/scp-5343) (The "For-You News" App!, +65)
     - [SCP-3476](https://scp-wiki.wikidot.com/scp-3476) (A Place to Sever Stranded Heartstrings // Alex's Fountain, +29)
 - **Associated with 0 articles**
 

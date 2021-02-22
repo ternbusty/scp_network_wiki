@@ -137,8 +137,8 @@
 - **Cited by 6 objects**: 
     - [SCP-5346](https://scp-wiki.wikidot.com/scp-5346) (GUMP, +117)
     - [SCP-5850](https://scp-wiki.wikidot.com/scp-5850) (A Train to Hell, +79)
-    - [SCP-5343](https://scp-wiki.wikidot.com/scp-5343) (The "For-You News" App!, +65)
     - [SCP-5150](https://scp-wiki.wikidot.com/scp-5150) (Anomalous Dental Office, +65)
+    - [SCP-5343](https://scp-wiki.wikidot.com/scp-5343) (The "For-You News" App!, +65)
     - [SCP-4983](https://scp-wiki.wikidot.com/scp-4983) (The Lost Storyteller, +35)
     - [SCP-3476](https://scp-wiki.wikidot.com/scp-3476) (A Place to Sever Stranded Heartstrings // Alex's Fountain, +29)
 - **Associated with 0 articles**
@@ -267,8 +267,8 @@
     - [There's a Job For Everyone](https://scp-wiki.wikidot.com/there-s-a-job-for-everyone) (+27)
     - [The Place To Find Yourself](https://scp-wiki.wikidot.com/the-place-to-find-yourself) (+25)
     - [SCP-ide](https://scp-wiki.wikidot.com/scp-ide) (+25)
-    - [Three Portlands Pastries](https://scp-wiki.wikidot.com/three-portlands-pastries) (+22)
     - [The Bed Salesman: A Brief Interlude](https://scp-wiki.wikidot.com/the-bed-salesman) (+22)
+    - [Three Portlands Pastries](https://scp-wiki.wikidot.com/three-portlands-pastries) (+22)
     - [Memory Dives & Deep Desires](https://scp-wiki.wikidot.com/memory-dives-deep-desires) (+18)
 
 ### [SCP-5034](https://scp-wiki.wikidot.com/scp-5034)
@@ -1898,8 +1898,8 @@
 - **Rate**: +117
 - **Cited by 5 objects**: 
     - [SCP-5850](https://scp-wiki.wikidot.com/scp-5850) (A Train to Hell, +79)
-    - [SCP-5343](https://scp-wiki.wikidot.com/scp-5343) (The "For-You News" App!, +65)
     - [SCP-5150](https://scp-wiki.wikidot.com/scp-5150) (Anomalous Dental Office, +65)
+    - [SCP-5343](https://scp-wiki.wikidot.com/scp-5343) (The "For-You News" App!, +65)
     - [SCP-4983](https://scp-wiki.wikidot.com/scp-4983) (The Lost Storyteller, +35)
     - [SCP-3476](https://scp-wiki.wikidot.com/scp-3476) (A Place to Sever Stranded Heartstrings // Alex's Fountain, +29)
 - **Associated with 0 articles**
@@ -2215,8 +2215,8 @@
     - [SCP-2680](https://scp-wiki.wikidot.com/scp-2680) (The Gorillas Simply Freeze to Death, +194)
     - [SCP-3470](https://scp-wiki.wikidot.com/scp-3470) (Harry Potter's Revenge, +177)
     - [SCP-2210](https://scp-wiki.wikidot.com/scp-2210) (Policy #40535: Anomalous Intelligence, +161)
-    - [SCP-3850](https://scp-wiki.wikidot.com/scp-3850) (I Can't Drown My Demons, +133)
     - [SCP-3360](https://scp-wiki.wikidot.com/scp-3360) (Proletariart, by San Francisco Jones, +133)
+    - [SCP-3850](https://scp-wiki.wikidot.com/scp-3850) (I Can't Drown My Demons, +133)
     - [SCP-2910](https://scp-wiki.wikidot.com/scp-2910) (That Only a Mother, +97)
     - [SCP-2060](https://scp-wiki.wikidot.com/scp-2060) (We Burn Every Day, +95)
     - [SCP-2650](https://scp-wiki.wikidot.com/scp-2650) (Pediatric Pupaphobia, +86)
@@ -3816,8 +3816,8 @@
 - **Cited by 6 objects**: 
     - [SCP-5346](https://scp-wiki.wikidot.com/scp-5346) (GUMP, +117)
     - [SCP-5097](https://scp-wiki.wikidot.com/scp-5097) (Working 9 to 5, +106)
-    - [SCP-5343](https://scp-wiki.wikidot.com/scp-5343) (The "For-You News" App!, +65)
     - [SCP-5150](https://scp-wiki.wikidot.com/scp-5150) (Anomalous Dental Office, +65)
+    - [SCP-5343](https://scp-wiki.wikidot.com/scp-5343) (The "For-You News" App!, +65)
     - [SCP-4983](https://scp-wiki.wikidot.com/scp-4983) (The Lost Storyteller, +35)
     - [SCP-3476](https://scp-wiki.wikidot.com/scp-3476) (A Place to Sever Stranded Heartstrings // Alex's Fountain, +29)
 - **Associated with 0 articles**
@@ -4043,8 +4043,8 @@
     - [SCP-3897](https://scp-wiki.wikidot.com/scp-3897) (Mother's Eye Is Upon You, +110)
     - [SCP-4866](https://scp-wiki.wikidot.com/scp-4866) (𝘔𝘶𝘳𝘥𝘦𝘳𝘦𝘳™, a product of Optimark Synthetic Personnel Solutions1, +106)
     - [SCP-3896](https://scp-wiki.wikidot.com/scp-3896) (We'll Never Stop Eating Big Gordo, +104)
-    - [SCP-4449](https://scp-wiki.wikidot.com/scp-4449) (Daisuke Kawamoto, aka Kakashi-san, Scarecrow Samurai and Legendary Slayer of Evil, +100)
     - [SCP-3982](https://scp-wiki.wikidot.com/scp-3982) (The Devourer of Filth Would Like to Be Friends With You, +100)
+    - [SCP-4449](https://scp-wiki.wikidot.com/scp-4449) (Daisuke Kawamoto, aka Kakashi-san, Scarecrow Samurai and Legendary Slayer of Evil, +100)
     - [SCP-4933](https://scp-wiki.wikidot.com/scp-4933) (We Interrupt This Broadcast, +71)
 - **Associated with 2 articles**: 
     - [Joey Fucknuts Builds a Flying Machine](https://scp-wiki.wikidot.com/joey-fucknuts-builds-a-flying-machine) (+178)
@@ -4239,8 +4239,8 @@
     - [SCP-2680](https://scp-wiki.wikidot.com/scp-2680) (The Gorillas Simply Freeze to Death, +194)
     - [SCP-3470](https://scp-wiki.wikidot.com/scp-3470) (Harry Potter's Revenge, +177)
     - [SCP-2210](https://scp-wiki.wikidot.com/scp-2210) (Policy #40535: Anomalous Intelligence, +161)
-    - [SCP-3850](https://scp-wiki.wikidot.com/scp-3850) (I Can't Drown My Demons, +133)
     - [SCP-3360](https://scp-wiki.wikidot.com/scp-3360) (Proletariart, by San Francisco Jones, +133)
+    - [SCP-3850](https://scp-wiki.wikidot.com/scp-3850) (I Can't Drown My Demons, +133)
     - [SCP-2910](https://scp-wiki.wikidot.com/scp-2910) (That Only a Mother, +97)
     - [SCP-2060](https://scp-wiki.wikidot.com/scp-2060) (We Burn Every Day, +95)
     - [SCP-2650](https://scp-wiki.wikidot.com/scp-2650) (Pediatric Pupaphobia, +86)
@@ -4336,8 +4336,8 @@
 - **Cited by 6 objects**: 
     - [SCP-5346](https://scp-wiki.wikidot.com/scp-5346) (GUMP, +117)
     - [SCP-5850](https://scp-wiki.wikidot.com/scp-5850) (A Train to Hell, +79)
-    - [SCP-5343](https://scp-wiki.wikidot.com/scp-5343) (The "For-You News" App!, +65)
     - [SCP-5150](https://scp-wiki.wikidot.com/scp-5150) (Anomalous Dental Office, +65)
+    - [SCP-5343](https://scp-wiki.wikidot.com/scp-5343) (The "For-You News" App!, +65)
     - [SCP-4983](https://scp-wiki.wikidot.com/scp-4983) (The Lost Storyteller, +35)
     - [SCP-3476](https://scp-wiki.wikidot.com/scp-3476) (A Place to Sever Stranded Heartstrings // Alex's Fountain, +29)
 - **Associated with 0 articles**
@@ -4418,8 +4418,8 @@
     - [SCP-2588](https://scp-wiki.wikidot.com/scp-2588) (The Collective Consciousness of Arthur H. Jones, +79)
     - [SCP-972](https://scp-wiki.wikidot.com/scp-972) (Immunity, +78)
     - [SCP-314-J](https://scp-wiki.wikidot.com/scp-314-j) (Numerical Proofs (That You Suck), +65)
-    - [SCP-5725](https://scp-wiki.wikidot.com/scp-5725) (We're Getting the Man Back Together Again, +64)
     - [SCP-5050-EX](https://scp-wiki.wikidot.com/scp-5050-ex) (Presto!, +64)
+    - [SCP-5725](https://scp-wiki.wikidot.com/scp-5725) (We're Getting the Man Back Together Again, +64)
     - [SCP-2896](https://scp-wiki.wikidot.com/scp-2896) (To Sleep, Perchance to Dream (of Freedom), +48)
 - **Associated with 13 articles**: 
     - [The Meaning of Fear](https://scp-wiki.wikidot.com/the-meaning-of-fear) (+205)
@@ -4518,8 +4518,8 @@
 - **Metatitle**: Mom, take me to Millie's Candy Shop!
 - **Rate**: +25
 - **Cited by 3 objects**: 
-    - [SCP-5033](https://scp-wiki.wikidot.com/scp-5033) (A Pampered Sheep (please don't explode), +66)
     - [SCP-4492](https://scp-wiki.wikidot.com/scp-4492) (Umbrella In The Toilet, +66)
+    - [SCP-5033](https://scp-wiki.wikidot.com/scp-5033) (A Pampered Sheep (please don't explode), +66)
     - [SCP-4874](https://scp-wiki.wikidot.com/scp-4874) (Friends With You, +49)
 - **Associated with 16 articles**: 
     - [S & C Plastics Actually Does Their Job](https://scp-wiki.wikidot.com/s-c-plastics-actually-does-their-job) (+83)
@@ -4535,8 +4535,8 @@
     - [There's a Job For Everyone](https://scp-wiki.wikidot.com/there-s-a-job-for-everyone) (+27)
     - [The Place To Find Yourself](https://scp-wiki.wikidot.com/the-place-to-find-yourself) (+25)
     - [SCP-ide](https://scp-wiki.wikidot.com/scp-ide) (+25)
-    - [Three Portlands Pastries](https://scp-wiki.wikidot.com/three-portlands-pastries) (+22)
     - [The Bed Salesman: A Brief Interlude](https://scp-wiki.wikidot.com/the-bed-salesman) (+22)
+    - [Three Portlands Pastries](https://scp-wiki.wikidot.com/three-portlands-pastries) (+22)
     - [Memory Dives & Deep Desires](https://scp-wiki.wikidot.com/memory-dives-deep-desires) (+18)
 
 ### [SCP-5987](https://scp-wiki.wikidot.com/scp-5987)

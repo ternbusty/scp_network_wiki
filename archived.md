@@ -61,8 +61,8 @@
     - [Persephone Project](https://scp-wiki.wikidot.com/persephone-project) (+71)
     - [Who Wants To Live Forever?](https://scp-wiki.wikidot.com/who-wants-to-live-forever) (+61)
     - [1st - 12th December 2008](https://scp-wiki.wikidot.com/1st-12th-december-2008) (+15)
-    - [13th-23rd December 2008](https://scp-wiki.wikidot.com/13th-23rd-december-2008) (+10)
     - [24th December 2008 14th January 2009](https://scp-wiki.wikidot.com/24th-december-2008-14th-january-2009) (+10)
+    - [13th-23rd December 2008](https://scp-wiki.wikidot.com/13th-23rd-december-2008) (+10)
 
 ### [SCP-400-ARC](https://scp-wiki.wikidot.com/scp-400-arc)
 - **Metatitle**: A Telephone Box
