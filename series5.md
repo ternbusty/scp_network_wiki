@@ -16,13 +16,13 @@
     - [A Fellow Scholar](https://scp-wiki.wikidot.com/a-fellow-scholar) (+48)
     - [Old Business](https://scp-wiki.wikidot.com/old-business) (+37)
 - **Associated with**: 
-    - [deer-and-the-overseers](https://scp-wiki.wikidot.com/a-fellow-scholar)
-    - [the-grove-of-exiles](https://scp-wiki.wikidot.com/a-fellow-scholar)
-    - [the-knight-of-flowers](https://scp-wiki.wikidot.com/a-fellow-scholar)
-    - [djkaktus-s-proposal-j](https://scp-wiki.wikidot.com/a-fellow-scholar)
-    - [the-great-shucks-of-the-unnamed-lords](https://scp-wiki.wikidot.com/a-fellow-scholar)
-    - [ute-1919-discofather](https://scp-wiki.wikidot.com/a-fellow-scholar)
-    - [scp-4000-j](https://scp-wiki.wikidot.com/a-fellow-scholar)
+    - [deer-and-the-overseers](https://scp-wiki.wikidot.com/deer-and-the-overseers)
+    - [the-grove-of-exiles](https://scp-wiki.wikidot.com/the-grove-of-exiles)
+    - [the-knight-of-flowers](https://scp-wiki.wikidot.com/the-knight-of-flowers)
+    - [djkaktus-s-proposal-j](https://scp-wiki.wikidot.com/djkaktus-s-proposal-j)
+    - [the-great-shucks-of-the-unnamed-lords](https://scp-wiki.wikidot.com/the-great-shucks-of-the-unnamed-lords)
+    - [ute-1919-discofather](https://scp-wiki.wikidot.com/ute-1919-discofather)
+    - [scp-4000-j](https://scp-wiki.wikidot.com/scp-4000-j)
 
 ### [SCP-4001](https://scp-wiki.wikidot.com/scp-4001)
 - **Metatitle**: Alexandria Eternal
@@ -33,7 +33,7 @@
     - [Alexandria Burning](https://scp-wiki.wikidot.com/alexandria-burning) (+232)
     - [Memento Vivere](https://scp-wiki.wikidot.com/memento-vivere) (+37)
 - **Associated with**: 
-    - [scp-4001-j](https://scp-wiki.wikidot.com/alexandria-burning)
+    - [scp-4001-j](https://scp-wiki.wikidot.com/scp-4001-j)
 
 ### [SCP-4002](https://scp-wiki.wikidot.com/scp-4002)
 - **Metatitle**: The Black Moon Howls From Beyond The Edge Of Time
@@ -355,7 +355,7 @@
     - [Tight Bookshelves](https://scp-wiki.wikidot.com/tight-bookshelves) (+35)
     - [Arm-ageddon](https://scp-wiki.wikidot.com/armageddon) (+27)
 - **Associated with**: 
-    - [murphy-law-hub](https://scp-wiki.wikidot.com/never-metafictional-character-i-liked)
+    - [murphy-law-hub](https://scp-wiki.wikidot.com/murphy-law-hub)
 
 ### [SCP-4029](https://scp-wiki.wikidot.com/scp-4029)
 - **Metatitle**: Too Many Legs to be Going Nowhere
@@ -396,7 +396,7 @@
     - [A Necromantic Prelude](https://scp-wiki.wikidot.com/a-necromantic-prelude) (+30)
     - [Solidão](https://scp-wiki.wikidot.com/solidao) (+21)
 - **Associated with**: 
-    - [a-kind-of-redemption](https://scp-wiki.wikidot.com/buggy-hardware)
+    - [a-kind-of-redemption](https://scp-wiki.wikidot.com/a-kind-of-redemption)
 
 ### [SCP-4032](https://scp-wiki.wikidot.com/scp-4032)
 - **Metatitle**: Deadly Fart Berries
@@ -598,7 +598,7 @@
 - **Appears in 1 tales**: 
     - [Systems Patch](https://scp-wiki.wikidot.com/systems-patch) (+49)
 - **Associated with**: 
-    - [the-beast-beneath-the-library](https://scp-wiki.wikidot.com/systems-patch)
+    - [the-beast-beneath-the-library](https://scp-wiki.wikidot.com/the-beast-beneath-the-library)
 
 ### [SCP-4052](https://scp-wiki.wikidot.com/scp-4052)
 - **Metatitle**: Sandwich (disambiguation)
@@ -706,7 +706,7 @@
     - [Gluttony Is Impossible](https://scp-wiki.wikidot.com/gluttony-is-impossible) (+34)
     - [Nobody Likes Having Enemies](https://scp-wiki.wikidot.com/nobody-likes-having-enemies) (+23)
 - **Associated with**: 
-    - [end-of-death-hub](https://scp-wiki.wikidot.com/world-went-beautiful)
+    - [end-of-death-hub](https://scp-wiki.wikidot.com/end-of-death-hub)
 
 ### [SCP-4057](https://scp-wiki.wikidot.com/scp-4057)
 - **Metatitle**: Save Her
@@ -800,7 +800,7 @@
 - **Appears in 1 tales**: 
     - [Like a Rock](https://scp-wiki.wikidot.com/in-memoriam) (+56)
 - **Associated with**: 
-    - [ad-astra-per-aspera-hub](https://scp-wiki.wikidot.com/autonomy-part-v#)
+    - [ad-astra-per-aspera-hub](https://scp-wiki.wikidot.com/ad-astra-per-aspera-hub)
     - [autonomy-part-v](https://scp-wiki.wikidot.com/autonomy-part-v#)
 
 ### [SCP-4070](https://scp-wiki.wikidot.com/scp-4070)
@@ -1113,7 +1113,7 @@
 - **Appears in 1 tales**: 
     - [Katz and Dogs](https://scp-wiki.wikidot.com/katz-and-dogs) (+46)
 - **Associated with**: 
-    - [sotmhub](https://scp-wiki.wikidot.com/katz-and-dogs)
+    - [sotmhub](https://scp-wiki.wikidot.com/sotmhub)
 
 ### [SCP-4114](https://scp-wiki.wikidot.com/scp-4114)
 - **Metatitle**: Occult Escapologist
@@ -1819,7 +1819,7 @@
     - [Gluttony Is Impossible](https://scp-wiki.wikidot.com/gluttony-is-impossible) (+34)
     - [Nobody Likes Having Enemies](https://scp-wiki.wikidot.com/nobody-likes-having-enemies) (+23)
 - **Associated with**: 
-    - [end-of-death-hub](https://scp-wiki.wikidot.com/tim-wilson-s-close-shave)
+    - [end-of-death-hub](https://scp-wiki.wikidot.com/end-of-death-hub)
 
 ### [SCP-4207](https://scp-wiki.wikidot.com/scp-4207)
 - **Metatitle**: Auditory Entity
@@ -2156,7 +2156,7 @@
     - [My Empire of Birds](https://scp-wiki.wikidot.com/my-empire-of-birds) (+57)
     - [Document recovered from a Parallel Universe](https://scp-wiki.wikidot.com/document-recovered-from-a-parallel-universe) (+45)
 - **Associated with**: 
-    - [bird](https://scp-wiki.wikidot.com/document-recovered-from-a-parallel-universe)
+    - [bird](https://scp-wiki.wikidot.com/bird)
 
 ### [SCP-4249](https://scp-wiki.wikidot.com/scp-4249)
 - **Metatitle**: Nothing Really Mattress Anymore, or: Zen And The Art of Hunting Free-Range Furniture
@@ -3419,8 +3419,8 @@
     - [A Necromantic Prelude](https://scp-wiki.wikidot.com/a-necromantic-prelude) (+30)
     - [Solidão](https://scp-wiki.wikidot.com/solidao) (+21)
 - **Associated with**: 
-    - [ambrose-london-prix-fixe](https://scp-wiki.wikidot.com/buggy-hardware)
-    - [apotheosis-hub](https://scp-wiki.wikidot.com/buggy-hardware)
+    - [ambrose-london-prix-fixe](https://scp-wiki.wikidot.com/ambrose-london-prix-fixe)
+    - [apotheosis-hub](https://scp-wiki.wikidot.com/apotheosis-hub)
 
 ### [SCP-4421](https://scp-wiki.wikidot.com/scp-4421)
 - **Metatitle**: Papa Legba's Walkin' Stick
@@ -3474,7 +3474,7 @@
     - [Like a Rock](https://scp-wiki.wikidot.com/in-memoriam) (+56)
     - [Autonomy, Part IV](https://scp-wiki.wikidot.com/autonomy-part-iv) (+19)
 - **Associated with**: 
-    - [broken-masquerade-hub](https://scp-wiki.wikidot.com/forum-post)
+    - [broken-masquerade-hub](https://scp-wiki.wikidot.com/broken-masquerade-hub)
 
 ### [SCP-4428](https://scp-wiki.wikidot.com/scp-4428)
 - **Metatitle**: Dr. Michaels is not in danger.
@@ -3621,7 +3621,7 @@
     - [MZL-1730](https://scp-wiki.wikidot.com/mzl-1730) (+330)
     - [Masquerade's End](https://scp-wiki.wikidot.com/piercing-the-veil) (+252)
 - **Associated with**: 
-    - [corncrake-of-destiny](https://scp-wiki.wikidot.com/mzl-1730)
+    - [corncrake-of-destiny](https://scp-wiki.wikidot.com/corncrake-of-destiny)
 
 ### [SCP-4445](https://scp-wiki.wikidot.com/scp-4445)
 - **Metatitle**: The Day the Music Died
@@ -3821,7 +3821,7 @@
 - **Appears in 1 tales**: 
     - [Cornelius the Collector](https://scp-wiki.wikidot.com/mr-collector) (+28)
 - **Associated with**: 
-    - [wonder-world](https://scp-wiki.wikidot.com/mr-collector)
+    - [wonder-world](https://scp-wiki.wikidot.com/wonder-world)
 
 ### [SCP-4469](https://scp-wiki.wikidot.com/scp-4469)
 - **Metatitle**: Memory Shovel
@@ -3887,7 +3887,7 @@
     - [A Necromantic Prelude](https://scp-wiki.wikidot.com/a-necromantic-prelude) (+30)
     - [Solidão](https://scp-wiki.wikidot.com/solidao) (+21)
 - **Associated with**: 
-    - [ad-astra-per-aspera-hub](https://scp-wiki.wikidot.com/buggy-hardware)
+    - [ad-astra-per-aspera-hub](https://scp-wiki.wikidot.com/ad-astra-per-aspera-hub)
 
 ### [SCP-4476](https://scp-wiki.wikidot.com/scp-4476)
 - **Metatitle**: La Famille Natau
@@ -4208,7 +4208,7 @@
     - [Project Damnerung](https://scp-wiki.wikidot.com/project-damn-oh-fuck) (+100)
     - [What You Are in the Light](https://scp-wiki.wikidot.com/what-you-are-in-the-light) (+36)
 - **Associated with**: 
-    - [end-of-death-hub](https://scp-wiki.wikidot.com/impossible-to-destroy-reptile)
+    - [end-of-death-hub](https://scp-wiki.wikidot.com/end-of-death-hub)
 
 ### [SCP-4515](https://scp-wiki.wikidot.com/scp-4515)
 - **Metatitle**: Why is the Sky?
@@ -4262,8 +4262,8 @@
     - [A Necromantic Prelude](https://scp-wiki.wikidot.com/a-necromantic-prelude) (+30)
     - [Solidão](https://scp-wiki.wikidot.com/solidao) (+21)
 - **Associated with**: 
-    - [non-prophet-organization-hub](https://scp-wiki.wikidot.com/buggy-hardware)
-    - [grant-request-post-mortem-neural-preservation](https://scp-wiki.wikidot.com/buggy-hardware)
+    - [non-prophet-organization-hub](https://scp-wiki.wikidot.com/non-prophet-organization-hub)
+    - [grant-request-post-mortem-neural-preservation](https://scp-wiki.wikidot.com/grant-request-post-mortem-neural-preservation)
 
 ### [SCP-4520](https://scp-wiki.wikidot.com/scp-4520)
 - **Metatitle**: Alea Iacta Est
@@ -4700,8 +4700,8 @@
     - [Gamers Against Weed Dossier](https://scp-wiki.wikidot.com/gamers-against-weed-dossier) (+149)
     - ["Smile! You Are Being Watched!"](https://scp-wiki.wikidot.com/smile-you-are-being-watched) (+58)
 - **Associated with**: 
-    - [start-the-music](https://scp-wiki.wikidot.com/gamers-against-weed-dossier)
-    - [the-eternal-mxtape](https://scp-wiki.wikidot.com/gamers-against-weed-dossier)
+    - [start-the-music](https://scp-wiki.wikidot.com/start-the-music)
+    - [the-eternal-mxtape](https://scp-wiki.wikidot.com/the-eternal-mxtape)
 
 ### [SCP-4582](https://scp-wiki.wikidot.com/scp-4582)
 - **Metatitle**: New (New York, New York) York
@@ -4831,8 +4831,8 @@
 - **Cited by 0 SCPs**
 - **Appears in 0 tales**
 - **Associated with**: 
-    - [the-bowe-decommission-part-two](https://scp-wiki.wikidot.com/the-bowe-decommission-part-one)
-    - [broken-bowe](https://scp-wiki.wikidot.com/the-bowe-decommission-part-one)
+    - [the-bowe-decommission-part-two](https://scp-wiki.wikidot.com/the-bowe-decommission-part-two)
+    - [broken-bowe](https://scp-wiki.wikidot.com/broken-bowe)
     - [the-bowe-decommission-part-one](https://scp-wiki.wikidot.com/the-bowe-decommission-part-one)
 
 ### [SCP-4602](https://scp-wiki.wikidot.com/scp-4602)
@@ -6103,9 +6103,9 @@
     - [SCP-5307](https://scp-wiki.wikidot.com/scp-5307) (Double Donk Juice, +33)
 - **Appears in 0 tales**
 - **Associated with**: 
-    - [ulysses-b-donkman-and-the-mournful-birthday](https://scp-wiki.wikidot.com/ulysses-b-donkman-and-the-heinous-hitman)
-    - [ulysses-b-donkman-and-the-clockwork-bandits](https://scp-wiki.wikidot.com/ulysses-b-donkman-and-the-heinous-hitman)
-    - [ulysses-b-donkman-and-the-foreboding-forest](https://scp-wiki.wikidot.com/ulysses-b-donkman-and-the-heinous-hitman)
+    - [ulysses-b-donkman-and-the-mournful-birthday](https://scp-wiki.wikidot.com/ulysses-b-donkman-and-the-mournful-birthday)
+    - [ulysses-b-donkman-and-the-clockwork-bandits](https://scp-wiki.wikidot.com/ulysses-b-donkman-and-the-clockwork-bandits)
+    - [ulysses-b-donkman-and-the-foreboding-forest](https://scp-wiki.wikidot.com/ulysses-b-donkman-and-the-foreboding-forest)
     - [ulysses-b-donkman-and-the-heinous-hitman](https://scp-wiki.wikidot.com/ulysses-b-donkman-and-the-heinous-hitman)
 
 ### [SCP-4769](https://scp-wiki.wikidot.com/scp-4769)
@@ -6186,7 +6186,7 @@
     - [Signal for the Crack of Dawn](https://scp-wiki.wikidot.com/signal-for-the-crack-of-dawn) (+33)
     - [04/23/87](https://scp-wiki.wikidot.com/04-23-87) (+16)
 - **Associated with**: 
-    - [the-trashfire](https://scp-wiki.wikidot.com/04-23-87)
+    - [the-trashfire](https://scp-wiki.wikidot.com/the-trashfire)
 
 ### [SCP-4777](https://scp-wiki.wikidot.com/scp-4777)
 - **Metatitle**: Connolly Was There
@@ -6270,9 +6270,9 @@
 - **Appears in 1 tales**: 
     - ["Smile! You Are Being Watched!"](https://scp-wiki.wikidot.com/smile-you-are-being-watched) (+58)
 - **Associated with**: 
-    - [the-eternal-mxtape](https://scp-wiki.wikidot.com/smile-you-are-being-watched)
-    - [extra-salty](https://scp-wiki.wikidot.com/smile-you-are-being-watched)
-    - [the-not-too-distant-future](https://scp-wiki.wikidot.com/smile-you-are-being-watched)
+    - [the-eternal-mxtape](https://scp-wiki.wikidot.com/the-eternal-mxtape)
+    - [extra-salty](https://scp-wiki.wikidot.com/extra-salty)
+    - [the-not-too-distant-future](https://scp-wiki.wikidot.com/the-not-too-distant-future)
 
 ### [SCP-4785](https://scp-wiki.wikidot.com/scp-4785)
 - **Metatitle**: Infohazardous Cabinet
@@ -6328,7 +6328,7 @@
     - [A Necromantic Prelude](https://scp-wiki.wikidot.com/a-necromantic-prelude) (+30)
     - [Solidão](https://scp-wiki.wikidot.com/solidao) (+21)
 - **Associated with**: 
-    - [ad-astra-per-aspera-hub](https://scp-wiki.wikidot.com/buggy-hardware)
+    - [ad-astra-per-aspera-hub](https://scp-wiki.wikidot.com/ad-astra-per-aspera-hub)
 
 ### [SCP-4791](https://scp-wiki.wikidot.com/scp-4791)
 - **Metatitle**: The Lady's Matchmaker
@@ -6381,7 +6381,7 @@
     - [A Necromantic Prelude](https://scp-wiki.wikidot.com/a-necromantic-prelude) (+30)
     - [Solidão](https://scp-wiki.wikidot.com/solidao) (+21)
 - **Associated with**: 
-    - [bird](https://scp-wiki.wikidot.com/buggy-hardware)
+    - [bird](https://scp-wiki.wikidot.com/bird)
 
 ### [SCP-4796](https://scp-wiki.wikidot.com/scp-4796)
 - **Metatitle**: Sanctuary of the Sky Pineapples
@@ -7672,7 +7672,7 @@
     - [SCP-4570](https://scp-wiki.wikidot.com/scp-4570) (Almost Heaven, West Virginia, +53)
 - **Appears in 0 tales**
 - **Associated with**: 
-    - [detective-tubb-and-the-case-of-the-capricious-keter](https://scp-wiki.wikidot.com/and-then-it-was-morning)
+    - [detective-tubb-and-the-case-of-the-capricious-keter](https://scp-wiki.wikidot.com/detective-tubb-and-the-case-of-the-capricious-keter)
     - [and-then-it-was-morning](https://scp-wiki.wikidot.com/and-then-it-was-morning)
 
 ### [SCP-4967](https://scp-wiki.wikidot.com/scp-4967)
@@ -7973,5 +7973,5 @@
     - [Find Your Way Back Home](https://scp-wiki.wikidot.com/find-your-way-back-home) (+79)
     - [The Sound of Beeps](https://scp-wiki.wikidot.com/beep-beep) (+32)
 - **Associated with**: 
-    - [no-one-dies-alone](https://scp-wiki.wikidot.com/joey-fucknuts-takes-to-the-skies)
+    - [no-one-dies-alone](https://scp-wiki.wikidot.com/no-one-dies-alone)
 

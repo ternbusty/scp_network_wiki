@@ -63,11 +63,11 @@
     - [Posthuman](https://scp-wiki.wikidot.com/posthuman) (+16)
     - [Into the Beetle Black Yonder](https://scp-wiki.wikidot.com/into-the-beetle-black-yonder) (+15)
 - **Associated with**: 
-    - [spc-2000](https://scp-wiki.wikidot.com/the-fine-print-ii)
-    - [scp-7394-j](https://scp-wiki.wikidot.com/the-fine-print-ii)
-    - [scp-10101-j](https://scp-wiki.wikidot.com/the-fine-print-ii)
-    - [illac](https://scp-wiki.wikidot.com/the-fine-print-ii)
-    - [scp-8851-j](https://scp-wiki.wikidot.com/the-fine-print-ii)
+    - [spc-2000](https://scp-wiki.wikidot.com/spc-2000)
+    - [scp-7394-j](https://scp-wiki.wikidot.com/scp-7394-j)
+    - [scp-10101-j](https://scp-wiki.wikidot.com/scp-10101-j)
+    - [illac](https://scp-wiki.wikidot.com/illac)
+    - [scp-8851-j](https://scp-wiki.wikidot.com/scp-8851-j)
 
 ### [SCP-2001](https://scp-wiki.wikidot.com/scp-2001)
 - **Metatitle**: A Space Oddity
@@ -483,7 +483,7 @@
 - **Appears in 1 tales**: 
     - [The First Fifty-Five](https://scp-wiki.wikidot.com/first55) (+70)
 - **Associated with**: 
-    - [sotmhub](https://scp-wiki.wikidot.com/first55)
+    - [sotmhub](https://scp-wiki.wikidot.com/sotmhub)
 
 ### [SCP-2048](https://scp-wiki.wikidot.com/scp-2048)
 - **Metatitle**: The Virtual World
@@ -823,7 +823,7 @@
     - [Too Insane To Fail](https://scp-wiki.wikidot.com/too-insane-to-fail) (+32)
     - [Second Quarto](https://scp-wiki.wikidot.com/second-quarto) (+29)
 - **Associated with**: 
-    - [stealingsolidarityhub](https://scp-wiki.wikidot.com/the-real-adventures-in-capitalism)
+    - [stealingsolidarityhub](https://scp-wiki.wikidot.com/stealingsolidarityhub)
 
 ### [SCP-2086](https://scp-wiki.wikidot.com/scp-2086)
 - **Metatitle**: Rerouting
@@ -1072,9 +1072,9 @@
     - [Matterminded](https://scp-wiki.wikidot.com/matterminded) (+46)
     - [Do Not Go Gentle](https://scp-wiki.wikidot.com/do-not-go-gentle) (+18)
 - **Associated with**: 
-    - [antimemetics-division-hub](https://scp-wiki.wikidot.com/unthreaded)
-    - [richard-larenz-personal-log](https://scp-wiki.wikidot.com/unthreaded)
-    - [spc-2922](https://scp-wiki.wikidot.com/unthreaded)
+    - [antimemetics-division-hub](https://scp-wiki.wikidot.com/antimemetics-division-hub)
+    - [richard-larenz-personal-log](https://scp-wiki.wikidot.com/richard-larenz-personal-log)
+    - [spc-2922](https://scp-wiki.wikidot.com/spc-2922)
 
 ### [SCP-2112](https://scp-wiki.wikidot.com/scp-2112)
 - **Metatitle**: And the Meek Shall Inherit the Earth
@@ -1083,7 +1083,7 @@
 - **Appears in 1 tales**: 
     - [Counterpoint](https://scp-wiki.wikidot.com/counterpoint) (+65)
 - **Associated with**: 
-    - [sounds-of-silver](https://scp-wiki.wikidot.com/project-proposal-2014-2112)
+    - [sounds-of-silver](https://scp-wiki.wikidot.com/sounds-of-silver)
     - [project-proposal-2014-2112](https://scp-wiki.wikidot.com/project-proposal-2014-2112)
 
 ### [SCP-2113](https://scp-wiki.wikidot.com/scp-2113)
@@ -1130,7 +1130,7 @@
     - [UMBRAL_MIGRATORY_SEQUENCE.txt](https://scp-wiki.wikidot.com/umbral-migratory-sequence) (+68)
     - [The Picture of an Unian](https://scp-wiki.wikidot.com/the-picture-of-an-unian) (+29)
 - **Associated with**: 
-    - [stealingsolidarityhub](https://scp-wiki.wikidot.com/the-real-adventures-in-capitalism)
+    - [stealingsolidarityhub](https://scp-wiki.wikidot.com/stealingsolidarityhub)
 
 ### [SCP-2118](https://scp-wiki.wikidot.com/scp-2118)
 - **Metatitle**: The Lost Child
@@ -1312,7 +1312,7 @@
     - [Recovered Media: The Hard-Boiled Adventures of Murphy Law](https://scp-wiki.wikidot.com/recovered-media-the-hard-boiled-adventures-of-murphy-law) (+116)
     - [The Assassination of Beleaguered Normalcy by the Coward Gamers Against Weed](https://scp-wiki.wikidot.com/the-assassination-of-beleaguered-normalcy-by-the-coward-game) (+92)
 - **Associated with**: 
-    - [scp-2602-photographic-evidence](https://scp-wiki.wikidot.com/recovered-media-the-hard-boiled-adventures-of-murphy-law)
+    - [scp-2602-photographic-evidence](https://scp-wiki.wikidot.com/scp-2602-photographic-evidence)
 
 ### [SCP-2141](https://scp-wiki.wikidot.com/scp-2141)
 - **Metatitle**: Primordial Wyrm
@@ -2312,8 +2312,8 @@
     - [The Clock Shall Strike Again](https://scp-wiki.wikidot.com/the-clock-shall-strike-again) (+27)
     - [Please Let Sleeping Minds Suffer Alone](https://scp-wiki.wikidot.com/salazar1) (+14)
 - **Associated with**: 
-    - [goodnight-miss-moon](https://scp-wiki.wikidot.com/do-they-know-it-s-christmas-time-at-all)
-    - [the-hanged-king-s-comedy](https://scp-wiki.wikidot.com/do-they-know-it-s-christmas-time-at-all)
+    - [goodnight-miss-moon](https://scp-wiki.wikidot.com/goodnight-miss-moon)
+    - [the-hanged-king-s-comedy](https://scp-wiki.wikidot.com/the-hanged-king-s-comedy)
 
 ### [SCP-2265](https://scp-wiki.wikidot.com/scp-2265)
 - **Metatitle**: Dinner with Andrew
@@ -2568,7 +2568,7 @@
     - [The Assassination of Beleaguered Normalcy by the Coward Gamers Against Weed](https://scp-wiki.wikidot.com/the-assassination-of-beleaguered-normalcy-by-the-coward-game) (+92)
     - ["Smile! You Are Being Watched!"](https://scp-wiki.wikidot.com/smile-you-are-being-watched) (+58)
 - **Associated with**: 
-    - [scp-tldr-j](https://scp-wiki.wikidot.com/the-assassination-of-beleaguered-normalcy-by-the-coward-game)
+    - [scp-tldr-j](https://scp-wiki.wikidot.com/scp-tldr-j)
 
 ### [SCP-2294](https://scp-wiki.wikidot.com/scp-2294)
 - **Metatitle**: The Problems At Hand
@@ -2807,7 +2807,7 @@
     - [The Kids Aren't All Right](https://scp-wiki.wikidot.com/the-kids-aren-t-all-right) (+32)
     - [July 5th, 1975](https://scp-wiki.wikidot.com/acts-of-abuse) (+20)
 - **Associated with**: 
-    - [scp-6132-j](https://scp-wiki.wikidot.com/acts-of-abuse)
+    - [scp-6132-j](https://scp-wiki.wikidot.com/scp-6132-j)
 
 ### [SCP-2317](https://scp-wiki.wikidot.com/scp-2317)
 - **Metatitle**: A Door to Another World
@@ -2838,7 +2838,7 @@
     - [Uncle Jeff](https://scp-wiki.wikidot.com/uncle-jeff) (+26)
     - [And The World Felt Like Nothing, Amen](https://scp-wiki.wikidot.com/and-the-world-felt-like-nothing-amen) (+25)
 - **Associated with**: 
-    - [scp-2317-j](https://scp-wiki.wikidot.com/souffle)
+    - [scp-2317-j](https://scp-wiki.wikidot.com/scp-2317-j)
 
 ### [SCP-2318](https://scp-wiki.wikidot.com/scp-2318)
 - **Metatitle**: Country Club Nuisance
@@ -2992,7 +2992,7 @@
     - [More of Fuller's Crap](https://scp-wiki.wikidot.com/more-of-fuller-s-crap) (+28)
     - [Crying Over Spilt Milk](https://scp-wiki.wikidot.com/crying-over-spilt-milk) (+3)
 - **Associated with**: 
-    - [doctor-spanko-hub](https://scp-wiki.wikidot.com/habil-and-qabil)
+    - [doctor-spanko-hub](https://scp-wiki.wikidot.com/doctor-spanko-hub)
 
 ### [SCP-2338](https://scp-wiki.wikidot.com/scp-2338)
 - **Metatitle**: An Unorthodox Adoption
@@ -3060,7 +3060,7 @@
     - [Razumite Games](https://scp-wiki.wikidot.com/razumite-games) (+26)
     - [What Happened Beneath Cronos](https://scp-wiki.wikidot.com/what-happened-beneath-cronos) (+26)
 - **Associated with**: 
-    - [wayfarers-hub](https://scp-wiki.wikidot.com/wayfarers)
+    - [wayfarers-hub](https://scp-wiki.wikidot.com/wayfarers-hub)
 
 ### [SCP-2345](https://scp-wiki.wikidot.com/scp-2345)
 - **Metatitle**: Gray Anatomy
@@ -4264,7 +4264,7 @@
 - **Appears in 1 tales**: 
     - [A Swingset's Song](https://scp-wiki.wikidot.com/a-swingsets-song) (+20)
 - **Associated with**: 
-    - [broken-light-hub](https://scp-wiki.wikidot.com/a-swingsets-song)
+    - [broken-light-hub](https://scp-wiki.wikidot.com/broken-light-hub)
 
 ### [SCP-2484](https://scp-wiki.wikidot.com/scp-2484)
 - **Metatitle**: Parasitic Mayonnaise Worms
@@ -4505,7 +4505,7 @@
     - [Convergence](https://scp-wiki.wikidot.com/convergence) (+69)
     - [The Silent Itch of a Missing Leg](https://scp-wiki.wikidot.com/the-silent-itch-of-a-missing-leg) (+22)
 - **Associated with**: 
-    - [aleph-null-hub](https://scp-wiki.wikidot.com/convergence)
+    - [aleph-null-hub](https://scp-wiki.wikidot.com/aleph-null-hub)
 
 ### [SCP-2509](https://scp-wiki.wikidot.com/scp-2509)
 - **Metatitle**: Hardware Pets
@@ -4605,7 +4605,7 @@
     - [Please, Say My Name](https://scp-wiki.wikidot.com/please-say-my-name) (+59)
     - [1346-1](https://scp-wiki.wikidot.com/1346-1) (+35)
 - **Associated with**: 
-    - [from-syllables-to-lines-to-imagination](https://scp-wiki.wikidot.com/1346-1)
+    - [from-syllables-to-lines-to-imagination](https://scp-wiki.wikidot.com/from-syllables-to-lines-to-imagination)
 
 ### [SCP-2522](https://scp-wiki.wikidot.com/scp-2522)
 - **Metatitle**: hatbot.aic
@@ -4624,8 +4624,8 @@
     - [The Summer Of Bad Memories](https://scp-wiki.wikidot.com/the-summer-of-bad-memories) (+36)
     - [Bewitched, Bothered and Bewildered](https://scp-wiki.wikidot.com/bewitched-bothered-and-bewildered) (+32)
 - **Associated with**: 
-    - [aiad-homescreen](https://scp-wiki.wikidot.com/himinbjoerg)
-    - [scp-2103-j](https://scp-wiki.wikidot.com/himinbjoerg)
+    - [aiad-homescreen](https://scp-wiki.wikidot.com/aiad-homescreen)
+    - [scp-2103-j](https://scp-wiki.wikidot.com/scp-2103-j)
 
 ### [SCP-2523](https://scp-wiki.wikidot.com/scp-2523)
 - **Metatitle**: Goblin Market
@@ -4804,7 +4804,7 @@
     - [Iteration F](https://scp-wiki.wikidot.com/iteration-f) (+143)
     - [Coyotl](https://scp-wiki.wikidot.com/coyotl) (+59)
 - **Associated with**: 
-    - [the-sacred-djehuti](https://scp-wiki.wikidot.com/coyotl)
+    - [the-sacred-djehuti](https://scp-wiki.wikidot.com/the-sacred-djehuti)
 
 ### [SCP-2548](https://scp-wiki.wikidot.com/scp-2548)
 - **Metatitle**: The Friendly Vacuum
@@ -5541,7 +5541,7 @@
 - **Appears in 1 tales**: 
     - [Low Earth Orbit Divinity](https://scp-wiki.wikidot.com/low-earth-orbit-divinity) (+52)
 - **Associated with**: 
-    - [barker](https://scp-wiki.wikidot.com/low-earth-orbit-divinity)
+    - [barker](https://scp-wiki.wikidot.com/barker)
 
 ### [SCP-2625](https://scp-wiki.wikidot.com/scp-2625)
 - **Metatitle**: Chipperee Mine
@@ -6444,7 +6444,7 @@
     - [Inside/Outside](https://scp-wiki.wikidot.com/inside-outside) (+64)
     - [Charon (Part 2: Katabasis)](https://scp-wiki.wikidot.com/charon-part-2-katabasis) (+46)
 - **Associated with**: 
-    - [scp-2719-j](https://scp-wiki.wikidot.com/inside-outside)
+    - [scp-2719-j](https://scp-wiki.wikidot.com/scp-2719-j)
 
 ### [SCP-2720](https://scp-wiki.wikidot.com/scp-2720)
 - **Metatitle**: Penguin Honeymoon Suite
@@ -6465,7 +6465,7 @@
     - [Gamers Against Weed Dossier](https://scp-wiki.wikidot.com/gamers-against-weed-dossier) (+149)
     - [The Assassination of Beleaguered Normalcy by the Coward Gamers Against Weed](https://scp-wiki.wikidot.com/the-assassination-of-beleaguered-normalcy-by-the-coward-game) (+92)
 - **Associated with**: 
-    - [i-just-want-to-get-away-from-me](https://scp-wiki.wikidot.com/the-assassination-of-beleaguered-normalcy-by-the-coward-game)
+    - [i-just-want-to-get-away-from-me](https://scp-wiki.wikidot.com/i-just-want-to-get-away-from-me)
 
 ### [SCP-2722](https://scp-wiki.wikidot.com/scp-2722)
 - **Metatitle**: Straight on 'Til Morning
@@ -7716,7 +7716,7 @@
     - [Letters to a Prophet](https://scp-wiki.wikidot.com/letters-to-a-prophet) (+103)
     - [October 15th, 2012](https://scp-wiki.wikidot.com/october-15th-2012) (+94)
 - **Associated with**: 
-    - [procedure-420-perinaldo](https://scp-wiki.wikidot.com/letters-to-a-prophet)
+    - [procedure-420-perinaldo](https://scp-wiki.wikidot.com/procedure-420-perinaldo)
 
 ### [SCP-2846](https://scp-wiki.wikidot.com/scp-2846)
 - **Metatitle**: The Squid and the Sailor
@@ -8569,7 +8569,7 @@
     - [Who Wants To Live Forever?](https://scp-wiki.wikidot.com/who-wants-to-live-forever) (+61)
     - [After the Lightbulbs Fry](https://scp-wiki.wikidot.com/after-the-lightbulbs-fry) (+43)
 - **Associated with**: 
-    - [spc-2935-j](https://scp-wiki.wikidot.com/persephone-project)
+    - [spc-2935-j](https://scp-wiki.wikidot.com/spc-2935-j)
 
 ### [SCP-2936](https://scp-wiki.wikidot.com/scp-2936)
 - **Metatitle**: Giant Nazi Robot
@@ -8741,7 +8741,7 @@
 - **Appears in 1 tales**: 
     - [Commentary on Selected Items in the Seimei Gallery](https://scp-wiki.wikidot.com/commentary-on-selected-items-in-the-seimei-gallery) (+55)
 - **Associated with**: 
-    - [searching-for-the-demon-foxes-1](https://scp-wiki.wikidot.com/commentary-on-selected-items-in-the-seimei-gallery)
+    - [searching-for-the-demon-foxes-1](https://scp-wiki.wikidot.com/searching-for-the-demon-foxes-1)
 
 ### [SCP-2954](https://scp-wiki.wikidot.com/scp-2954)
 - **Metatitle**: Looping Kaiju Killing
@@ -8859,7 +8859,7 @@
     - [Death Perception](https://scp-wiki.wikidot.com/death-perception) (+77)
     - [The Dedekind Infinite Demographic](https://scp-wiki.wikidot.com/the-dedekind-infinite-demographic) (+52)
 - **Associated with**: 
-    - [spc-2970](https://scp-wiki.wikidot.com/death-perception)
+    - [spc-2970](https://scp-wiki.wikidot.com/spc-2970)
 
 ### [SCP-2971](https://scp-wiki.wikidot.com/scp-2971)
 - **Metatitle**: Whole Lotta (Reality) Shakin' Goin' On!
@@ -9012,7 +9012,7 @@
     - [Getting Into Treble](https://scp-wiki.wikidot.com/getting-into-treble) (+90)
     - [Electronic Data](https://scp-wiki.wikidot.com/electronic-data) (+87)
 - **Associated with**: 
-    - [rogue-ai-nveo4-yvn3e-pn6ug](https://scp-wiki.wikidot.com/getting-into-treble)
+    - [rogue-ai-nveo4-yvn3e-pn6ug](https://scp-wiki.wikidot.com/rogue-ai-nveo4-yvn3e-pn6ug)
 
 ### [SCP-2988](https://scp-wiki.wikidot.com/scp-2988)
 - **Metatitle**: Folly of the Fruit Eater

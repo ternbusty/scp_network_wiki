@@ -70,7 +70,7 @@
     - [psul's proposal](https://scp-wiki.wikidot.com/psul-001) (+46)
     - [Damnatio Memoriae](https://scp-wiki.wikidot.com/damnatio-memoriae) (+45)
 - **Associated with**: 
-    - [conspiracy](https://scp-wiki.wikidot.com/there-are-no-strings-on-me)
+    - [conspiracy](https://scp-wiki.wikidot.com/conspiracy)
 
 ### [SCP-007](https://scp-wiki.wikidot.com/scp-007)
 - **Metatitle**: Abdominal Planet
@@ -151,7 +151,7 @@
     - [A Convincing Lyre](https://scp-wiki.wikidot.com/a-convincing-lyre) (+83)
     - [Our Mutual Guide](https://scp-wiki.wikidot.com/our-mutual-guide) (+63)
 - **Associated with**: 
-    - [on-mount-golgotha-hub](https://scp-wiki.wikidot.com/the-journal-of-k-m-sandoval)
+    - [on-mount-golgotha-hub](https://scp-wiki.wikidot.com/on-mount-golgotha-hub)
 
 ### [SCP-013](https://scp-wiki.wikidot.com/scp-013)
 - **Metatitle**: Blue Lady Cigarettes
@@ -341,8 +341,8 @@
     - [θullsh't](https://scp-wiki.wikidot.com/thullsh-t) (+46)
     - ["And Then I Died" Archive](https://scp-wiki.wikidot.com/and-then-i-died) (unknown)
 - **Associated with**: 
-    - [antimemetics-division-hub](https://scp-wiki.wikidot.com/empedocles)
-    - [sounds-of-silver](https://scp-wiki.wikidot.com/empedocles)
+    - [antimemetics-division-hub](https://scp-wiki.wikidot.com/antimemetics-division-hub)
+    - [sounds-of-silver](https://scp-wiki.wikidot.com/sounds-of-silver)
 
 ### [SCP-034](https://scp-wiki.wikidot.com/scp-034)
 - **Metatitle**: Obsidian Ritual Knife
@@ -438,7 +438,7 @@
     - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1626)
     - [Acquisitions - a Marshall, Carter & Dark Tale Act III](https://scp-wiki.wikidot.com/acquisitions3) (+128)
 - **Associated with**: 
-    - [sc-95-347-00-723](https://scp-wiki.wikidot.com/acquisitions3)
+    - [sc-95-347-00-723](https://scp-wiki.wikidot.com/sc-95-347-00-723)
 
 ### [SCP-043](https://scp-wiki.wikidot.com/scp-043)
 - **Metatitle**: The Beatle
@@ -537,9 +537,9 @@
     - [Ombres Malvants: 4) Blackout](https://scp-wiki.wikidot.com/blackout) (+16)
     - [Time Contest!](https://scp-wiki.wikidot.com/time-contest) (unknown)
 - **Associated with**: 
-    - [scp-049-j](https://scp-wiki.wikidot.com/an-explosive-shout-cracks-the-great-empty-sky)
-    - [the-hanged-king-s-comedy](https://scp-wiki.wikidot.com/an-explosive-shout-cracks-the-great-empty-sky)
-    - [death-and-the-doctors-hub](https://scp-wiki.wikidot.com/an-explosive-shout-cracks-the-great-empty-sky)
+    - [scp-049-j](https://scp-wiki.wikidot.com/scp-049-j)
+    - [the-hanged-king-s-comedy](https://scp-wiki.wikidot.com/the-hanged-king-s-comedy)
+    - [death-and-the-doctors-hub](https://scp-wiki.wikidot.com/death-and-the-doctors-hub)
 
 ### [SCP-050](https://scp-wiki.wikidot.com/scp-050)
 - **Metatitle**: To The Cleverest
@@ -586,8 +586,8 @@
     - [Parenthood](https://scp-wiki.wikidot.com/parenthood) (+56)
     - [Audio Log 185-53](https://scp-wiki.wikidot.com/audio-log-185-53) (+53)
 - **Associated with**: 
-    - [big-weird-dog](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation)
-    - [those-who-lived-on-hub](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation)
+    - [big-weird-dog](https://scp-wiki.wikidot.com/big-weird-dog)
+    - [those-who-lived-on-hub](https://scp-wiki.wikidot.com/those-who-lived-on-hub)
 
 ### [SCP-054](https://scp-wiki.wikidot.com/scp-054)
 - **Metatitle**: Water Nymph
@@ -632,9 +632,9 @@
     - [Don't Forget The Dead](https://scp-wiki.wikidot.com/don-t-forget-the-dead) (+26)
     - [Santa's New Home](https://scp-wiki.wikidot.com/santa-s-new-home) (+19)
 - **Associated with**: 
-    - [alternative-punishment](https://scp-wiki.wikidot.com/stop-going-in-circles)
-    - [antimemetics-division-hub](https://scp-wiki.wikidot.com/stop-going-in-circles)
-    - [a-broken-record](https://scp-wiki.wikidot.com/stop-going-in-circles)
+    - [alternative-punishment](https://scp-wiki.wikidot.com/alternative-punishment)
+    - [antimemetics-division-hub](https://scp-wiki.wikidot.com/antimemetics-division-hub)
+    - [a-broken-record](https://scp-wiki.wikidot.com/a-broken-record)
 
 ### [SCP-056](https://scp-wiki.wikidot.com/scp-056)
 - **Metatitle**: A Beautiful Person
@@ -666,7 +666,7 @@
     - [Folly](https://scp-wiki.wikidot.com/folly) (+156)
     - [Friend, Good!](https://scp-wiki.wikidot.com/friend-good) (+13)
 - **Associated with**: 
-    - [the-drooling-path-part-1](https://scp-wiki.wikidot.com/folly)
+    - [the-drooling-path-part-1](https://scp-wiki.wikidot.com/the-drooling-path-part-1)
 
 ### [SCP-059](https://scp-wiki.wikidot.com/scp-059)
 - **Metatitle**: Radioactive Mineral
@@ -819,10 +819,10 @@
     - [Time](https://scp-wiki.wikidot.com/time) (+46)
     - [And Then I Died...](https://scp-wiki.wikidot.com/and-then-i-died2) (unknown)
 - **Associated with**: 
-    - [verse-of-an-endless-song](https://scp-wiki.wikidot.com/halloween-on-17th-street)
-    - [resurrection](https://scp-wiki.wikidot.com/halloween-on-17th-street)
-    - [oria-4533](https://scp-wiki.wikidot.com/halloween-on-17th-street)
-    - [the-reassembled-one](https://scp-wiki.wikidot.com/halloween-on-17th-street)
+    - [verse-of-an-endless-song](https://scp-wiki.wikidot.com/verse-of-an-endless-song)
+    - [resurrection](https://scp-wiki.wikidot.com/resurrection)
+    - [oria-4533](https://scp-wiki.wikidot.com/oria-4533)
+    - [the-reassembled-one](https://scp-wiki.wikidot.com/the-reassembled-one)
 
 ### [SCP-074](https://scp-wiki.wikidot.com/scp-074)
 - **Metatitle**: Quantum Woodlouse
@@ -918,12 +918,12 @@
     - [Archived Incident 076-2_682](https://scp-wiki.wikidot.com/archived-incident-076-2-682) (+16)
     - [Prometheus and the Eagle](https://scp-wiki.wikidot.com/prometheus-eagle) (+14)
 - **Associated with**: 
-    - [scp-10101-j](https://scp-wiki.wikidot.com/the-flower-of-battle)
-    - [scp-076-j](https://scp-wiki.wikidot.com/the-flower-of-battle)
-    - [verse-of-an-endless-song](https://scp-wiki.wikidot.com/the-flower-of-battle)
-    - [resurrection](https://scp-wiki.wikidot.com/the-flower-of-battle)
-    - [oria-4533](https://scp-wiki.wikidot.com/the-flower-of-battle)
-    - [classicalrevivalindex](https://scp-wiki.wikidot.com/the-flower-of-battle)
+    - [scp-10101-j](https://scp-wiki.wikidot.com/scp-10101-j)
+    - [scp-076-j](https://scp-wiki.wikidot.com/scp-076-j)
+    - [verse-of-an-endless-song](https://scp-wiki.wikidot.com/verse-of-an-endless-song)
+    - [resurrection](https://scp-wiki.wikidot.com/resurrection)
+    - [oria-4533](https://scp-wiki.wikidot.com/oria-4533)
+    - [classicalrevivalindex](https://scp-wiki.wikidot.com/classicalrevivalindex)
 
 ### [SCP-077](https://scp-wiki.wikidot.com/scp-077)
 - **Metatitle**: Rot Skull
@@ -1034,7 +1034,7 @@
     - [Wednesday, 3pm, The Office of Paul Dimaccio](https://scp-wiki.wikidot.com/wednesday-3pm-the-office-of-paul-dimaccio) (+73)
     - [Dimensions 2, 3, and Onward](https://scp-wiki.wikidot.com/dimensions) (+73)
 - **Associated with**: 
-    - [cassandra](https://scp-wiki.wikidot.com/quiet-days)
+    - [cassandra](https://scp-wiki.wikidot.com/cassandra)
 
 ### [SCP-086](https://scp-wiki.wikidot.com/scp-086)
 - **Metatitle**: The Office of Dr. [REDACTED]
@@ -1081,8 +1081,8 @@
     - [It's Just A Jump To The Left](https://scp-wiki.wikidot.com/chapter-9-it-s-just-a-jump-to-the-left) (+55)
     - [A Christmas Caterwaul](https://scp-wiki.wikidot.com/a-christmas-caterwaul) (+47)
 - **Associated with**: 
-    - [etdp-hub-page](https://scp-wiki.wikidot.com/the-real-adventures-in-capitalism)
-    - [scp-10101-j](https://scp-wiki.wikidot.com/the-real-adventures-in-capitalism)
+    - [etdp-hub-page](https://scp-wiki.wikidot.com/etdp-hub-page)
+    - [scp-10101-j](https://scp-wiki.wikidot.com/scp-10101-j)
 
 ### [SCP-090](https://scp-wiki.wikidot.com/scp-090)
 - **Metatitle**: Apocorubik's Cube
@@ -1124,7 +1124,7 @@
     - [Your Future is Bright](https://scp-wiki.wikidot.com/your-future-is-bright) (+67)
     - [A Vale of Tears](https://scp-wiki.wikidot.com/a-vale-of-tears) (+52)
 - **Associated with**: 
-    - [him-and-the-other-him](https://scp-wiki.wikidot.com/habil-and-qabil)
+    - [him-and-the-other-him](https://scp-wiki.wikidot.com/him-and-the-other-him)
 
 ### [SCP-094](https://scp-wiki.wikidot.com/scp-094)
 - **Metatitle**: Miniature Event Horizon
@@ -1168,7 +1168,7 @@
     - [Dispatch from the Paintball War](https://scp-wiki.wikidot.com/dispatch-from-the-paintball-war) (+47)
     - [Fading](https://scp-wiki.wikidot.com/fading) (+24)
 - **Associated with**: 
-    - [hides-the-face-lies-the-snake-the-sun-in-my-disgrace](https://scp-wiki.wikidot.com/habil-and-qabil)
+    - [hides-the-face-lies-the-snake-the-sun-in-my-disgrace](https://scp-wiki.wikidot.com/hides-the-face-lies-the-snake-the-sun-in-my-disgrace)
 
 ### [SCP-097](https://scp-wiki.wikidot.com/scp-097)
 - **Metatitle**: Old Fairgrounds
@@ -1187,7 +1187,7 @@
     - [The Day the Clown Cried](https://scp-wiki.wikidot.com/the-day-the-clown-cried) (+12)
     - [Halloween Contest!](https://scp-wiki.wikidot.com/halloween-contest) (unknown)
 - **Associated with**: 
-    - [black-autumn-hub](https://scp-wiki.wikidot.com/chapter-11-equinox-s-rise)
+    - [black-autumn-hub](https://scp-wiki.wikidot.com/black-autumn-hub)
 
 ### [SCP-098](https://scp-wiki.wikidot.com/scp-098)
 - **Metatitle**: Surgeon Crabs
@@ -1276,9 +1276,9 @@
     - [Audio Log 185-53](https://scp-wiki.wikidot.com/audio-log-185-53) (+53)
     - [The Warrior And The... Clown?](https://scp-wiki.wikidot.com/the-warrior-and-the-clown) (+52)
 - **Associated with**: 
-    - [scp-10101-j](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation)
-    - [classicalrevivalindex](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation)
-    - [resurrection](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation)
+    - [scp-10101-j](https://scp-wiki.wikidot.com/scp-10101-j)
+    - [classicalrevivalindex](https://scp-wiki.wikidot.com/classicalrevivalindex)
+    - [resurrection](https://scp-wiki.wikidot.com/resurrection)
 
 ### [SCP-106](https://scp-wiki.wikidot.com/scp-106)
 - **Metatitle**: The Old Man
@@ -1321,9 +1321,9 @@
     - [Old Roots](https://scp-wiki.wikidot.com/old-roots) (+22)
     - [Pain](https://scp-wiki.wikidot.com/the-rotting-man-of-stalingrad) (+19)
 - **Associated with**: 
-    - [matryoshka](https://scp-wiki.wikidot.com/pockets)
-    - [in-his-own-image](https://scp-wiki.wikidot.com/pockets)
-    - [scp-8851-j](https://scp-wiki.wikidot.com/pockets)
+    - [matryoshka](https://scp-wiki.wikidot.com/matryoshka)
+    - [in-his-own-image](https://scp-wiki.wikidot.com/in-his-own-image)
+    - [scp-8851-j](https://scp-wiki.wikidot.com/scp-8851-j)
 
 ### [SCP-107](https://scp-wiki.wikidot.com/scp-107)
 - **Metatitle**: The Turtle Shell
@@ -1597,7 +1597,7 @@
     - [SCP-3477](https://scp-wiki.wikidot.com/scp-3477) (Will the Real Harold Holt Please Stand Up?, +247)
 - **Appears in 0 tales**
 - **Associated with**: 
-    - [the-horn-blows-into-the-morning](https://scp-wiki.wikidot.com/dire-tidings)
+    - [the-horn-blows-into-the-morning](https://scp-wiki.wikidot.com/the-horn-blows-into-the-morning)
     - [dire-tidings](https://scp-wiki.wikidot.com/dire-tidings)
 
 ### [SCP-139](https://scp-wiki.wikidot.com/scp-139)
@@ -1653,9 +1653,9 @@
     - [The Great Siege of Julabin](https://scp-wiki.wikidot.com/the-great-siege-of-julabin) (+22)
     - [SCP TV Pilot: Into the Deep End](https://scp-wiki.wikidot.com/scp-tv-pilot-into-the-deep-end) (+15)
 - **Associated with**: 
-    - [daevite](https://scp-wiki.wikidot.com/goc-supplemental-threat-entities)
-    - [the-book-of-dave](https://scp-wiki.wikidot.com/goc-supplemental-threat-entities)
-    - [spc-140](https://scp-wiki.wikidot.com/goc-supplemental-threat-entities)
+    - [daevite](https://scp-wiki.wikidot.com/system:page-tags/tag/daevite#pages)
+    - [the-book-of-dave](https://scp-wiki.wikidot.com/the-book-of-dave)
+    - [spc-140](https://scp-wiki.wikidot.com/spc-140)
 
 ### [SCP-141](https://scp-wiki.wikidot.com/scp-141)
 - **Metatitle**: Codex Damnatio
@@ -1683,7 +1683,7 @@
     - [Making a Scene](https://scp-wiki.wikidot.com/making-a-scene) (+48)
     - [24th December 2008 14th January 2009](https://scp-wiki.wikidot.com/24th-december-2008-14th-january-2009) (+10)
 - **Associated with**: 
-    - [olympia-project](https://scp-wiki.wikidot.com/experiment-log-914-theta)
+    - [olympia-project](https://scp-wiki.wikidot.com/olympia-project)
 
 ### [SCP-144](https://scp-wiki.wikidot.com/scp-144)
 - **Metatitle**: Tibetan Rope to Heaven
@@ -1766,9 +1766,9 @@
     - [Olympia Integration Experiment BETA](https://scp-wiki.wikidot.com/olympia-integration-experiment-beta) (+16)
     - [13th-23rd December 2008](https://scp-wiki.wikidot.com/13th-23rd-december-2008) (+10)
 - **Associated with**: 
-    - [scp-80-k-j](https://scp-wiki.wikidot.com/scp-5308-j)
-    - [scp-100-j](https://scp-wiki.wikidot.com/scp-5308-j)
-    - [end-of-olympians-hub](https://scp-wiki.wikidot.com/scp-5308-j)
+    - [scp-80-k-j](https://scp-wiki.wikidot.com/scp-80-k-j)
+    - [scp-100-j](https://scp-wiki.wikidot.com/scp-100-j)
+    - [end-of-olympians-hub](https://scp-wiki.wikidot.com/end-of-olympians-hub)
     - [scp-5308-j](https://scp-wiki.wikidot.com/scp-5308-j)
 
 ### [SCP-149](https://scp-wiki.wikidot.com/scp-149)
@@ -1875,7 +1875,7 @@
     - [Olympia Integration Experiment ALPHA](https://scp-wiki.wikidot.com/olympia-integration-experiment-alpha) (+20)
     - [Olympia Integration Experiment BETA](https://scp-wiki.wikidot.com/olympia-integration-experiment-beta) (+16)
 - **Associated with**: 
-    - [olympia-project](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation)
+    - [olympia-project](https://scp-wiki.wikidot.com/olympia-project)
 
 ### [SCP-159](https://scp-wiki.wikidot.com/scp-159)
 - **Metatitle**: The Perfect Lock
@@ -2104,9 +2104,9 @@
     - [The Undoing](https://scp-wiki.wikidot.com/the-undoing) (+23)
     - [Hunted](https://scp-wiki.wikidot.com/hunted) (+16)
 - **Associated with**: 
-    - [those-who-lived-on-hub](https://scp-wiki.wikidot.com/her-masterpiece)
-    - [scp-173-j](https://scp-wiki.wikidot.com/her-masterpiece)
-    - [spc-173-j](https://scp-wiki.wikidot.com/her-masterpiece)
+    - [those-who-lived-on-hub](https://scp-wiki.wikidot.com/those-who-lived-on-hub)
+    - [scp-173-j](https://scp-wiki.wikidot.com/scp-173-j)
+    - [spc-173-j](https://scp-wiki.wikidot.com/spc-173-j)
 
 ### [SCP-174](https://scp-wiki.wikidot.com/scp-174)
 - **Metatitle**: Ventriloquist's Dummy
@@ -2142,7 +2142,7 @@
 - **Appears in 1 tales**: 
     - [Acquisitions - a Marshall, Carter & Dark Tale Act II](https://scp-wiki.wikidot.com/acquisitions2) (+115)
 - **Associated with**: 
-    - [scp-10101-j](https://scp-wiki.wikidot.com/acquisitions2)
+    - [scp-10101-j](https://scp-wiki.wikidot.com/scp-10101-j)
 
 ### [SCP-178](https://scp-wiki.wikidot.com/scp-178)
 - **Metatitle**: "3-D" Specs
@@ -2638,9 +2638,9 @@
     - [Audio Log 185-53](https://scp-wiki.wikidot.com/audio-log-185-53) (+53)
     - [Don't Call Us, We'll Find You](https://scp-wiki.wikidot.com/don-t-call-us-we-ll-find-you) (+46)
 - **Associated with**: 
-    - [kte-2013-kapala-mendes](https://scp-wiki.wikidot.com/fear-alone)
-    - [scp-10101-j](https://scp-wiki.wikidot.com/fear-alone)
-    - [scp-231-j](https://scp-wiki.wikidot.com/fear-alone)
+    - [kte-2013-kapala-mendes](https://scp-wiki.wikidot.com/kte-2013-kapala-mendes)
+    - [scp-10101-j](https://scp-wiki.wikidot.com/scp-10101-j)
+    - [scp-231-j](https://scp-wiki.wikidot.com/scp-231-j)
 
 ### [SCP-232](https://scp-wiki.wikidot.com/scp-232)
 - **Metatitle**: Jack Proton's Atomic Zapper
@@ -2728,10 +2728,10 @@
     - [Retirement Plans](https://scp-wiki.wikidot.com/retirement-plans) (+11)
     - [And Then I Died...](https://scp-wiki.wikidot.com/and-then-i-died2) (unknown)
 - **Associated with**: 
-    - [the-horn-blows-into-the-morning](https://scp-wiki.wikidot.com/halloween-on-17th-street)
-    - [the-tutelage-of-a-brother](https://scp-wiki.wikidot.com/halloween-on-17th-street)
-    - [arnven-burns](https://scp-wiki.wikidot.com/halloween-on-17th-street)
-    - [dire-tidings](https://scp-wiki.wikidot.com/halloween-on-17th-street)
+    - [the-horn-blows-into-the-morning](https://scp-wiki.wikidot.com/the-horn-blows-into-the-morning)
+    - [the-tutelage-of-a-brother](https://scp-wiki.wikidot.com/the-tutelage-of-a-brother)
+    - [arnven-burns](https://scp-wiki.wikidot.com/arnven-burns)
+    - [dire-tidings](https://scp-wiki.wikidot.com/dire-tidings)
 
 ### [SCP-240](https://scp-wiki.wikidot.com/scp-240)
 - **Metatitle**: Breath-Powered Flying Machine
@@ -3229,7 +3229,7 @@
     - [Interlude: An Internal Memo Regarding a Theft](https://scp-wiki.wikidot.com/internal-memo-regarding-a-theft) (+49)
     - ["And Then I Died" Archive](https://scp-wiki.wikidot.com/and-then-i-died) (unknown)
 - **Associated with**: 
-    - [those-who-lived-on-hub](https://scp-wiki.wikidot.com/and-then-i-died)
+    - [those-who-lived-on-hub](https://scp-wiki.wikidot.com/those-who-lived-on-hub)
 
 ### [SCP-304](https://scp-wiki.wikidot.com/scp-304)
 - **Metatitle**: The Signal
@@ -3364,7 +3364,7 @@
     - [Code Brown](https://scp-wiki.wikidot.com/codebrown) (+156)
     - [In The End: We Dare Not Go A Hunting](https://scp-wiki.wikidot.com/intheendwedarenotgoahunting) (+12)
 - **Associated with**: 
-    - [jane](https://scp-wiki.wikidot.com/intheendwedarenotgoahunting)
+    - [jane](https://scp-wiki.wikidot.com/jane)
 
 ### [SCP-322](https://scp-wiki.wikidot.com/scp-322)
 - **Metatitle**: "Grow Your Own Castle" Kit
@@ -3449,7 +3449,7 @@
 - **Appears in 1 tales**: 
     - [July 5th, 1975](https://scp-wiki.wikidot.com/acts-of-abuse) (+20)
 - **Associated with**: 
-    - [remembrance](https://scp-wiki.wikidot.com/acts-of-abuse)
+    - [remembrance](https://scp-wiki.wikidot.com/remembrance)
 
 ### [SCP-333](https://scp-wiki.wikidot.com/scp-333)
 - **Metatitle**: City in a Symphony
@@ -3573,7 +3573,7 @@
     - [What I'm Here For](https://scp-wiki.wikidot.com/what-i-m-here-for) (+21)
     - [Retirement Plans](https://scp-wiki.wikidot.com/retirement-plans) (+11)
 - **Associated with**: 
-    - [competitive-eschatology-hub](https://scp-wiki.wikidot.com/oblivious)
+    - [competitive-eschatology-hub](https://scp-wiki.wikidot.com/competitive-eschatology-hub)
 
 ### [SCP-344](https://scp-wiki.wikidot.com/scp-344)
 - **Metatitle**: Schrödinger's Can Opener
@@ -4191,10 +4191,10 @@
     - [Magnum Opus; or, A Diatribe In Defence Of Cliche](https://scp-wiki.wikidot.com/magnum-opus-or-a-diatribe-in-defence-of-cliche) (+63)
     - [A Failed Two Weeks Notice](https://scp-wiki.wikidot.com/a-failed-two-weeks-notice) (+59)
 - **Associated with**: 
-    - [sounds-of-silver](https://scp-wiki.wikidot.com/never-metafictional-character-i-liked)
-    - [operation-overmeta](https://scp-wiki.wikidot.com/never-metafictional-character-i-liked)
-    - [murphy-law-hub](https://scp-wiki.wikidot.com/never-metafictional-character-i-liked)
-    - [void-dancer-hub](https://scp-wiki.wikidot.com/never-metafictional-character-i-liked)
+    - [sounds-of-silver](https://scp-wiki.wikidot.com/sounds-of-silver)
+    - [operation-overmeta](https://scp-wiki.wikidot.com/operation-overmeta)
+    - [murphy-law-hub](https://scp-wiki.wikidot.com/murphy-law-hub)
+    - [void-dancer-hub](https://scp-wiki.wikidot.com/void-dancer-hub)
 
 ### [SCP-424](https://scp-wiki.wikidot.com/scp-424)
 - **Metatitle**: Nanomimes
@@ -4227,9 +4227,9 @@
     - [What Lies Ahead](https://scp-wiki.wikidot.com/what-lies-ahead) (+91)
     - [Let Me Guess, Applesauce?](https://scp-wiki.wikidot.com/let-me-guess-applesauce) (+55)
 - **Associated with**: 
-    - [hello-i-am-an-eldritch-horror](https://scp-wiki.wikidot.com/stare)
-    - [operation-overmeta](https://scp-wiki.wikidot.com/stare)
-    - [spc-993](https://scp-wiki.wikidot.com/stare)
+    - [hello-i-am-an-eldritch-horror](https://scp-wiki.wikidot.com/hello-i-am-an-eldritch-horror)
+    - [operation-overmeta](https://scp-wiki.wikidot.com/operation-overmeta)
+    - [spc-993](https://scp-wiki.wikidot.com/spc-993)
 
 ### [SCP-427](https://scp-wiki.wikidot.com/scp-427)
 - **Metatitle**: Lovecraftian Locket
@@ -4551,7 +4551,7 @@
     - [1](https://scp-wiki.wikidot.com/1) (+211)
     - [Habil and Qabil](https://scp-wiki.wikidot.com/habil-and-qabil) (+104)
 - **Associated with**: 
-    - [tko](https://scp-wiki.wikidot.com/habil-and-qabil)
+    - [tko](https://scp-wiki.wikidot.com/tko)
 
 ### [SCP-459](https://scp-wiki.wikidot.com/scp-459)
 - **Metatitle**: Interplanetary Thermostat
@@ -4948,7 +4948,7 @@
     - [Mothers Day](https://scp-wiki.wikidot.com/mothers-day) (+21)
     - [Hop On Hop Off](https://scp-wiki.wikidot.com/hop-on-hop-off) (+14)
 - **Associated with**: 
-    - [spc-507](https://scp-wiki.wikidot.com/habil-and-qabil)
+    - [spc-507](https://scp-wiki.wikidot.com/spc-507)
 
 ### [SCP-508](https://scp-wiki.wikidot.com/scp-508)
 - **Metatitle**: Random-dot Stereogram
@@ -6474,14 +6474,14 @@
     - [And Then I Died...](https://scp-wiki.wikidot.com/and-then-i-died2) (unknown)
     - [Time Contest!](https://scp-wiki.wikidot.com/time-contest) (unknown)
 - **Associated with**: 
-    - [scp-10101-j](https://scp-wiki.wikidot.com/never-metafictional-character-i-liked)
-    - [scp-682-j](https://scp-wiki.wikidot.com/never-metafictional-character-i-liked)
-    - [big-weird-dog](https://scp-wiki.wikidot.com/never-metafictional-character-i-liked)
-    - [spc-682](https://scp-wiki.wikidot.com/never-metafictional-character-i-liked)
-    - [those-who-lived-on-hub](https://scp-wiki.wikidot.com/never-metafictional-character-i-liked)
-    - [illac](https://scp-wiki.wikidot.com/never-metafictional-character-i-liked)
-    - [scp-682-cu](https://scp-wiki.wikidot.com/never-metafictional-character-i-liked)
-    - [summer-s-exile](https://scp-wiki.wikidot.com/never-metafictional-character-i-liked)
+    - [scp-10101-j](https://scp-wiki.wikidot.com/scp-10101-j)
+    - [scp-682-j](https://scp-wiki.wikidot.com/scp-682-j)
+    - [big-weird-dog](https://scp-wiki.wikidot.com/big-weird-dog)
+    - [spc-682](https://scp-wiki.wikidot.com/spc-682)
+    - [those-who-lived-on-hub](https://scp-wiki.wikidot.com/those-who-lived-on-hub)
+    - [illac](https://scp-wiki.wikidot.com/illac)
+    - [scp-682-cu](https://scp-wiki.wikidot.com/scp-682-cu)
+    - [summer-s-exile](https://scp-wiki.wikidot.com/summer-s-exile)
 
 ### [SCP-683](https://scp-wiki.wikidot.com/scp-683)
 - **Metatitle**: Refrigerator Art
@@ -6621,8 +6621,8 @@
     - [Unshelved](https://scp-wiki.wikidot.com/chapter-7-unshelved) (+55)
     - [Facetious Fanatics](https://scp-wiki.wikidot.com/facetious-fanatics) (+52)
 - **Associated with**: 
-    - [only-game-in-town-hub](https://scp-wiki.wikidot.com/the-real-adventures-in-capitalism)
-    - [hanged-king](https://scp-wiki.wikidot.com/the-real-adventures-in-capitalism)
+    - [only-game-in-town-hub](https://scp-wiki.wikidot.com/only-game-in-town-hub)
+    - [hanged-king](https://scp-wiki.wikidot.com/system:page-tags/tag/hanged-king#pages)
 
 ### [SCP-702](https://scp-wiki.wikidot.com/scp-702)
 - **Metatitle**: The Trader's Residence
@@ -7982,7 +7982,7 @@
     - [Children Of Doubt](https://scp-wiki.wikidot.com/children-of-doubt) (+49)
     - [Five Questions](https://scp-wiki.wikidot.com/five-questions) (unknown)
 - **Associated with**: 
-    - [sc-49-785-52-543](https://scp-wiki.wikidot.com/white-knight)
+    - [sc-49-785-52-543](https://scp-wiki.wikidot.com/sc-49-785-52-543)
 
 ### [SCP-885](https://scp-wiki.wikidot.com/scp-885)
 - **Metatitle**: Living Vacuum
@@ -8670,7 +8670,7 @@
     - [Fullmusic Astrobiologist](https://scp-wiki.wikidot.com/fullmusic-astrobiologist) (+20)
     - [Ombres Malvants: 4) Blackout](https://scp-wiki.wikidot.com/blackout) (+16)
 - **Associated with**: 
-    - [wwydftltimd-hub](https://scp-wiki.wikidot.com/the-last-things-dr-darryl-loyd-ever-did-in-chronological-ord)
+    - [wwydftltimd-hub](https://scp-wiki.wikidot.com/wwydftltimd-hub)
 
 ### [SCP-953](https://scp-wiki.wikidot.com/scp-953)
 - **Metatitle**: Polymorphic Humanoid
@@ -8688,7 +8688,7 @@
     - [숲의 여우 (The Fox In The Forest)](https://scp-wiki.wikidot.com/the-fox-in-the-forest) (+11)
     - [I Don't Believe In Luck, Just Misfortune](https://scp-wiki.wikidot.com/misfortune) (+8)
 - **Associated with**: 
-    - [scp-10101-j](https://scp-wiki.wikidot.com/gumiho)
+    - [scp-10101-j](https://scp-wiki.wikidot.com/scp-10101-j)
     - [gumiho](https://scp-wiki.wikidot.com/gumiho)
 
 ### [SCP-954](https://scp-wiki.wikidot.com/scp-954)
@@ -8804,8 +8804,8 @@
     - [Fragments](https://scp-wiki.wikidot.com/fragments) (+45)
     - ["And Then I Died" Archive](https://scp-wiki.wikidot.com/and-then-i-died) (unknown)
 - **Associated with**: 
-    - [note-immortality-amulet](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation)
-    - [doctor-bright](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation)
+    - [note-immortality-amulet](https://scp-wiki.wikidot.com/note-immortality-amulet)
+    - [doctor-bright](https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-bright#pages)
 
 ### [SCP-964](https://scp-wiki.wikidot.com/scp-964)
 - **Metatitle**: Indescribable Polymorph
@@ -9081,8 +9081,8 @@
     - [Clowning Around](https://scp-wiki.wikidot.com/clowning-around) (+28)
     - [Deadalive Deadalive](https://scp-wiki.wikidot.com/deadalive-deadalive) (+16)
 - **Associated with**: 
-    - [spc-993](https://scp-wiki.wikidot.com/deadalive-deadalive)
-    - [competitive-eschatology-hub](https://scp-wiki.wikidot.com/deadalive-deadalive)
+    - [spc-993](https://scp-wiki.wikidot.com/spc-993)
+    - [competitive-eschatology-hub](https://scp-wiki.wikidot.com/competitive-eschatology-hub)
 
 ### [SCP-994](https://scp-wiki.wikidot.com/scp-994)
 - **Metatitle**: Some Silver Dishes

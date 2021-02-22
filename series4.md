@@ -69,7 +69,7 @@
     - [It’s all coming back, you understand? I don't like it!](https://scp-wiki.wikidot.com/its-all-coming-back-dont-you-understand) (+30)
     - [They Are Not Laughing With You](https://scp-wiki.wikidot.com/they-are-laughing-at-you) (+22)
 - **Associated with**: 
-    - [atzak-hub](https://scp-wiki.wikidot.com/atzak-i)
+    - [atzak-hub](https://scp-wiki.wikidot.com/atzak-hub)
 
 ### [SCP-3001](https://scp-wiki.wikidot.com/scp-3001)
 - **Metatitle**: Red Reality
@@ -1509,7 +1509,7 @@
     - [The Thing at the Bottom of My Dreams](https://scp-wiki.wikidot.com/the-thing-at-the-bottom-of-my-dreams) (+115)
     - [Fifthdation](https://scp-wiki.wikidot.com/fifthdation) (+78)
 - **Associated with**: 
-    - [antimemetics-division-hub](https://scp-wiki.wikidot.com/the-thing-at-the-bottom-of-my-dreams)
+    - [antimemetics-division-hub](https://scp-wiki.wikidot.com/antimemetics-division-hub)
 
 ### [SCP-3126](https://scp-wiki.wikidot.com/scp-3126)
 - **Metatitle**: The Immobile Muse
@@ -4052,7 +4052,7 @@
     - [Unbidden](https://scp-wiki.wikidot.com/unbidden) (+54)
     - [Ignorance Is Bliss](https://scp-wiki.wikidot.com/ignorance-is-bliss) (+45)
 - **Associated with**: 
-    - [present-tense](https://scp-wiki.wikidot.com/ignorance-is-bliss)
+    - [present-tense](https://scp-wiki.wikidot.com/present-tense)
 
 ### [SCP-3427](https://scp-wiki.wikidot.com/scp-3427)
 - **Metatitle**: Anatomical Civilization
@@ -4218,7 +4218,7 @@
     - [Do You Remember Funerals?](https://scp-wiki.wikidot.com/do-you-remember-funerals) (+120)
     - [Memento Vivere](https://scp-wiki.wikidot.com/memento-vivere) (+37)
 - **Associated with**: 
-    - [end-of-death-hub](https://scp-wiki.wikidot.com/impossible-to-destroy-reptile)
+    - [end-of-death-hub](https://scp-wiki.wikidot.com/end-of-death-hub)
 
 ### [SCP-3449](https://scp-wiki.wikidot.com/scp-3449)
 - **Metatitle**: The Things Left Unsaid
@@ -4578,7 +4578,7 @@
     - [Headache](https://scp-wiki.wikidot.com/that-buzzing-behind-your-eye) (+61)
     - [The Postmodern Prometheus](https://scp-wiki.wikidot.com/the-postmodern-prometheus) (+50)
 - **Associated with**: 
-    - [schulman-ny-programmable-mnestic-device-ac34d-nc77q-95dcs](https://scp-wiki.wikidot.com/when-the-time-comes-i-do-not-want-to-be-forgotten)
+    - [schulman-ny-programmable-mnestic-device-ac34d-nc77q-95dcs](https://scp-wiki.wikidot.com/schulman-ny-programmable-mnestic-device-ac34d-nc77q-95dcs)
 
 ### [SCP-3485](https://scp-wiki.wikidot.com/scp-3485)
 - **Metatitle**: Omega Messier
@@ -4973,7 +4973,7 @@
     - [A Storm More Foul, A Land Less Fair](https://scp-wiki.wikidot.com/storm-more-foul-land-less-fair) (+53)
     - [Project Sensuikan](https://scp-wiki.wikidot.com/project-sensuikan) (+38)
 - **Associated with**: 
-    - [the-kaiju-sea](https://scp-wiki.wikidot.com/storm-more-foul-land-less-fair)
+    - [the-kaiju-sea](https://scp-wiki.wikidot.com/the-kaiju-sea)
 
 ### [SCP-3535](https://scp-wiki.wikidot.com/scp-3535)
 - **Metatitle**: Casus Lignum
@@ -5228,7 +5228,7 @@
     - [Hector and Jacob](https://scp-wiki.wikidot.com/hector-and-jacob) (+39)
     - [The Halloween Watch](https://scp-wiki.wikidot.com/the-halloween-watch) (+24)
 - **Associated with**: 
-    - [end-of-line-hub](https://scp-wiki.wikidot.com/the-vanishing-of-vincent-anderson)
+    - [end-of-line-hub](https://scp-wiki.wikidot.com/end-of-line-hub)
 
 ### [SCP-3561](https://scp-wiki.wikidot.com/scp-3561)
 - **Metatitle**: An Unfinished Work
@@ -6624,7 +6624,7 @@
     - [A Necromantic Prelude](https://scp-wiki.wikidot.com/a-necromantic-prelude) (+30)
     - [Solidão](https://scp-wiki.wikidot.com/solidao) (+21)
 - **Associated with**: 
-    - [no-sense-crying](https://scp-wiki.wikidot.com/buggy-hardware)
+    - [no-sense-crying](https://scp-wiki.wikidot.com/no-sense-crying)
 
 ### [SCP-3740](https://scp-wiki.wikidot.com/scp-3740)
 - **Metatitle**: God Is Dumb
@@ -7050,7 +7050,7 @@
     - [A Necromantic Prelude](https://scp-wiki.wikidot.com/a-necromantic-prelude) (+30)
     - [Solidão](https://scp-wiki.wikidot.com/solidao) (+21)
 - **Associated with**: 
-    - [spc-3787](https://scp-wiki.wikidot.com/buggy-hardware)
+    - [spc-3787](https://scp-wiki.wikidot.com/spc-3787)
 
 ### [SCP-3788](https://scp-wiki.wikidot.com/scp-3788)
 - **Metatitle**: Titanic Super Soaker
@@ -7635,9 +7635,9 @@
     - [The Best Laid Plans](https://scp-wiki.wikidot.com/the-best-laid-plans) (+44)
     - [Non-Volatile Memory](https://scp-wiki.wikidot.com/non-volatile-memory) (+42)
 - **Associated with**: 
-    - [austringers](https://scp-wiki.wikidot.com/system:page-tags/tag/anderson#pages)
-    - [the-elusive-anderson](https://scp-wiki.wikidot.com/system:page-tags/tag/anderson#pages)
-    - [end-of-line-hub](https://scp-wiki.wikidot.com/system:page-tags/tag/anderson#pages)
+    - [austringers](https://scp-wiki.wikidot.com/austringers)
+    - [the-elusive-anderson](https://scp-wiki.wikidot.com/the-elusive-anderson)
+    - [end-of-line-hub](https://scp-wiki.wikidot.com/end-of-line-hub)
     - [anderson](https://scp-wiki.wikidot.com/system:page-tags/tag/anderson#pages)
 
 ### [SCP-3861](https://scp-wiki.wikidot.com/scp-3861)
@@ -7726,7 +7726,7 @@
     - [ΩK](https://scp-wiki.wikidot.com/omega-k) (+206)
     - [The Hitchhiker's Guide to the Library](https://scp-wiki.wikidot.com/the-hitchhiker-s-guide-to-the-library) (+53)
 - **Associated with**: 
-    - [end-of-death-hub](https://scp-wiki.wikidot.com/the-hitchhiker-s-guide-to-the-library)
+    - [end-of-death-hub](https://scp-wiki.wikidot.com/end-of-death-hub)
 
 ### [SCP-3867](https://scp-wiki.wikidot.com/scp-3867)
 - **Metatitle**: ♡♡♡Sweet Cats & Perfect Dogs!♡♡♡
@@ -8351,7 +8351,7 @@
     - [Zero Hour](https://scp-wiki.wikidot.com/zero-hour) (+28)
     - [Apologies and Redemption](https://scp-wiki.wikidot.com/apologies-and-redemption) (+28)
 - **Associated with**: 
-    - [critter-profile-genghis](https://scp-wiki.wikidot.com/the-morality-of-insects)
+    - [critter-profile-genghis](https://scp-wiki.wikidot.com/critter-profile-genghis)
 
 ### [SCP-3917](https://scp-wiki.wikidot.com/scp-3917)
 - **Metatitle**: Beetles in a Jar
@@ -8914,7 +8914,7 @@
     - [ΩK](https://scp-wiki.wikidot.com/omega-k) (+206)
     - [Tales of the Ethics Committee: 5 Reasons The Foundation Wants A Robot Army](https://scp-wiki.wikidot.com/the-foundation-wants-a-robot-army) (+152)
 - **Associated with**: 
-    - [end-of-death-hub](https://scp-wiki.wikidot.com/in-the-clutches-of-life)
+    - [end-of-death-hub](https://scp-wiki.wikidot.com/end-of-death-hub)
 
 ### [SCP-3985](https://scp-wiki.wikidot.com/scp-3985)
 - **Metatitle**: Focus of a Regulatory Dispute
@@ -9054,5 +9054,5 @@
     - [The William Penn Iteration](https://scp-wiki.wikidot.com/the-william-penn-iteration) (+31)
     - [Dent on Plaster Cast](https://scp-wiki.wikidot.com/surface-of-plaster) (+22)
 - **Associated with**: 
-    - [like-clockwork-hub](https://scp-wiki.wikidot.com/never-metafictional-character-i-liked)
+    - [like-clockwork-hub](https://scp-wiki.wikidot.com/like-clockwork-hub)
 

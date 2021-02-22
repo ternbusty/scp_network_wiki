@@ -46,7 +46,7 @@
     - [Transmissions](https://scp-wiki.wikidot.com/transmissions) (+18)
     - [Parasport Dossier: Parasport Drag Racing](https://scp-wiki.wikidot.com/parasport-dossier-parasport-drag-racing) (+4)
 - **Associated with**: 
-    - [children-of-the-night](https://scp-wiki.wikidot.com/don-t-let-the-fire-die)
+    - [children-of-the-night](https://scp-wiki.wikidot.com/system:page-tags/tag/children-of-the-night#pages)
 
 ### [SCP-1001](https://scp-wiki.wikidot.com/scp-1001)
 - **Metatitle**: Ya-Te-Veo
@@ -372,7 +372,7 @@
 - **Appears in 1 tales**: 
     - [Matryoshka: Part One](https://scp-wiki.wikidot.com/matryoshka-one) (+40)
 - **Associated with**: 
-    - [matryoshka](https://scp-wiki.wikidot.com/matryoshka-one)
+    - [matryoshka](https://scp-wiki.wikidot.com/matryoshka)
 
 ### [SCP-1042](https://scp-wiki.wikidot.com/scp-1042)
 - **Metatitle**: Ghost Stone
@@ -507,7 +507,7 @@
     - [Patronage](https://scp-wiki.wikidot.com/patronage) (+86)
     - [Permanent Waves](https://scp-wiki.wikidot.com/permanent-waves) (+69)
 - **Associated with**: 
-    - [spc-1057-j](https://scp-wiki.wikidot.com/permanent-waves)
+    - [spc-1057-j](https://scp-wiki.wikidot.com/spc-1057-j)
 
 ### [SCP-1058](https://scp-wiki.wikidot.com/scp-1058)
 - **Metatitle**: The Semivisible Man
@@ -1736,7 +1736,7 @@
     - [Arm-ageddon](https://scp-wiki.wikidot.com/armageddon) (+27)
     - [The Hotel California Presents: Ecce Farcio](https://scp-wiki.wikidot.com/alto-clef-jr-ecce-farcio) (+22)
 - **Associated with**: 
-    - [moon-champion](https://scp-wiki.wikidot.com/joey-fucknuts-takes-to-the-skies)
+    - [moon-champion](https://scp-wiki.wikidot.com/system:page-tags/tag/moon-champion#pages)
 
 ### [SCP-1234](https://scp-wiki.wikidot.com/scp-1234)
 - **Metatitle**: An Abandoned Bakery
@@ -1769,7 +1769,7 @@
 - **Appears in 1 tales**: 
     - [There Are No Strings On Me](https://scp-wiki.wikidot.com/there-are-no-strings-on-me) (+54)
 - **Associated with**: 
-    - [project-proposal-2014-2112](https://scp-wiki.wikidot.com/there-are-no-strings-on-me)
+    - [project-proposal-2014-2112](https://scp-wiki.wikidot.com/project-proposal-2014-2112)
 
 ### [SCP-1238](https://scp-wiki.wikidot.com/scp-1238)
 - **Metatitle**: Tunnelfish
@@ -2262,7 +2262,7 @@
 - **Appears in 1 tales**: 
     - [The Deep End](https://scp-wiki.wikidot.com/the-deep-end) (+153)
 - **Associated with**: 
-    - [freekleinberg](https://scp-wiki.wikidot.com/the-deep-end)
+    - [freekleinberg](https://scp-wiki.wikidot.com/freekleinberg)
 
 ### [SCP-1310](https://scp-wiki.wikidot.com/scp-1310)
 - **Metatitle**: Examination Room 10
@@ -2657,7 +2657,7 @@
     - [Hector and Jacob](https://scp-wiki.wikidot.com/hector-and-jacob) (+39)
     - [End of an Era](https://scp-wiki.wikidot.com/end-of-an-era) (+34)
 - **Associated with**: 
-    - [peregrine](https://scp-wiki.wikidot.com/end-of-line-hub)
+    - [peregrine](https://scp-wiki.wikidot.com/peregrine)
     - [end-of-line-hub](https://scp-wiki.wikidot.com/end-of-line-hub)
 
 ### [SCP-1361](https://scp-wiki.wikidot.com/scp-1361)
@@ -2741,7 +2741,7 @@
     - [The Space Soldier](https://scp-wiki.wikidot.com/the-space-soldier) (+40)
     - [The Easily Defeated Meets the Completely Harmless](https://scp-wiki.wikidot.com/the-easily-defeated-meets-the-completely-harmless) (+29)
 - **Associated with**: 
-    - [confirmed-sightings](https://scp-wiki.wikidot.com/mystery-skipper-theater-3000)
+    - [confirmed-sightings](https://scp-wiki.wikidot.com/confirmed-sightings)
 
 ### [SCP-1371](https://scp-wiki.wikidot.com/scp-1371)
 - **Metatitle**: Curiously Buoyant Amphibian
@@ -3054,7 +3054,7 @@
 - **Appears in 1 tales**: 
     - [Containment Breach The Musical](https://scp-wiki.wikidot.com/containment-breach-the-musical) (+252)
 - **Associated with**: 
-    - [acquisitions-hub](https://scp-wiki.wikidot.com/containment-breach-the-musical)
+    - [acquisitions-hub](https://scp-wiki.wikidot.com/acquisitions-hub)
 
 ### [SCP-1419](https://scp-wiki.wikidot.com/scp-1419)
 - **Metatitle**: Religious Broadcasting
@@ -3574,7 +3574,7 @@
     - [The Glorious Revolution](https://scp-wiki.wikidot.com/the-glorious-revolution) (+31)
     - [Pseudohistorical Mischief](https://scp-wiki.wikidot.com/pseudohistorical-mischief) (+30)
 - **Associated with**: 
-    - [antarctic-exchange-hub](https://scp-wiki.wikidot.com/the-real-adventures-in-capitalism)
+    - [antarctic-exchange-hub](https://scp-wiki.wikidot.com/antarctic-exchange-hub)
 
 ### [SCP-1484](https://scp-wiki.wikidot.com/scp-1484)
 - **Metatitle**: Murder Diary
@@ -4169,7 +4169,7 @@
     - [Rough Beast](https://scp-wiki.wikidot.com/rough-beast) (+124)
     - [Awakenings, Part Two](https://scp-wiki.wikidot.com/awakenings-part-two) (+45)
 - **Associated with**: 
-    - [broken-mind](https://scp-wiki.wikidot.com/rough-beast)
+    - [broken-mind](https://scp-wiki.wikidot.com/broken-mind)
 
 ### [SCP-1565](https://scp-wiki.wikidot.com/scp-1565)
 - **Metatitle**: Martian Turtles
@@ -4750,7 +4750,7 @@
     - [All Work and No Play](https://scp-wiki.wikidot.com/all-work-and-no-play) (+20)
     - [Another Day On The Job](https://scp-wiki.wikidot.com/another-day-on-the-job) (+14)
 - **Associated with**: 
-    - [the-sacred-djehuti](https://scp-wiki.wikidot.com/after-the-end)
+    - [the-sacred-djehuti](https://scp-wiki.wikidot.com/the-sacred-djehuti)
 
 ### [SCP-1645](https://scp-wiki.wikidot.com/scp-1645)
 - **Metatitle**: The Viper and the Virus
@@ -4854,7 +4854,7 @@
     - [Yellow](https://scp-wiki.wikidot.com/yellow) (+52)
     - [Automatic Stop](https://scp-wiki.wikidot.com/automatic-stop) (+47)
 - **Associated with**: 
-    - [comedown-machine-hub](https://scp-wiki.wikidot.com/automatic-stop)
+    - [comedown-machine-hub](https://scp-wiki.wikidot.com/comedown-machine-hub)
 
 ### [SCP-1660](https://scp-wiki.wikidot.com/scp-1660)
 - **Metatitle**: Unearthly Forest
@@ -5820,7 +5820,7 @@
     - [Incursion](https://scp-wiki.wikidot.com/incursion) (+175)
     - [Regret](https://scp-wiki.wikidot.com/regret) (+23)
 - **Associated with**: 
-    - [thad-xyank](https://scp-wiki.wikidot.com/regret)
+    - [thad-xyank](https://scp-wiki.wikidot.com/system:page-tags/tag/thad-xyank#pages)
 
 ### [SCP-1781](https://scp-wiki.wikidot.com/scp-1781)
 - **Metatitle**: The Moonlight Theater
@@ -5931,7 +5931,7 @@
     - [Mission Statement](https://scp-wiki.wikidot.com/mission-statement) (+214)
     - [Merrily, Merrily, Merrily](https://scp-wiki.wikidot.com/merrily-merrily-merrily) (+32)
 - **Associated with**: 
-    - [scp-002-ex](https://scp-wiki.wikidot.com/mission-statement)
+    - [scp-002-ex](https://scp-wiki.wikidot.com/scp-002-ex)
 
 ### [SCP-1796](https://scp-wiki.wikidot.com/scp-1796)
 - **Metatitle**: TOP SECRET DOCUMENTS
@@ -5954,7 +5954,7 @@
 - **Appears in 1 tales**: 
     - [The Long Game](https://scp-wiki.wikidot.com/the-long-game) (+54)
 - **Associated with**: 
-    - [squelching-blunderbuggers-hub](https://scp-wiki.wikidot.com/the-long-game)
+    - [squelching-blunderbuggers-hub](https://scp-wiki.wikidot.com/squelching-blunderbuggers-hub)
 
 ### [SCP-1799](https://scp-wiki.wikidot.com/scp-1799)
 - **Metatitle**: Mr. Laugh
@@ -6227,7 +6227,7 @@
     - [Aces And Eights](https://scp-wiki.wikidot.com/aces-and-eights) (+116)
     - [July 5th, 1975](https://scp-wiki.wikidot.com/acts-of-abuse) (+20)
 - **Associated with**: 
-    - [remembrance](https://scp-wiki.wikidot.com/aces-and-eights)
+    - [remembrance](https://scp-wiki.wikidot.com/remembrance)
 
 ### [SCP-1834](https://scp-wiki.wikidot.com/scp-1834)
 - **Metatitle**: Uriel Fishbones
@@ -6533,8 +6533,8 @@
     - [I Am the Very Model](https://scp-wiki.wikidot.com/i-am-the-very-model) (+86)
     - [The Sea Slug and the Showman](https://scp-wiki.wikidot.com/the-sea-slug-and-the-showman) (+72)
 - **Associated with**: 
-    - [new](https://scp-wiki.wikidot.com/habil-and-qabil)
-    - [blackwood](https://scp-wiki.wikidot.com/habil-and-qabil)
+    - [new](https://scp-wiki.wikidot.com/new)
+    - [blackwood](https://scp-wiki.wikidot.com/system:page-tags/tag/blackwood#pages)
 
 ### [SCP-1868](https://scp-wiki.wikidot.com/scp-1868)
 - **Metatitle**: Speaks For Her
@@ -7368,10 +7368,10 @@
     - [The Revolution Will Be Televised](https://scp-wiki.wikidot.com/the-revolution-will-be-televised) (+84)
     - [Old Kansas Sector ~ 11: Intermission](https://scp-wiki.wikidot.com/old-kansas-sector-part-11) (+43)
 - **Associated with**: 
-    - [spc-1981](https://scp-wiki.wikidot.com/old-kansas-sector-part-11)
-    - [ronald-reagan-cut-up-while-rapping](https://scp-wiki.wikidot.com/old-kansas-sector-part-11)
-    - [scp-1797-j](https://scp-wiki.wikidot.com/old-kansas-sector-part-11)
-    - [the-drooling-path-part-1](https://scp-wiki.wikidot.com/old-kansas-sector-part-11)
+    - [spc-1981](https://scp-wiki.wikidot.com/spc-1981)
+    - [ronald-reagan-cut-up-while-rapping](https://scp-wiki.wikidot.com/ronald-reagan-cut-up-while-rapping)
+    - [scp-1797-j](https://scp-wiki.wikidot.com/scp-1797-j)
+    - [the-drooling-path-part-1](https://scp-wiki.wikidot.com/the-drooling-path-part-1)
 
 ### [SCP-1982](https://scp-wiki.wikidot.com/scp-1982)
 - **Metatitle**: First Southern Fifthist
