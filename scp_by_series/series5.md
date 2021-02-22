@@ -18,11 +18,11 @@
     - [How Is Your Name?](https://scp-wiki.wikidot.com/how-is-your-name) (+50)
     - [A Fellow Scholar](https://scp-wiki.wikidot.com/a-fellow-scholar) (+48)
     - [Old Business](https://scp-wiki.wikidot.com/old-business) (+37)
-    - [ute-1919-discofather](https://scp-wiki.wikidot.com/ute-1919-discofather)
-    - [the-grove-of-exiles](https://scp-wiki.wikidot.com/the-grove-of-exiles)
     - [deer-and-the-overseers](https://scp-wiki.wikidot.com/deer-and-the-overseers)
-    - [the-knight-of-flowers](https://scp-wiki.wikidot.com/the-knight-of-flowers)
     - [the-great-shucks-of-the-unnamed-lords](https://scp-wiki.wikidot.com/the-great-shucks-of-the-unnamed-lords)
+    - [ute-1919-discofather](https://scp-wiki.wikidot.com/ute-1919-discofather)
+    - [the-knight-of-flowers](https://scp-wiki.wikidot.com/the-knight-of-flowers)
+    - [the-grove-of-exiles](https://scp-wiki.wikidot.com/the-grove-of-exiles)
 
 ### [SCP-4001](https://scp-wiki.wikidot.com/scp-4001)
 - **Metatitle**: Alexandria Eternal
@@ -353,8 +353,8 @@
     - [Don Quixote vs Classy Carlos](https://scp-wiki.wikidot.com/don-quixote-vs-classy-carlos) (+48)
     - [Down with the Sickness](https://scp-wiki.wikidot.com/down-with-the-sickness) (+46)
     - [Dogs of War](https://scp-wiki.wikidot.com/dogs-of-war) (+39)
-    - [Project Hellhound](https://scp-wiki.wikidot.com/project-hellhound) (+36)
     - [The Ultimate Showdown of Ultimate DEETstiny](https://scp-wiki.wikidot.com/spock-the-rock-doc-ock-and-hulk-hogan) (+36)
+    - [Project Hellhound](https://scp-wiki.wikidot.com/project-hellhound) (+36)
     - [Tight Bookshelves](https://scp-wiki.wikidot.com/tight-bookshelves) (+35)
     - [Arm-ageddon](https://scp-wiki.wikidot.com/armageddon) (+27)
     - [murphy-law-hub](https://scp-wiki.wikidot.com/murphy-law-hub)
@@ -384,8 +384,8 @@
     - [SCP-4790](https://scp-wiki.wikidot.com/scp-4790) (Do not go gentle into that good night., +116)
     - [SCP-3787](https://scp-wiki.wikidot.com/scp-3787) (The Horse Meme, +95)
     - [SCP-5990](https://scp-wiki.wikidot.com/scp-5990) (Out of my head, out of my mind, +89)
-    - [SCP-3464](https://scp-wiki.wikidot.com/scp-3464) (Olive Garden regularly communes with DEMONIC ENTITIES to summon their SATANIC sempiternal garlic bread, +73)
     - [SCP-4190](https://scp-wiki.wikidot.com/scp-4190) (A Twenty Thousand League Delay, +73)
+    - [SCP-3464](https://scp-wiki.wikidot.com/scp-3464) (Olive Garden regularly communes with DEMONIC ENTITIES to summon their SATANIC sempiternal garlic bread, +73)
     - [SCP-3719](https://scp-wiki.wikidot.com/scp-3719) (Your Friendly Neighbourhood Lawnmower, +71)
 - **Associated with 10 articles**: 
     - [SCP-2](https://scp-wiki.wikidot.com/scp-2) (+129)
@@ -446,8 +446,8 @@
     - [SCP-5993](https://scp-wiki.wikidot.com/scp-5993) (We want you to come visit Heaven, just don't fuck with those bees, +123)
     - [SCP-5020](https://scp-wiki.wikidot.com/scp-5020) (InfeStation™, +88)
     - [SCP-4664](https://scp-wiki.wikidot.com/scp-4664) (Nightmare of 20,000 Feet, +86)
-    - [SCP-5225](https://scp-wiki.wikidot.com/scp-5225) (The Abyss Stares Back, +80)
     - [SCP-4270](https://scp-wiki.wikidot.com/scp-4270) (Does Benjamin Harrison Shit In The Oval Office?, +80)
+    - [SCP-5225](https://scp-wiki.wikidot.com/scp-5225) (The Abyss Stares Back, +80)
     - [SCP-3462](https://scp-wiki.wikidot.com/scp-3462) (Lights, Camera, REDACTION, +73)
     - [SCP-4286](https://scp-wiki.wikidot.com/scp-4286) (The Skeleton Fairy, +70)
     - [SCP-4570](https://scp-wiki.wikidot.com/scp-4570) (Almost Heaven, West Virginia, +53)
@@ -615,8 +615,8 @@
     - [SCP-5993](https://scp-wiki.wikidot.com/scp-5993) (We want you to come visit Heaven, just don't fuck with those bees, +123)
     - [SCP-5020](https://scp-wiki.wikidot.com/scp-5020) (InfeStation™, +88)
     - [SCP-4664](https://scp-wiki.wikidot.com/scp-4664) (Nightmare of 20,000 Feet, +86)
-    - [SCP-5225](https://scp-wiki.wikidot.com/scp-5225) (The Abyss Stares Back, +80)
     - [SCP-4270](https://scp-wiki.wikidot.com/scp-4270) (Does Benjamin Harrison Shit In The Oval Office?, +80)
+    - [SCP-5225](https://scp-wiki.wikidot.com/scp-5225) (The Abyss Stares Back, +80)
     - [SCP-4035](https://scp-wiki.wikidot.com/scp-4035) (Prey on Words, +79)
     - [SCP-3462](https://scp-wiki.wikidot.com/scp-3462) (Lights, Camera, REDACTION, +73)
     - [SCP-4286](https://scp-wiki.wikidot.com/scp-4286) (The Skeleton Fairy, +70)
@@ -657,8 +657,8 @@
     - [SCP-4127](https://scp-wiki.wikidot.com/scp-4127) (Heads or Tails, +195)
     - [SCP-4362](https://scp-wiki.wikidot.com/scp-4362) (Achilles Defense Systems, +188)
     - [SCP-3546](https://scp-wiki.wikidot.com/scp-3546) (Doggone it, I Fold!, +172)
-    - [SCP-3561](https://scp-wiki.wikidot.com/scp-3561) (An Unfinished Work, +164)
     - [SCP-3057](https://scp-wiki.wikidot.com/scp-3057) (Fossil Fuels, +164)
+    - [SCP-3561](https://scp-wiki.wikidot.com/scp-3561) (An Unfinished Work, +164)
     - [SCP-3079](https://scp-wiki.wikidot.com/scp-3079) (300 Tricks: Stage Magic Made Easy, +161)
     - [SCP-3138](https://scp-wiki.wikidot.com/scp-3138) (A Sepulcher by the Sea, +157)
     - [SCP-4153](https://scp-wiki.wikidot.com/scp-4153) (Vincent Price presents… IT CAME FROM SITE-9!, +134)
@@ -931,8 +931,8 @@
     - [SCP-5993](https://scp-wiki.wikidot.com/scp-5993) (We want you to come visit Heaven, just don't fuck with those bees, +123)
     - [SCP-5020](https://scp-wiki.wikidot.com/scp-5020) (InfeStation™, +88)
     - [SCP-4664](https://scp-wiki.wikidot.com/scp-4664) (Nightmare of 20,000 Feet, +86)
-    - [SCP-5225](https://scp-wiki.wikidot.com/scp-5225) (The Abyss Stares Back, +80)
     - [SCP-4270](https://scp-wiki.wikidot.com/scp-4270) (Does Benjamin Harrison Shit In The Oval Office?, +80)
+    - [SCP-5225](https://scp-wiki.wikidot.com/scp-5225) (The Abyss Stares Back, +80)
     - [SCP-4035](https://scp-wiki.wikidot.com/scp-4035) (Prey on Words, +79)
     - [SCP-3462](https://scp-wiki.wikidot.com/scp-3462) (Lights, Camera, REDACTION, +73)
     - [SCP-4286](https://scp-wiki.wikidot.com/scp-4286) (The Skeleton Fairy, +70)
@@ -1079,8 +1079,8 @@
     - [SCP-5993](https://scp-wiki.wikidot.com/scp-5993) (We want you to come visit Heaven, just don't fuck with those bees, +123)
     - [SCP-5020](https://scp-wiki.wikidot.com/scp-5020) (InfeStation™, +88)
     - [SCP-4664](https://scp-wiki.wikidot.com/scp-4664) (Nightmare of 20,000 Feet, +86)
-    - [SCP-5225](https://scp-wiki.wikidot.com/scp-5225) (The Abyss Stares Back, +80)
     - [SCP-4270](https://scp-wiki.wikidot.com/scp-4270) (Does Benjamin Harrison Shit In The Oval Office?, +80)
+    - [SCP-5225](https://scp-wiki.wikidot.com/scp-5225) (The Abyss Stares Back, +80)
     - [SCP-4035](https://scp-wiki.wikidot.com/scp-4035) (Prey on Words, +79)
     - [SCP-3462](https://scp-wiki.wikidot.com/scp-3462) (Lights, Camera, REDACTION, +73)
     - [SCP-4286](https://scp-wiki.wikidot.com/scp-4286) (The Skeleton Fairy, +70)
@@ -2429,8 +2429,8 @@
     - [SCP-5993](https://scp-wiki.wikidot.com/scp-5993) (We want you to come visit Heaven, just don't fuck with those bees, +123)
     - [SCP-5020](https://scp-wiki.wikidot.com/scp-5020) (InfeStation™, +88)
     - [SCP-4664](https://scp-wiki.wikidot.com/scp-4664) (Nightmare of 20,000 Feet, +86)
-    - [SCP-5225](https://scp-wiki.wikidot.com/scp-5225) (The Abyss Stares Back, +80)
     - [SCP-4270](https://scp-wiki.wikidot.com/scp-4270) (Does Benjamin Harrison Shit In The Oval Office?, +80)
+    - [SCP-5225](https://scp-wiki.wikidot.com/scp-5225) (The Abyss Stares Back, +80)
     - [SCP-4035](https://scp-wiki.wikidot.com/scp-4035) (Prey on Words, +79)
     - [SCP-3462](https://scp-wiki.wikidot.com/scp-3462) (Lights, Camera, REDACTION, +73)
     - [SCP-4570](https://scp-wiki.wikidot.com/scp-4570) (Almost Heaven, West Virginia, +53)
@@ -3366,8 +3366,8 @@
     - [SCP-4790](https://scp-wiki.wikidot.com/scp-4790) (Do not go gentle into that good night., +116)
     - [SCP-3787](https://scp-wiki.wikidot.com/scp-3787) (The Horse Meme, +95)
     - [SCP-5990](https://scp-wiki.wikidot.com/scp-5990) (Out of my head, out of my mind, +89)
-    - [SCP-3464](https://scp-wiki.wikidot.com/scp-3464) (Olive Garden regularly communes with DEMONIC ENTITIES to summon their SATANIC sempiternal garlic bread, +73)
     - [SCP-4190](https://scp-wiki.wikidot.com/scp-4190) (A Twenty Thousand League Delay, +73)
+    - [SCP-3464](https://scp-wiki.wikidot.com/scp-3464) (Olive Garden regularly communes with DEMONIC ENTITIES to summon their SATANIC sempiternal garlic bread, +73)
     - [SCP-3719](https://scp-wiki.wikidot.com/scp-3719) (Your Friendly Neighbourhood Lawnmower, +71)
 - **Associated with 9 articles**: 
     - [SCP-2](https://scp-wiki.wikidot.com/scp-2) (+129)
@@ -3411,8 +3411,8 @@
     - [SCP-4790](https://scp-wiki.wikidot.com/scp-4790) (Do not go gentle into that good night., +116)
     - [SCP-3787](https://scp-wiki.wikidot.com/scp-3787) (The Horse Meme, +95)
     - [SCP-5990](https://scp-wiki.wikidot.com/scp-5990) (Out of my head, out of my mind, +89)
-    - [SCP-3464](https://scp-wiki.wikidot.com/scp-3464) (Olive Garden regularly communes with DEMONIC ENTITIES to summon their SATANIC sempiternal garlic bread, +73)
     - [SCP-4190](https://scp-wiki.wikidot.com/scp-4190) (A Twenty Thousand League Delay, +73)
+    - [SCP-3464](https://scp-wiki.wikidot.com/scp-3464) (Olive Garden regularly communes with DEMONIC ENTITIES to summon their SATANIC sempiternal garlic bread, +73)
     - [SCP-3719](https://scp-wiki.wikidot.com/scp-3719) (Your Friendly Neighbourhood Lawnmower, +71)
 - **Associated with 11 articles**: 
     - [SCP-2](https://scp-wiki.wikidot.com/scp-2) (+129)
@@ -3424,8 +3424,8 @@
     - [A Surprise Encounter with Crispy Sex Pirates](https://scp-wiki.wikidot.com/crispy-sex-pirates) (+47)
     - [A Necromantic Prelude](https://scp-wiki.wikidot.com/a-necromantic-prelude) (+30)
     - [Solidão](https://scp-wiki.wikidot.com/solidao) (+21)
-    - [ambrose-london-prix-fixe](https://scp-wiki.wikidot.com/ambrose-london-prix-fixe)
     - [apotheosis-hub](https://scp-wiki.wikidot.com/apotheosis-hub)
+    - [ambrose-london-prix-fixe](https://scp-wiki.wikidot.com/ambrose-london-prix-fixe)
 
 ### [SCP-4421](https://scp-wiki.wikidot.com/scp-4421)
 - **Metatitle**: Papa Legba's Walkin' Stick
@@ -3490,8 +3490,8 @@
     - [SCP-4790](https://scp-wiki.wikidot.com/scp-4790) (Do not go gentle into that good night., +116)
     - [SCP-3787](https://scp-wiki.wikidot.com/scp-3787) (The Horse Meme, +95)
     - [SCP-5990](https://scp-wiki.wikidot.com/scp-5990) (Out of my head, out of my mind, +89)
-    - [SCP-3464](https://scp-wiki.wikidot.com/scp-3464) (Olive Garden regularly communes with DEMONIC ENTITIES to summon their SATANIC sempiternal garlic bread, +73)
     - [SCP-4190](https://scp-wiki.wikidot.com/scp-4190) (A Twenty Thousand League Delay, +73)
+    - [SCP-3464](https://scp-wiki.wikidot.com/scp-3464) (Olive Garden regularly communes with DEMONIC ENTITIES to summon their SATANIC sempiternal garlic bread, +73)
     - [SCP-3719](https://scp-wiki.wikidot.com/scp-3719) (Your Friendly Neighbourhood Lawnmower, +71)
 - **Associated with 9 articles**: 
     - [SCP-2](https://scp-wiki.wikidot.com/scp-2) (+129)
@@ -3876,8 +3876,8 @@
     - [SCP-4790](https://scp-wiki.wikidot.com/scp-4790) (Do not go gentle into that good night., +116)
     - [SCP-3787](https://scp-wiki.wikidot.com/scp-3787) (The Horse Meme, +95)
     - [SCP-5990](https://scp-wiki.wikidot.com/scp-5990) (Out of my head, out of my mind, +89)
-    - [SCP-3464](https://scp-wiki.wikidot.com/scp-3464) (Olive Garden regularly communes with DEMONIC ENTITIES to summon their SATANIC sempiternal garlic bread, +73)
     - [SCP-4190](https://scp-wiki.wikidot.com/scp-4190) (A Twenty Thousand League Delay, +73)
+    - [SCP-3464](https://scp-wiki.wikidot.com/scp-3464) (Olive Garden regularly communes with DEMONIC ENTITIES to summon their SATANIC sempiternal garlic bread, +73)
     - [SCP-3719](https://scp-wiki.wikidot.com/scp-3719) (Your Friendly Neighbourhood Lawnmower, +71)
 - **Associated with 11 articles**: 
     - [SCP-2](https://scp-wiki.wikidot.com/scp-2) (+129)
@@ -4029,10 +4029,10 @@
     - [The Apple Doesn't Fall Far](https://scp-wiki.wikidot.com/the-apple-doesn-t-fall-far) (+34)
     - [Foodies, Frogs, & Flying](https://scp-wiki.wikidot.com/foodies-frogs-flying) (+32)
     - [Entangled In An Interdimensional Spirally Dance](https://scp-wiki.wikidot.com/entangled-in-an-interdimensional-spirally-dance) (+30)
-    - ["You called my bluff."](https://scp-wiki.wikidot.com/i-love-you-too-much) (+27)
     - [There's a Job For Everyone](https://scp-wiki.wikidot.com/there-s-a-job-for-everyone) (+27)
-    - [SCP-ide](https://scp-wiki.wikidot.com/scp-ide) (+25)
+    - ["You called my bluff."](https://scp-wiki.wikidot.com/i-love-you-too-much) (+27)
     - [The Place To Find Yourself](https://scp-wiki.wikidot.com/the-place-to-find-yourself) (+25)
+    - [SCP-ide](https://scp-wiki.wikidot.com/scp-ide) (+25)
     - [The Bed Salesman: A Brief Interlude](https://scp-wiki.wikidot.com/the-bed-salesman) (+22)
     - [Three Portlands Pastries](https://scp-wiki.wikidot.com/three-portlands-pastries) (+22)
     - [Memory Dives & Deep Desires](https://scp-wiki.wikidot.com/memory-dives-deep-desires) (+18)
@@ -4247,8 +4247,8 @@
     - [SCP-4790](https://scp-wiki.wikidot.com/scp-4790) (Do not go gentle into that good night., +116)
     - [SCP-3787](https://scp-wiki.wikidot.com/scp-3787) (The Horse Meme, +95)
     - [SCP-5990](https://scp-wiki.wikidot.com/scp-5990) (Out of my head, out of my mind, +89)
-    - [SCP-3464](https://scp-wiki.wikidot.com/scp-3464) (Olive Garden regularly communes with DEMONIC ENTITIES to summon their SATANIC sempiternal garlic bread, +73)
     - [SCP-4190](https://scp-wiki.wikidot.com/scp-4190) (A Twenty Thousand League Delay, +73)
+    - [SCP-3464](https://scp-wiki.wikidot.com/scp-3464) (Olive Garden regularly communes with DEMONIC ENTITIES to summon their SATANIC sempiternal garlic bread, +73)
     - [SCP-3719](https://scp-wiki.wikidot.com/scp-3719) (Your Friendly Neighbourhood Lawnmower, +71)
 - **Associated with 13 articles**: 
     - [Log Of Anomalous Items, Vol II](https://scp-wiki.wikidot.com/log-of-anomalous-items-vol-ii) (+299)
@@ -4262,8 +4262,8 @@
     - [A Surprise Encounter with Crispy Sex Pirates](https://scp-wiki.wikidot.com/crispy-sex-pirates) (+47)
     - [A Necromantic Prelude](https://scp-wiki.wikidot.com/a-necromantic-prelude) (+30)
     - [Solidão](https://scp-wiki.wikidot.com/solidao) (+21)
-    - [non-prophet-organization-hub](https://scp-wiki.wikidot.com/non-prophet-organization-hub)
     - [grant-request-post-mortem-neural-preservation](https://scp-wiki.wikidot.com/grant-request-post-mortem-neural-preservation)
+    - [non-prophet-organization-hub](https://scp-wiki.wikidot.com/non-prophet-organization-hub)
 
 ### [SCP-4520](https://scp-wiki.wikidot.com/scp-4520)
 - **Metatitle**: Alea Iacta Est
@@ -4623,8 +4623,8 @@
     - [SCP-5993](https://scp-wiki.wikidot.com/scp-5993) (We want you to come visit Heaven, just don't fuck with those bees, +123)
     - [SCP-5020](https://scp-wiki.wikidot.com/scp-5020) (InfeStation™, +88)
     - [SCP-4664](https://scp-wiki.wikidot.com/scp-4664) (Nightmare of 20,000 Feet, +86)
-    - [SCP-5225](https://scp-wiki.wikidot.com/scp-5225) (The Abyss Stares Back, +80)
     - [SCP-4270](https://scp-wiki.wikidot.com/scp-4270) (Does Benjamin Harrison Shit In The Oval Office?, +80)
+    - [SCP-5225](https://scp-wiki.wikidot.com/scp-5225) (The Abyss Stares Back, +80)
     - [SCP-4035](https://scp-wiki.wikidot.com/scp-4035) (Prey on Words, +79)
     - [SCP-3462](https://scp-wiki.wikidot.com/scp-3462) (Lights, Camera, REDACTION, +73)
     - [SCP-4286](https://scp-wiki.wikidot.com/scp-4286) (The Skeleton Fairy, +70)
@@ -4830,8 +4830,8 @@
 - **Cited by 0 objects**
 - **Associated with 3 articles**: 
     - [the-bowe-decommission-part-two](https://scp-wiki.wikidot.com/the-bowe-decommission-part-two)
-    - [broken-bowe](https://scp-wiki.wikidot.com/broken-bowe)
     - [the-bowe-decommission-part-one](https://scp-wiki.wikidot.com/the-bowe-decommission-part-one)
+    - [broken-bowe](https://scp-wiki.wikidot.com/broken-bowe)
 
 ### [SCP-4602](https://scp-wiki.wikidot.com/scp-4602)
 - **Metatitle**: The Money-ki Neko
@@ -5264,8 +5264,8 @@
     - [SCP-4109](https://scp-wiki.wikidot.com/scp-4109) (FINAL CONCLUSION: EVERYTHING IS TERRIBLE, +126)
     - [SCP-5993](https://scp-wiki.wikidot.com/scp-5993) (We want you to come visit Heaven, just don't fuck with those bees, +123)
     - [SCP-5020](https://scp-wiki.wikidot.com/scp-5020) (InfeStation™, +88)
-    - [SCP-5225](https://scp-wiki.wikidot.com/scp-5225) (The Abyss Stares Back, +80)
     - [SCP-4270](https://scp-wiki.wikidot.com/scp-4270) (Does Benjamin Harrison Shit In The Oval Office?, +80)
+    - [SCP-5225](https://scp-wiki.wikidot.com/scp-5225) (The Abyss Stares Back, +80)
     - [SCP-4035](https://scp-wiki.wikidot.com/scp-4035) (Prey on Words, +79)
     - [SCP-3462](https://scp-wiki.wikidot.com/scp-3462) (Lights, Camera, REDACTION, +73)
     - [SCP-4286](https://scp-wiki.wikidot.com/scp-4286) (The Skeleton Fairy, +70)
@@ -5822,8 +5822,8 @@
     - [SCP-5993](https://scp-wiki.wikidot.com/scp-5993) (We want you to come visit Heaven, just don't fuck with those bees, +123)
     - [SCP-5020](https://scp-wiki.wikidot.com/scp-5020) (InfeStation™, +88)
     - [SCP-4664](https://scp-wiki.wikidot.com/scp-4664) (Nightmare of 20,000 Feet, +86)
-    - [SCP-5225](https://scp-wiki.wikidot.com/scp-5225) (The Abyss Stares Back, +80)
     - [SCP-4270](https://scp-wiki.wikidot.com/scp-4270) (Does Benjamin Harrison Shit In The Oval Office?, +80)
+    - [SCP-5225](https://scp-wiki.wikidot.com/scp-5225) (The Abyss Stares Back, +80)
     - [SCP-4035](https://scp-wiki.wikidot.com/scp-4035) (Prey on Words, +79)
     - [SCP-3462](https://scp-wiki.wikidot.com/scp-3462) (Lights, Camera, REDACTION, +73)
     - [SCP-4286](https://scp-wiki.wikidot.com/scp-4286) (The Skeleton Fairy, +70)
@@ -6097,10 +6097,10 @@
 - **Cited by 1 objects**: 
     - [SCP-5307](https://scp-wiki.wikidot.com/scp-5307) (Double Donk Juice, +33)
 - **Associated with 4 articles**: 
-    - [ulysses-b-donkman-and-the-clockwork-bandits](https://scp-wiki.wikidot.com/ulysses-b-donkman-and-the-clockwork-bandits)
-    - [ulysses-b-donkman-and-the-mournful-birthday](https://scp-wiki.wikidot.com/ulysses-b-donkman-and-the-mournful-birthday)
     - [ulysses-b-donkman-and-the-heinous-hitman](https://scp-wiki.wikidot.com/ulysses-b-donkman-and-the-heinous-hitman)
+    - [ulysses-b-donkman-and-the-clockwork-bandits](https://scp-wiki.wikidot.com/ulysses-b-donkman-and-the-clockwork-bandits)
     - [ulysses-b-donkman-and-the-foreboding-forest](https://scp-wiki.wikidot.com/ulysses-b-donkman-and-the-foreboding-forest)
+    - [ulysses-b-donkman-and-the-mournful-birthday](https://scp-wiki.wikidot.com/ulysses-b-donkman-and-the-mournful-birthday)
 
 ### [SCP-4769](https://scp-wiki.wikidot.com/scp-4769)
 - **Metatitle**: Physics Teacher
@@ -6138,8 +6138,8 @@
 - **Cited by 4 objects**: 
     - [SCP-002-EX](https://scp-wiki.wikidot.com/scp-002-ex) (Lost it All, +100)
     - [SCP-4313](https://scp-wiki.wikidot.com/scp-4313) (Stormy Seas in the Milky Way, +67)
-    - [SCP-4377](https://scp-wiki.wikidot.com/scp-4377) (Fight! Fight for the Man of the People!, +56)
     - [SCP-5255](https://scp-wiki.wikidot.com/scp-5255) (Primordial Truth, +56)
+    - [SCP-4377](https://scp-wiki.wikidot.com/scp-4377) (Fight! Fight for the Man of the People!, +56)
 - **Associated with 1 articles**: 
     - [ad-astra-per-aspera-hub](https://scp-wiki.wikidot.com/ad-astra-per-aspera-hub)
 
@@ -6264,9 +6264,9 @@
 - **Cited by 0 objects**
 - **Associated with 4 articles**: 
     - ["Smile! You Are Being Watched!"](https://scp-wiki.wikidot.com/smile-you-are-being-watched) (+58)
-    - [the-not-too-distant-future](https://scp-wiki.wikidot.com/the-not-too-distant-future)
-    - [the-eternal-mxtape](https://scp-wiki.wikidot.com/the-eternal-mxtape)
     - [extra-salty](https://scp-wiki.wikidot.com/extra-salty)
+    - [the-eternal-mxtape](https://scp-wiki.wikidot.com/the-eternal-mxtape)
+    - [the-not-too-distant-future](https://scp-wiki.wikidot.com/the-not-too-distant-future)
 
 ### [SCP-4785](https://scp-wiki.wikidot.com/scp-4785)
 - **Metatitle**: Infohazardous Cabinet
@@ -6308,8 +6308,8 @@
     - [SCP-4031](https://scp-wiki.wikidot.com/scp-4031) (The Amnesiac Redemption, +126)
     - [SCP-3787](https://scp-wiki.wikidot.com/scp-3787) (The Horse Meme, +95)
     - [SCP-5990](https://scp-wiki.wikidot.com/scp-5990) (Out of my head, out of my mind, +89)
-    - [SCP-3464](https://scp-wiki.wikidot.com/scp-3464) (Olive Garden regularly communes with DEMONIC ENTITIES to summon their SATANIC sempiternal garlic bread, +73)
     - [SCP-4190](https://scp-wiki.wikidot.com/scp-4190) (A Twenty Thousand League Delay, +73)
+    - [SCP-3464](https://scp-wiki.wikidot.com/scp-3464) (Olive Garden regularly communes with DEMONIC ENTITIES to summon their SATANIC sempiternal garlic bread, +73)
     - [SCP-3719](https://scp-wiki.wikidot.com/scp-3719) (Your Friendly Neighbourhood Lawnmower, +71)
 - **Associated with 10 articles**: 
     - [SCP-2](https://scp-wiki.wikidot.com/scp-2) (+129)
@@ -6359,8 +6359,8 @@
     - [SCP-4790](https://scp-wiki.wikidot.com/scp-4790) (Do not go gentle into that good night., +116)
     - [SCP-3787](https://scp-wiki.wikidot.com/scp-3787) (The Horse Meme, +95)
     - [SCP-5990](https://scp-wiki.wikidot.com/scp-5990) (Out of my head, out of my mind, +89)
-    - [SCP-3464](https://scp-wiki.wikidot.com/scp-3464) (Olive Garden regularly communes with DEMONIC ENTITIES to summon their SATANIC sempiternal garlic bread, +73)
     - [SCP-4190](https://scp-wiki.wikidot.com/scp-4190) (A Twenty Thousand League Delay, +73)
+    - [SCP-3464](https://scp-wiki.wikidot.com/scp-3464) (Olive Garden regularly communes with DEMONIC ENTITIES to summon their SATANIC sempiternal garlic bread, +73)
     - [SCP-3719](https://scp-wiki.wikidot.com/scp-3719) (Your Friendly Neighbourhood Lawnmower, +71)
 - **Associated with 10 articles**: 
     - [SCP-2](https://scp-wiki.wikidot.com/scp-2) (+129)
@@ -6888,8 +6888,8 @@
     - [SCP-5902](https://scp-wiki.wikidot.com/scp-5902) (The Department of Administration, +126)
     - [SCP-3897](https://scp-wiki.wikidot.com/scp-3897) (Mother's Eye Is Upon You, +110)
     - [SCP-3896](https://scp-wiki.wikidot.com/scp-3896) (We'll Never Stop Eating Big Gordo, +104)
-    - [SCP-3982](https://scp-wiki.wikidot.com/scp-3982) (The Devourer of Filth Would Like to Be Friends With You, +100)
     - [SCP-4449](https://scp-wiki.wikidot.com/scp-4449) (Daisuke Kawamoto, aka Kakashi-san, Scarecrow Samurai and Legendary Slayer of Evil, +100)
+    - [SCP-3982](https://scp-wiki.wikidot.com/scp-3982) (The Devourer of Filth Would Like to Be Friends With You, +100)
     - [SCP-3893](https://scp-wiki.wikidot.com/scp-3893) (I'm Going to Have a Motherfucking Meltdown, +97)
     - [SCP-4333](https://scp-wiki.wikidot.com/scp-4333) (The Profligate, +93)
     - [SCP-4933](https://scp-wiki.wikidot.com/scp-4933) (We Interrupt This Broadcast, +71)
@@ -6945,8 +6945,8 @@
 - **Metatitle**: Friends With You
 - **Rate**: +49
 - **Cited by 3 objects**: 
-    - [SCP-5033](https://scp-wiki.wikidot.com/scp-5033) (A Pampered Sheep (please don't explode), +66)
     - [SCP-4492](https://scp-wiki.wikidot.com/scp-4492) (Umbrella In The Toilet, +66)
+    - [SCP-5033](https://scp-wiki.wikidot.com/scp-5033) (A Pampered Sheep (please don't explode), +66)
     - [SCP-5986](https://scp-wiki.wikidot.com/scp-5986) (Mom, take me to Millie's Candy Shop!, +25)
 - **Associated with 16 articles**: 
     - [S & C Plastics Actually Does Their Job](https://scp-wiki.wikidot.com/s-c-plastics-actually-does-their-job) (+83)
@@ -6958,10 +6958,10 @@
     - [The Apple Doesn't Fall Far](https://scp-wiki.wikidot.com/the-apple-doesn-t-fall-far) (+34)
     - [Foodies, Frogs, & Flying](https://scp-wiki.wikidot.com/foodies-frogs-flying) (+32)
     - [Entangled In An Interdimensional Spirally Dance](https://scp-wiki.wikidot.com/entangled-in-an-interdimensional-spirally-dance) (+30)
-    - ["You called my bluff."](https://scp-wiki.wikidot.com/i-love-you-too-much) (+27)
     - [There's a Job For Everyone](https://scp-wiki.wikidot.com/there-s-a-job-for-everyone) (+27)
-    - [SCP-ide](https://scp-wiki.wikidot.com/scp-ide) (+25)
+    - ["You called my bluff."](https://scp-wiki.wikidot.com/i-love-you-too-much) (+27)
     - [The Place To Find Yourself](https://scp-wiki.wikidot.com/the-place-to-find-yourself) (+25)
+    - [SCP-ide](https://scp-wiki.wikidot.com/scp-ide) (+25)
     - [The Bed Salesman: A Brief Interlude](https://scp-wiki.wikidot.com/the-bed-salesman) (+22)
     - [Three Portlands Pastries](https://scp-wiki.wikidot.com/three-portlands-pastries) (+22)
     - [Memory Dives & Deep Desires](https://scp-wiki.wikidot.com/memory-dives-deep-desires) (+18)
@@ -7660,8 +7660,8 @@
     - [SCP-5993](https://scp-wiki.wikidot.com/scp-5993) (We want you to come visit Heaven, just don't fuck with those bees, +123)
     - [SCP-5020](https://scp-wiki.wikidot.com/scp-5020) (InfeStation™, +88)
     - [SCP-4664](https://scp-wiki.wikidot.com/scp-4664) (Nightmare of 20,000 Feet, +86)
-    - [SCP-5225](https://scp-wiki.wikidot.com/scp-5225) (The Abyss Stares Back, +80)
     - [SCP-4270](https://scp-wiki.wikidot.com/scp-4270) (Does Benjamin Harrison Shit In The Oval Office?, +80)
+    - [SCP-5225](https://scp-wiki.wikidot.com/scp-5225) (The Abyss Stares Back, +80)
     - [SCP-4035](https://scp-wiki.wikidot.com/scp-4035) (Prey on Words, +79)
     - [SCP-3462](https://scp-wiki.wikidot.com/scp-3462) (Lights, Camera, REDACTION, +73)
     - [SCP-4286](https://scp-wiki.wikidot.com/scp-4286) (The Skeleton Fairy, +70)

@@ -2648,21 +2648,21 @@
     - [Assault on Site-64](https://scp-wiki.wikidot.com/assault-on-site-64) (+72)
     - [The Blackbird and The Falcon](https://scp-wiki.wikidot.com/the-blackbird-and-the-falcon) (+69)
     - [Ties That Bind](https://scp-wiki.wikidot.com/ties-that-bind) (+64)
-    - [End of Line](https://scp-wiki.wikidot.com/end-of-line) (+62)
     - [Consolidation](https://scp-wiki.wikidot.com/consolidation) (+62)
     - [Hunting Anderson](https://scp-wiki.wikidot.com/hunting-anderson) (+62)
+    - [End of Line](https://scp-wiki.wikidot.com/end-of-line) (+62)
     - [Three Farewells](https://scp-wiki.wikidot.com/three-farewells) (+60)
     - [Bal-chatri](https://scp-wiki.wikidot.com/bal-chatri) (+51)
     - [The Vanishing of Vincent Anderson](https://scp-wiki.wikidot.com/the-vanishing-of-vincent-anderson) (+46)
-    - [The Best Laid Plans](https://scp-wiki.wikidot.com/the-best-laid-plans) (+44)
     - [Volatile Memory](https://scp-wiki.wikidot.com/volatile-memory) (+44)
+    - [The Best Laid Plans](https://scp-wiki.wikidot.com/the-best-laid-plans) (+44)
     - [Decisions We Make](https://scp-wiki.wikidot.com/decisions-we-make) (+43)
     - [Non-Volatile Memory](https://scp-wiki.wikidot.com/non-volatile-memory) (+42)
     - [Anderson the Alternative](https://scp-wiki.wikidot.com/anderson-the-alternative) (+40)
     - [Hector and Jacob](https://scp-wiki.wikidot.com/hector-and-jacob) (+39)
     - [End of an Era](https://scp-wiki.wikidot.com/end-of-an-era) (+34)
-    - [peregrine](https://scp-wiki.wikidot.com/peregrine)
     - [end-of-line-hub](https://scp-wiki.wikidot.com/end-of-line-hub)
+    - [peregrine](https://scp-wiki.wikidot.com/peregrine)
 
 ### [SCP-1361](https://scp-wiki.wikidot.com/scp-1361)
 - **Metatitle**: Animal By-Product
@@ -3123,8 +3123,8 @@
     - [SCP-2495](https://scp-wiki.wikidot.com/scp-2495) (The Well and the Pit, +83)
     - [SCP-2608](https://scp-wiki.wikidot.com/scp-2608) (Anomalous Indicator Species, +75)
     - [SCP-3605](https://scp-wiki.wikidot.com/scp-3605) (The blue is so beautiful, +56)
-    - [SCP-5128](https://scp-wiki.wikidot.com/scp-5128) (The Source, +54)
     - [SCP-3330](https://scp-wiki.wikidot.com/scp-3330) (Études for the Universe, +54)
+    - [SCP-5128](https://scp-wiki.wikidot.com/scp-5128) (The Source, +54)
     - [SCP-5502](https://scp-wiki.wikidot.com/scp-5502) (Where the Smoke Trail Ends, +23)
 - **Associated with 7 articles**: 
     - [CASE COLOURLESS GREEN](https://scp-wiki.wikidot.com/case-colourless-green) (+560)
@@ -3264,8 +3264,8 @@
     - [When We Came Home](https://scp-wiki.wikidot.com/when-we-came-home) (+160)
     - [Into That Good Night](https://scp-wiki.wikidot.com/into-that-good-night) (+105)
     - [Three Short Scenes About Death](https://scp-wiki.wikidot.com/three-short-scenes-about-death) (+104)
-    - [Dispatch from the Paintball War](https://scp-wiki.wikidot.com/dispatch-from-the-paintball-war) (+47)
     - [A Christmas Caterwaul](https://scp-wiki.wikidot.com/a-christmas-caterwaul) (+47)
+    - [Dispatch from the Paintball War](https://scp-wiki.wikidot.com/dispatch-from-the-paintball-war) (+47)
 
 ### [SCP-1441](https://scp-wiki.wikidot.com/scp-1441)
 - **Metatitle**: Cold Fusion Paper-Towel Dispenser
@@ -6320,8 +6320,8 @@
     - [SCP-972](https://scp-wiki.wikidot.com/scp-972) (Immunity, +78)
     - [SCP-3147](https://scp-wiki.wikidot.com/scp-3147) (Tongue Twisted, +74)
     - [SCP-314-J](https://scp-wiki.wikidot.com/scp-314-j) (Numerical Proofs (That You Suck), +65)
-    - [SCP-5725](https://scp-wiki.wikidot.com/scp-5725) (We're Getting the Man Back Together Again, +64)
     - [SCP-5050-EX](https://scp-wiki.wikidot.com/scp-5050-ex) (Presto!, +64)
+    - [SCP-5725](https://scp-wiki.wikidot.com/scp-5725) (We're Getting the Man Back Together Again, +64)
     - [SCP-2896](https://scp-wiki.wikidot.com/scp-2896) (To Sleep, Perchance to Dream (of Freedom), +48)
     - [SCP-5975](https://scp-wiki.wikidot.com/scp-5975) (The Cycle Keeps Spinning, +32)
 - **Associated with 13 articles**: 
@@ -7377,9 +7377,9 @@
     - [Snip Snip Snip](https://scp-wiki.wikidot.com/snip-snip-snip) (+159)
     - [The Revolution Will Be Televised](https://scp-wiki.wikidot.com/the-revolution-will-be-televised) (+84)
     - [Old Kansas Sector ~ 11: Intermission](https://scp-wiki.wikidot.com/old-kansas-sector-part-11) (+43)
-    - [spc-1981](https://scp-wiki.wikidot.com/spc-1981)
-    - [the-drooling-path-part-1](https://scp-wiki.wikidot.com/the-drooling-path-part-1)
     - [ronald-reagan-cut-up-while-rapping](https://scp-wiki.wikidot.com/ronald-reagan-cut-up-while-rapping)
+    - [the-drooling-path-part-1](https://scp-wiki.wikidot.com/the-drooling-path-part-1)
+    - [spc-1981](https://scp-wiki.wikidot.com/spc-1981)
 
 ### [SCP-1982](https://scp-wiki.wikidot.com/scp-1982)
 - **Metatitle**: First Southern Fifthist
