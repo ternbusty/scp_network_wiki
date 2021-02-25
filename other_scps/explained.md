@@ -3,84 +3,76 @@
 ### [SCP-0000-EX](https://scp-wiki.wikidot.com/scp-0000-ex)
 - **Metatitle**: An Ode to The Forgotten
 - **Rate**: +58
-- **Cited by 6 objects**: 
+- **Cited by 6 SCPs**:
     - [SCP-5464](https://scp-wiki.wikidot.com/scp-5464) (The Responsibility We Bear, +125)
     - [SCP-0110-J](https://scp-wiki.wikidot.com/scp-0110-j) (Personal Retirement, Effective Immediately, +104)
     - [SCP-5659](https://scp-wiki.wikidot.com/scp-5659) (A Beast of Lust And Hatred Born, +71)
     - [SCP-5795](https://scp-wiki.wikidot.com/scp-5795) (High Court, +46)
     - [SCP-5936](https://scp-wiki.wikidot.com/scp-5936) (Those That Do Not Wish To Be Forgotten, +39)
     - [SCP-5890](https://scp-wiki.wikidot.com/scp-5890) (Within The Inner Prisons We Ourselves Made, +35)
-- **Associated with 0 articles**
+- **Appears in 3 tales**:
+    - [The Watchman](https://scp-wiki.wikidot.com/the-watchman) (+56)
+    - [To Simply Be Loved](https://scp-wiki.wikidot.com/to-simply-be-loved) (+32)
+    - [Halfway Found, Halfway Lost](https://scp-wiki.wikidot.com/halfway-found-halfway-lost) (+22)
 
 ### [SCP-001-EX](https://scp-wiki.wikidot.com/scp-001-ex)
 - **Metatitle**: The Great Hippo's Proposal (feat. PeppersGhost)
 - **Rate**: +636
-- **Cited by 3 objects**: 
+- **Cited by 3 SCPs**:
     - [SCP-1459](https://scp-wiki.wikidot.com/scp-1459) (The Puppy Machine, +609)
     - [SCP-1313](https://scp-wiki.wikidot.com/scp-1313) (Solve for Bear, +563)
     - [SCP-978](https://scp-wiki.wikidot.com/scp-978) (Desire Camera, +482)
-- **Associated with 1 articles**: 
-    - [dog-days](https://scp-wiki.wikidot.com/dog-days)
+- **Appears in 1 tales**:
+    - [Dog Days](https://scp-wiki.wikidot.com/dog-days) (+38)
 
 ### [SCP-002-EX](https://scp-wiki.wikidot.com/scp-002-ex)
 - **Metatitle**: Lost it All
 - **Rate**: +100
-- **Cited by 0 objects**
-- **Associated with 0 articles**
 
 ### [SCP-067-EX](https://scp-wiki.wikidot.com/scp-067-ex)
 - **Metatitle**: "Rurik Inn"
 - **Rate**: +189
-- **Cited by 0 objects**
-- **Associated with 0 articles**
 
 ### [SCP-123-EX](https://scp-wiki.wikidot.com/scp-123-ex)
 - **Metatitle**: Accidents Happen
 - **Rate**: +118
-- **Cited by 0 objects**
-- **Associated with 1 articles**: 
+- **Appears in 1 tales**:
     - [Spirit Stories](https://scp-wiki.wikidot.com/spirit-stories) (+34)
 
 ### [SCP-445-EX](https://scp-wiki.wikidot.com/scp-445-ex)
 - **Metatitle**: The Word of the Day is Hope
 - **Rate**: +121
-- **Cited by 1 objects**: 
+- **Cited by 1 SCPs**:
     - [SCP-2728](https://scp-wiki.wikidot.com/scp-2728) (On the Barcelona Skyline, +188)
-- **Associated with 0 articles**
 
 ### [SCP-711-EX](https://scp-wiki.wikidot.com/scp-711-ex)
 - **Metatitle**: Man From The Future Present
 - **Rate**: +321
-- **Cited by 0 objects**
-- **Associated with 0 articles**
 
 ### [SCP-888-EX](https://scp-wiki.wikidot.com/scp-888-ex)
 - **Metatitle**: tan and laundry by dado
 - **Rate**: +234
-- **Cited by 3 objects**: 
+- **Cited by 3 SCPs**:
     - [SCP-4348](https://scp-wiki.wikidot.com/scp-4348) (dado borger and france fry, +174)
     - [SCP-2684](https://scp-wiki.wikidot.com/scp-2684) (Where's the Beach?, +104)
     - [SCP-2444](https://scp-wiki.wikidot.com/scp-2444) (Flea Circus, +85)
-- **Associated with 1 articles**: 
+- **Appears in 1 tales**:
     - [Log of Extranormal Events](https://scp-wiki.wikidot.com/log-of-extranormal-events) (+533)
 
 ### [SCP-920-EX](https://scp-wiki.wikidot.com/scp-920-ex)
 - **Metatitle**: Evil Workgroup Printer
 - **Rate**: +156
-- **Cited by 0 objects**
-- **Associated with 0 articles**
 
 ### [SCP-1094-EX](https://scp-wiki.wikidot.com/scp-1094-ex)
 - **Metatitle**: Between A Rock And A Hard Place
 - **Rate**: +152
-- **Cited by 0 objects**
-- **Associated with 1 articles**: 
+- **Appears in 1 tales**:
     - [Last Moments](https://scp-wiki.wikidot.com/last-moments) (+39)
 
 ### [SCP-1401-EX](https://scp-wiki.wikidot.com/scp-1401-ex)
 - **Metatitle**: Have You Been Scrombled?
 - **Rate**: +191
-- **Cited by 14 objects**: 
+- **Cited by 14 SCPs**:
     - [SCP-4966](https://scp-wiki.wikidot.com/scp-4966) (Tubbioca: Devourer of Souls, Consumer of Secrets, Lord of Munchies, +394)
     - [SCP-4088](https://scp-wiki.wikidot.com/scp-4088) (Sing us a song, you're a piano, man, +184)
     - [SCP-4052](https://scp-wiki.wikidot.com/scp-4052) (Sandwich (disambiguation), +156)
@@ -95,100 +87,80 @@
     - [SCP-3462](https://scp-wiki.wikidot.com/scp-3462) (Lights, Camera, REDACTION, +73)
     - [SCP-4286](https://scp-wiki.wikidot.com/scp-4286) (The Skeleton Fairy, +70)
     - [SCP-4570](https://scp-wiki.wikidot.com/scp-4570) (Almost Heaven, West Virginia, +53)
-- **Associated with 1 articles**: 
+- **Appears in 1 tales**:
     - [Gamers Against Weed Dossier](https://scp-wiki.wikidot.com/gamers-against-weed-dossier) (+149)
 
 ### [SCP-1512-EX](https://scp-wiki.wikidot.com/scp-1512-ex)
 - **Metatitle**: 3D Bioprinting
 - **Rate**: +83
-- **Cited by 0 objects**
-- **Associated with 0 articles**
 
 ### [SCP-1548-EX](https://scp-wiki.wikidot.com/scp-1548-ex)
 - **Metatitle**: A Hateful Star
 - **Rate**: +132
-- **Cited by 0 objects**
-- **Associated with 0 articles**
 
 ### [SCP-1763-EX](https://scp-wiki.wikidot.com/scp-1763-ex)
 - **Metatitle**: Hοw To Write An SCP
 - **Rate**: +299
-- **Cited by 0 objects**
-- **Associated with 2 articles**: 
-    - [Your Very First SCP!](https://scp-wiki.wikidot.com/your-very-first-scp) (+474)
-    - [Joey Fucknuts Believes In Himself](https://scp-wiki.wikidot.com/joey-fucknuts-believes-in-himself) (+128)
+- **Appears in 2 tales**:
+    - [Joey Fucknuts Believes In Himself](https://scp-wiki.wikidot.com/joey-fucknuts-believes-in-himself) (+129)
+    - [Project RUBY](https://scp-wiki.wikidot.com/project-ruby) (+56)
 
 ### [SCP-1841-EX](https://scp-wiki.wikidot.com/scp-1841-ex)
 - **Metatitle**: Lisztomania
 - **Rate**: +291
-- **Cited by 0 objects**
-- **Associated with 2 articles**: 
+- **Appears in 3 tales**:
+    - [Snippets of an Unveiled World](https://scp-wiki.wikidot.com/broken-masquerade-epistolary) (+173)
     - [Ask Lord Blackwood](https://scp-wiki.wikidot.com/ask-lord-blackwood) (+99)
     - [Bigger Than Jesus](https://scp-wiki.wikidot.com/bigger-than-jesus) (+98)
 
 ### [SCP-1851-EX](https://scp-wiki.wikidot.com/scp-1851-ex)
 - **Metatitle**: Drapetomania
 - **Rate**: +429
-- **Cited by 1 objects**: 
+- **Cited by 1 SCPs**:
     - [SCP-001](https://scp-wiki.wikidot.com/wrong-proposal) (Wrong Proposal, +397)
-- **Associated with 0 articles**
 
 ### [SCP-1927-EX](https://scp-wiki.wikidot.com/scp-1927-ex)
 - **Metatitle**: Farnsworth Effect
 - **Rate**: +81
-- **Cited by 0 objects**
-- **Associated with 0 articles**
 
 ### [SCP-1933-EX](https://scp-wiki.wikidot.com/scp-1933-ex)
 - **Metatitle**: Lake ███████ Monster
 - **Rate**: +193
-- **Cited by 1 objects**: 
+- **Cited by 1 SCPs**:
     - [SCP-3934](https://scp-wiki.wikidot.com/scp-3934) (For Sale: Loch Ness Monsters, +234)
-- **Associated with 0 articles**
 
 ### [SCP-1964-EX](https://scp-wiki.wikidot.com/scp-1964-ex)
 - **Metatitle**: A Massive Problem
 - **Rate**: +33
-- **Cited by 0 objects**
-- **Associated with 0 articles**
 
 ### [SCP-1974-EX](https://scp-wiki.wikidot.com/scp-1974-ex)
 - **Metatitle**: Hallucinogenic Dice
 - **Rate**: +155
-- **Cited by 0 objects**
-- **Associated with 0 articles**
 
 ### [SCP-2023-EX](https://scp-wiki.wikidot.com/scp-2023-ex)
 - **Metatitle**: Capable Athletes
 - **Rate**: +20
-- **Cited by 0 objects**
-- **Associated with 0 articles**
 
 ### [SCP-2600-EX](https://scp-wiki.wikidot.com/scp-2600-ex)
 - **Metatitle**: Furred Trout
 - **Rate**: +198
-- **Cited by 1 objects**: 
+- **Cited by 1 SCPs**:
     - [SCP-3148](https://scp-wiki.wikidot.com/scp-3148) (Tranquility, +115)
-- **Associated with 0 articles**
 
 ### [SCP-2700-EX](https://scp-wiki.wikidot.com/scp-2700-ex)
 - **Metatitle**: What I Did For Love
 - **Rate**: +346
-- **Cited by 1 objects**: 
+- **Cited by 1 SCPs**:
     - [SCP-3241](https://scp-wiki.wikidot.com/scp-3241) (The SS Sommerfeld, +342)
-- **Associated with 0 articles**
 
 ### [SCP-3000-EX](https://scp-wiki.wikidot.com/scp-3000-ex)
 - **Metatitle**: Modified Hospital Beds
 - **Rate**: +269
-- **Cited by 0 objects**
-- **Associated with 1 articles**: 
-    - [Your Very First SCP!](https://scp-wiki.wikidot.com/your-very-first-scp) (+474)
 
 ### [SCP-3393-EX](https://scp-wiki.wikidot.com/scp-3393-ex)
 - **Metatitle**: Girlfriend
 - **Rate**: +130
-- **Cited by 11 objects**: 
+- **Cited by 11 SCPs**:
     - [SCP-001](https://scp-wiki.wikidot.com/captain-kirby-s-proposal) (Captain Kirby's Proposal, +511)
     - [SCP-4514](https://scp-wiki.wikidot.com/scp-4514) (The Thing That Kills You, +427)
     - [SCP-3448](https://scp-wiki.wikidot.com/scp-3448) (Halfterlife, +423)
@@ -200,34 +172,29 @@
     - [SCP-4321](https://scp-wiki.wikidot.com/scp-4321) (Sometimes I Look At The Sky So I Can Feel Small, +284)
     - [SCP-3449](https://scp-wiki.wikidot.com/scp-3449) (The Things Left Unsaid, +278)
     - [SCP-3123](https://scp-wiki.wikidot.com/scp-3123) (Insult To Injury, +184)
-- **Associated with 2 articles**: 
-    - [Impossible-To-Destroy Reptile](https://scp-wiki.wikidot.com/impossible-to-destroy-reptile) (+341)
-    - [In The Clutches Of Life](https://scp-wiki.wikidot.com/in-the-clutches-of-life) (+254)
+- **Appears in 2 tales**:
+    - [Impossible-To-Destroy Reptile](https://scp-wiki.wikidot.com/impossible-to-destroy-reptile) (+342)
+    - [In The Clutches Of Life](https://scp-wiki.wikidot.com/in-the-clutches-of-life) (+256)
 
 ### [SCP-4023-EX](https://scp-wiki.wikidot.com/scp-4023-ex)
 - **Metatitle**: A Chemical Compound
 - **Rate**: +91
-- **Cited by 0 objects**
-- **Associated with 0 articles**
 
 ### [SCP-4445-EX](https://scp-wiki.wikidot.com/scp-4445-ex)
 - **Metatitle**: Jurassic Symbiotic Quadruped
 - **Rate**: +101
-- **Cited by 0 objects**
-- **Associated with 0 articles**
 
 ### [SCP-4734-EX](https://scp-wiki.wikidot.com/scp-4734-ex)
 - **Metatitle**: It Was Inside You All Along
 - **Rate**: +235
-- **Cited by 2 objects**: 
+- **Cited by 2 SCPs**:
     - [SCP-3504](https://scp-wiki.wikidot.com/scp-3504) ("And how will we know you are one of us?", +123)
     - [SCP-3995](https://scp-wiki.wikidot.com/scp-3995) (A Pair Of Lungs That May Or May Not Exist, +116)
-- **Associated with 0 articles**
 
 ### [SCP-5050-EX](https://scp-wiki.wikidot.com/scp-5050-ex)
 - **Metatitle**: Presto!
 - **Rate**: +64
-- **Cited by 26 objects**: 
+- **Cited by 26 SCPs**:
     - [SCP-2006](https://scp-wiki.wikidot.com/scp-2006) (Too Spooky, +1482)
     - [SCP-2950](https://scp-wiki.wikidot.com/scp-2950) (Just A Chair, +664)
     - [SCP-2599](https://scp-wiki.wikidot.com/scp-2599) (Not Good Enough, +645)
@@ -254,44 +221,42 @@
     - [SCP-5725](https://scp-wiki.wikidot.com/scp-5725) (We're Getting the Man Back Together Again, +64)
     - [SCP-2896](https://scp-wiki.wikidot.com/scp-2896) (To Sleep, Perchance to Dream (of Freedom), +48)
     - [SCP-5975](https://scp-wiki.wikidot.com/scp-5975) (The Cycle Keeps Spinning, +32)
-- **Associated with 13 articles**: 
+- **Appears in 15 tales**:
     - [The Meaning of Fear](https://scp-wiki.wikidot.com/the-meaning-of-fear) (+205)
     - [Right?](https://scp-wiki.wikidot.com/right) (+197)
     - [The Tinkerer](https://scp-wiki.wikidot.com/the-tinkerer) (+91)
     - [After The End](https://scp-wiki.wikidot.com/after-the-end) (+78)
     - [Spirit Dust](https://scp-wiki.wikidot.com/spirit-dust) (+63)
     - [Leisure Time](https://scp-wiki.wikidot.com/leisure-time) (+60)
-    - [The Space Soldier](https://scp-wiki.wikidot.com/the-space-soldier) (+40)
+    - [Mission Accomplished](https://scp-wiki.wikidot.com/mission-accomplished) (+55)
     - [Of Meetings and Meals](https://scp-wiki.wikidot.com/of-meetings-and-meals) (+40)
+    - [The Space Soldier](https://scp-wiki.wikidot.com/the-space-soldier) (+40)
     - [Trip Hammer](https://scp-wiki.wikidot.com/trip-hammer) (+37)
     - [A Broken Tool](https://scp-wiki.wikidot.com/a-broken-tool) (+33)
     - [Eulogies](https://scp-wiki.wikidot.com/eulogies) (+24)
     - [All Work and No Play](https://scp-wiki.wikidot.com/all-work-and-no-play) (+20)
     - [Another Day On The Job](https://scp-wiki.wikidot.com/another-day-on-the-job) (+14)
+    - [Conferencing](https://scp-wiki.wikidot.com/conferencing) (+10)
 
 ### [SCP-5297-EX](https://scp-wiki.wikidot.com/scp-5297-ex)
 - **Metatitle**: ROUGH DRAFT EDIT FOR BREVITY DO BY THURSDAY
 - **Rate**: +147
-- **Cited by 0 objects**
-- **Associated with 0 articles**
 
 ### [SCP-5735-EX](https://scp-wiki.wikidot.com/scp-5735-ex)
 - **Metatitle**: "Mystery 32" (2104)
 - **Rate**: +112
-- **Cited by 0 objects**
-- **Associated with 0 articles**
 
 ### [SCP-8900-EX](https://scp-wiki.wikidot.com/scp-8900-ex)
 - **Metatitle**: Sky Blue Sky
 - **Rate**: +941
-- **Cited by 6 objects**: 
+- **Cited by 6 SCPs**:
     - [SCP-4228](https://scp-wiki.wikidot.com/scp-4228) (Karma Kameleon, +235)
     - [SCP-3444](https://scp-wiki.wikidot.com/scp-3444) (She Took The Midnight Train Going Anywhere…, +155)
     - [SCP-3440](https://scp-wiki.wikidot.com/scp-3440) (The Marvellously Macabre Mechanical Marionette Matinee, +138)
     - [SCP-1914-J](https://scp-wiki.wikidot.com/scp-1914-j) (Silencing Piano, +113)
     - [SCP-2330](https://scp-wiki.wikidot.com/scp-2330) (A Convincing Whiteboard, +108)
     - [SCP-4039](https://scp-wiki.wikidot.com/scp-4039) (The Second Second Law of Thermodynamics, +95)
-- **Associated with 2 articles**: 
+- **Appears in 2 tales**:
     - [UMBRAL_MIGRATORY_SEQUENCE.txt](https://scp-wiki.wikidot.com/umbral-migratory-sequence) (+68)
     - [Fragments](https://scp-wiki.wikidot.com/fragments) (+45)
 
