@@ -46,9 +46,9 @@
 - **Metatitle**: Dreamer
 - **Rate**: unknown
 - **Cited by 1 SCPs**:
-    - [SCP-408](https://scp-wiki.wikidot.com/scp-408) (Illusory Butterflies, +342)
+    - [SCP-408](https://scp-wiki.wikidot.com/scp-408) (Illusory Butterflies, +344)
 - **Appears in 1 tales**:
-    - [Termination_Order](https://scp-wiki.wikidot.com/termination-order) (+364)
+    - [Termination_Order](https://scp-wiki.wikidot.com/termination-order) (+362)
 
 ### [SCP-547-D](https://scp-wiki.wikidot.com/decomm:scp-547-d)
 - **Metatitle**: Nature's Fury

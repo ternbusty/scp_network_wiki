@@ -12,14 +12,14 @@
 - **Metatitle**: Plague Doctor
 - **Rate**: +127
 - **Appears in 2 tales**:
-    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1629)
+    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1630)
     - [Containment Breach The Musical](https://scp-wiki.wikidot.com/containment-breach-the-musical) (+252)
 
 ### [SCP-091-ARC](https://scp-wiki.wikidot.com/scp-091-arc)
 - **Metatitle**: Wood Nymph
 - **Rate**: +30
 - **Cited by 1 SCPs**:
-    - [SCP-408](https://scp-wiki.wikidot.com/scp-408) (Illusory Butterflies, +342)
+    - [SCP-408](https://scp-wiki.wikidot.com/scp-408) (Illusory Butterflies, +344)
 - **Appears in 1 tales**:
     - [Incident 239-B - Clef-Kondraki](https://scp-wiki.wikidot.com/incident-239-b-clef-kondraki) (+290)
 
@@ -27,8 +27,10 @@
 - **Metatitle**: Sufferer of the World's Sorrow
 - **Rate**: +38
 - **Cited by 2 SCPs**:
-    - [SCP-035](https://scp-wiki.wikidot.com/scp-035) (Possessive Mask, +1516)
+    - [SCP-035](https://scp-wiki.wikidot.com/scp-035) (Possessive Mask, +1519)
     - [SCP-1550-J](https://scp-wiki.wikidot.com/scp-1550-j) (The Professor's Wheelchair, +164)
+- **Associated with**:
+    - [The Foundation And Evil](https://scp-wiki.wikidot.com/the-foundation-and-evil) (+146)
 
 ### [SCP-138-ARC](https://scp-wiki.wikidot.com/scp-138-arc)
 - **Metatitle**: Splitting Medallion
@@ -48,13 +50,13 @@
 - **Appears in 9 tales**:
     - [Incident 239-B - Clef-Kondraki](https://scp-wiki.wikidot.com/incident-239-b-clef-kondraki) (+290)
     - [Let Sleeping Dogs Lie, a Play in two Acts](https://scp-wiki.wikidot.com/let-sleeping-dogs-lie-a-play-in-two-acts) (+86)
-    - [Digging up the Past](https://scp-wiki.wikidot.com/digging-up-the-past) (+74)
+    - [Digging up the Past](https://scp-wiki.wikidot.com/digging-up-the-past) (+75)
     - [Persephone Project](https://scp-wiki.wikidot.com/persephone-project) (+73)
     - [Who Wants To Live Forever?](https://scp-wiki.wikidot.com/who-wants-to-live-forever) (+61)
-    - [The Drooling Path:  Part 2](https://scp-wiki.wikidot.com/the-drooling-path-part-2) (+22)
+    - [The Drooling Path:  Part 2](https://scp-wiki.wikidot.com/the-drooling-path-part-2) (+23)
     - [1st - 12th December 2008](https://scp-wiki.wikidot.com/1st-12th-december-2008) (+15)
-    - [24th December 2008 14th January 2009](https://scp-wiki.wikidot.com/24th-december-2008-14th-january-2009) (+10)
     - [13th-23rd December 2008](https://scp-wiki.wikidot.com/13th-23rd-december-2008) (+10)
+    - [24th December 2008 14th January 2009](https://scp-wiki.wikidot.com/24th-december-2008-14th-january-2009) (+10)
 
 ### [SCP-400-ARC](https://scp-wiki.wikidot.com/scp-400-arc)
 - **Metatitle**: A Telephone Box
@@ -140,7 +142,7 @@
 - **Metatitle**: Gay Bomb
 - **Rate**: -45
 - **Appears in 2 tales**:
-    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1629)
+    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1630)
     - [To my staff](https://scp-wiki.wikidot.com/dad-please-it-isnt-funny) (+74)
 
 ### [SCP-257-ARC](https://scp-wiki.wikidot.com/scp-257-arc)

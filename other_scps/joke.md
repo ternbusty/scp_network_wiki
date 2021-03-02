@@ -2,43 +2,46 @@
 
 ### [CIMMERIAN-KAKTUS-PROPOSAL](https://scp-wiki.wikidot.com/cimmerian-kaktus-proposal)
 - **Metatitle**: "The Broke God"
-- **Rate**: +547
+- **Rate**: +552
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [DAVEYOUFOOL-PROPOSAL](https://scp-wiki.wikidot.com/daveyoufool-proposal)
 - **Metatitle**: "KEEP CALM AND APOLLY ON"
-- **Rate**: +283
+- **Rate**: +285
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 1 tales**:
-    - [Log Of Anomalous Items, Vol III](https://scp-wiki.wikidot.com/log-of-anomalous-items-vol-iii) (+61)
+    - [Log Of Anomalous Items, Vol III](https://scp-wiki.wikidot.com/log-of-anomalous-items-vol-iii) (+62)
+- **Associated with**:
+    - [A Comprehensive List of K-Class Scenarios](https://scp-wiki.wikidot.com/k-class-complete-list) (+247)
 
 ### [WERYLLIUM-PROPOSAL](https://scp-wiki.wikidot.com/weryllium-proposal)
 - **Metatitle**: "The Question"
-- **Rate**: +561
+- **Rate**: +562
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [DJKAKTUS-S-PROPOSAL-J](https://scp-wiki.wikidot.com/djkaktus-s-proposal-j)
 - **Metatitle**: "RUMBLY IN ITS TUMBLY"
 - **Rate**: +229
-- **Cited by 4 SCPs**:
-    - [SCP-2932](https://scp-wiki.wikidot.com/scp-2932) (Titania's Prison, +422)
-    - [SCP-2846](https://scp-wiki.wikidot.com/scp-2846) (The Squid and the Sailor, +259)
-    - [SCP-2120](https://scp-wiki.wikidot.com/scp-2120) (Damage Control, +194)
+- **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 1 tales**:
     - [Site-81 Community Cookbook](https://scp-wiki.wikidot.com/site-81-community-cookbook) (+86)
+- **Associated with**:
+    - [A Comprehensive List of K-Class Scenarios](https://scp-wiki.wikidot.com/k-class-complete-list) (+247)
 
 ### [HENZOID-CROCKET-S-PROPOSAL-J](https://scp-wiki.wikidot.com/henzoid-crocket-s-proposal-j)
 - **Metatitle**: "When Day Breaks Up"
-- **Rate**: +120
+- **Rate**: +121
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [A Comprehensive List of K-Class Scenarios](https://scp-wiki.wikidot.com/k-class-complete-list) (+247)
 
 ### [DIRECTOR-BOLD-S-PROPOSAL-J](https://scp-wiki.wikidot.com/director-bold-s-proposal-j)
-- **Metatitle**: "A Not-So-Subtle Reality"
+- **Metatitle**: "Dare to Be Stupid"
 - **Rate**: +66
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
@@ -46,17 +49,10 @@
 ### [MZL-1730](https://scp-wiki.wikidot.com/mzl-1730)
 - **Metatitle**: What Happened to Site-19?
 - **Rate**: +330
-- **Cited by 10 SCPs**:
-    - [SCP-2740](https://scp-wiki.wikidot.com/scp-2740) (It Wasn't There, +609)
-    - [SCP-1864](https://scp-wiki.wikidot.com/scp-1864) (The Lonely Liar, +296)
-    - [SCP-2271](https://scp-wiki.wikidot.com/scp-2271) (Factory Loans, +279)
-    - [SCP-2540](https://scp-wiki.wikidot.com/scp-2540) (Time Lime, +266)
-    - [SCP-2846](https://scp-wiki.wikidot.com/scp-2846) (The Squid and the Sailor, +259)
-    - [SCP-2464](https://scp-wiki.wikidot.com/scp-2464) (Suspension, +214)
-    - [SCP-2120](https://scp-wiki.wikidot.com/scp-2120) (Damage Control, +194)
-    - [SCP-1994](https://scp-wiki.wikidot.com/scp-1994) (Rot, +189)
-    - [SCP-2812](https://scp-wiki.wikidot.com/scp-2812) (Echoes of Yesterday, +185)
+- **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [A Comprehensive List of K-Class Scenarios](https://scp-wiki.wikidot.com/k-class-complete-list) (+247)
 
 ### [SCP-O5-COUNCIL-J](https://scp-wiki.wikidot.com/scp-o5-council-j)
 - **Metatitle**: The O5 Council
@@ -78,13 +74,13 @@
 
 ### [SCP-001-J](https://scp-wiki.wikidot.com/scp-001-j)
 - **Metatitle**: The Big Red Button
-- **Rate**: +697
+- **Rate**: +699
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-001-EX-J](https://scp-wiki.wikidot.com/scp-001-ex-j)
 - **Metatitle**: Records of the CKG Gathering
-- **Rate**: +778
+- **Rate**: +783
 - **Cited by 2 SCPs**:
     - [SCP-19316-J](https://scp-wiki.wikidot.com/scp-19316-j) (Improper Terminology, +74)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
@@ -115,17 +111,19 @@
 
 ### [SCP-006-J](https://scp-wiki.wikidot.com/scp-006-j)
 - **Metatitle**: WHAT THE FUCK IS THAT THING
-- **Rate**: +1419
+- **Rate**: +1420
 - **Cited by 3 SCPs**:
     - [SCP-536-J](https://scp-wiki.wikidot.com/scp-536-j) (It's on the back of your head, +359)
     - [SCP-724-J](https://scp-wiki.wikidot.com/scp-724-j) (Bad Roach, +142)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 1 tales**:
     - [First Quarto](https://scp-wiki.wikidot.com/first-quarto) (+50)
+- **Associated with**:
+    - [A Comprehensive List of Mobile Task Forces](https://scp-wiki.wikidot.com/task-forces-complete-list)
 
 ### [SCP-007-J](https://scp-wiki.wikidot.com/scp-007-j)
 - **Metatitle**: Unidentified Muffin Creature
-- **Rate**: +257
+- **Rate**: +259
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
@@ -137,13 +135,13 @@
 
 ### [SCP-009-J](https://scp-wiki.wikidot.com/scp-009-j)
 - **Metatitle**: Where Is It?
-- **Rate**: +592
+- **Rate**: +593
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-010-J](https://scp-wiki.wikidot.com/scp-010-j)
 - **Metatitle**: WHAT KETER I DON'T SEE ANY KETER
-- **Rate**: +507
+- **Rate**: +510
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
@@ -157,7 +155,7 @@
 - **Metatitle**: Special Comedy Procedures
 - **Rate**: +120
 - **Cited by 2 SCPs**:
-    - [SCP-914](https://scp-wiki.wikidot.com/scp-914) (The Clockworks, +2358)
+    - [SCP-914](https://scp-wiki.wikidot.com/scp-914) (The Clockworks, +2363)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-013-J](https://scp-wiki.wikidot.com/scp-013-j)
@@ -168,11 +166,13 @@
 
 ### [SCP-014-J](https://scp-wiki.wikidot.com/scp-014-j)
 - **Metatitle**: A Fork
-- **Rate**: +307
+- **Rate**: +308
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 1 tales**:
-    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1629)
+    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1630)
+- **Associated with**:
+    - [History Of The Universe: Part Two](https://scp-wiki.wikidot.com/history-of-the-universe-part-two) (+248)
 
 ### [SCP-015-J](https://scp-wiki.wikidot.com/scp-015-j)
 - **Metatitle**: Just Really Misunderstood
@@ -183,23 +183,9 @@
 ### [SCP-016-J](https://scp-wiki.wikidot.com/scp-016-j)
 - **Metatitle**: Is That A Missile In Your Pocket?
 - **Rate**: +185
-- **Cited by 13 SCPs**:
-    - [SCP-3393](https://scp-wiki.wikidot.com/scp-3393) (For Your Eyes Only, +829)
-    - [SCP-001](https://scp-wiki.wikidot.com/captain-kirby-s-proposal) (Captain Kirby's Proposal, +511)
-    - [SCP-4514](https://scp-wiki.wikidot.com/scp-4514) (The Thing That Kills You, +427)
-    - [SCP-3448](https://scp-wiki.wikidot.com/scp-3448) (Halfterlife, +423)
-    - [SCP-5552](https://scp-wiki.wikidot.com/scp-5552) (Our Stolen Theory, +403)
-    - [SCP-5003](https://scp-wiki.wikidot.com/scp-5003) (Powerless, +354)
-    - [SCP-3305](https://scp-wiki.wikidot.com/scp-3305) (The Father, The Son, and The Holy Toast, +351)
-    - [SCP-3844](https://scp-wiki.wikidot.com/scp-3844) (To Slay A Dragon, +343)
-    - [SCP-4877](https://scp-wiki.wikidot.com/scp-4877) (Good Airwaves, +288)
-    - [SCP-4321](https://scp-wiki.wikidot.com/scp-4321) (Sometimes I Look At The Sky So I Can Feel Small, +284)
-    - [SCP-3449](https://scp-wiki.wikidot.com/scp-3449) (The Things Left Unsaid, +278)
-    - [SCP-3123](https://scp-wiki.wikidot.com/scp-3123) (Insult To Injury, +184)
+- **Cited by 2 SCPs**:
+    - [CAPTAIN-KIRBY-S-PROPOSAL](https://scp-wiki.wikidot.com/captain-kirby-s-proposal) (Captain Kirby's Proposal, +511)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
-- **Appears in 2 tales**:
-    - [Impossible-To-Destroy Reptile](https://scp-wiki.wikidot.com/impossible-to-destroy-reptile) (+342)
-    - [In The Clutches Of Life](https://scp-wiki.wikidot.com/in-the-clutches-of-life) (+256)
 
 ### [SCP-017-J](https://scp-wiki.wikidot.com/scp-017-j)
 - **Metatitle**: Narcissistic Time Displacement Field
@@ -218,35 +204,8 @@
 ### [SCP-020-J](https://scp-wiki.wikidot.com/scp-020-j)
 - **Metatitle**: A Pale Comparison
 - **Rate**: +119
-- **Cited by 15 SCPs**:
-    - [SCP-4934](https://scp-wiki.wikidot.com/scp-4934) (The House That Chuck Built, +229)
-    - [SCP-3867](https://scp-wiki.wikidot.com/scp-3867) (♡♡♡Sweet Cats & Perfect Dogs!♡♡♡, +227)
-    - [SCP-4176](https://scp-wiki.wikidot.com/scp-4176) (Taxes, +223)
-    - [SCP-3803](https://scp-wiki.wikidot.com/scp-3803) (Custom-Made Business Cards, On the Go!, +181)
-    - [SCP-3863](https://scp-wiki.wikidot.com/scp-3863) (Hole-y cow! I can't bee-lieve it!, +124)
-    - [SCP-3874](https://scp-wiki.wikidot.com/scp-3874) (Six-Hundred To One, +108)
-    - [SCP-4056](https://scp-wiki.wikidot.com/scp-4056) (Nuclear Family Unit, +107)
-    - [SCP-5057](https://scp-wiki.wikidot.com/scp-5057) (Señor Taste, +106)
-    - [SCP-3879](https://scp-wiki.wikidot.com/scp-3879) (Musical Jolly Ape™ by Dr. Wondertainment, +101)
-    - [SCP-4982](https://scp-wiki.wikidot.com/scp-4982) (Heavy lies the crown., +100)
-    - [SCP-4726](https://scp-wiki.wikidot.com/scp-4726) (G A M E R M I L K, +99)
-    - [SCP-5047](https://scp-wiki.wikidot.com/scp-5047) (Apartment Hunting, +91)
-    - [SCP-3756](https://scp-wiki.wikidot.com/scp-3756) (In Space, No One Can Hear Yee-haw!, +74)
-    - [SCP-1712](https://scp-wiki.wikidot.com/scp-1712) (An Unusual Occurrence On August 11th, 1959, +44)
+- **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
-- **Appears in 12 tales**:
-    - [SCP-049-ΩK](https://scp-wiki.wikidot.com/omega-k-049) (+181)
-    - [Dr. Cimmerian Hits Reply All](https://scp-wiki.wikidot.com/cimmerian-sends-650-pms) (+152)
-    - [Dark was the night, cold was the ground.](https://scp-wiki.wikidot.com/world-went-beautiful) (+83)
-    - [RAISA-6147 (PENDING ASSIGNMENT)](https://scp-wiki.wikidot.com/raisa-6147) (+70)
-    - [I Don't Get It, But I'll Figure It Out.](https://scp-wiki.wikidot.com/coming-out-to-the-woods) (+70)
-    - [S&C Paper](https://scp-wiki.wikidot.com/sc-paper) (+66)
-    - [The Hermit, Death, and The Devil](https://scp-wiki.wikidot.com/the-hermit-death-and-the-devil) (+60)
-    - [Robin](https://scp-wiki.wikidot.com/robin) (+45)
-    - [Square your shoulders, lift your pack, and leave your friends and go.](https://scp-wiki.wikidot.com/square-your-shoulders) (+41)
-    - [(Too) Late Registration](https://scp-wiki.wikidot.com/late-registration) (+39)
-    - [The Case of the Bathroom Cheese Labels](https://scp-wiki.wikidot.com/the-case-of-the-bathroom-cheese-labels) (+26)
-    - [Nobody Likes Having Enemies](https://scp-wiki.wikidot.com/nobody-likes-having-enemies) (+23)
 
 ### [SCP-022-J](https://scp-wiki.wikidot.com/scp-022-j)
 - **Metatitle**: Memetic Metal
@@ -270,27 +229,35 @@
 
 ### [SCP-027-J](https://scp-wiki.wikidot.com/scp-027-j)
 - **Metatitle**: Schrödinger's Remote
-- **Rate**: +175
+- **Rate**: +176
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [Advanced Formatting and You](https://scp-wiki.wikidot.com/advanced-formatting-and-you) (+211)
 
 ### [SCP-028-J](https://scp-wiki.wikidot.com/scp-028-j)
 - **Metatitle**: PC Load Letter?!
-- **Rate**: +357
+- **Rate**: +356
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [Meet the Administrators - DrMagnus](https://scp-wiki.wikidot.com/meet-the-administrators-drmagnus) (+45)
 
 ### [SCP-029-J](https://scp-wiki.wikidot.com/scp-029-j)
 - **Metatitle**: Jesus Take the Wheel!
 - **Rate**: +139
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [Meet the Administrators - DrMagnus](https://scp-wiki.wikidot.com/meet-the-administrators-drmagnus) (+45)
 
 ### [SCP-030-J](https://scp-wiki.wikidot.com/scp-030-j)
 - **Metatitle**: Jim Henson is a Real Son of a Bitch
-- **Rate**: +90
+- **Rate**: +91
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [Meet the Administrators - DrMagnus](https://scp-wiki.wikidot.com/meet-the-administrators-drmagnus) (+45)
 
 ### [SCP-031-J](https://scp-wiki.wikidot.com/scp-031-j)
 - **Metatitle**: Evening of Terrors
@@ -312,18 +279,14 @@
 
 ### [SCP-049-J](https://scp-wiki.wikidot.com/scp-049-j)
 - **Metatitle**: The Plague Fellow
-- **Rate**: +898
-- **Cited by 6 SCPs**:
-    - [SCP-1730](https://scp-wiki.wikidot.com/scp-1730) (What Happened to Site-13?, +1975)
-    - [SCP-2399](https://scp-wiki.wikidot.com/scp-2399) (A Malfunctioning Destroyer, +787)
-    - [SCP-2540](https://scp-wiki.wikidot.com/scp-2540) (Time Lime, +266)
-    - [SCP-2670](https://scp-wiki.wikidot.com/scp-2670) (Somebody Else's God, +196)
+- **Rate**: +902
+- **Cited by 2 SCPs**:
     - [SCP-2718-J](https://scp-wiki.wikidot.com/scp-2718-j) (Weekend at Dammerung's, +83)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 5 tales**:
-    - [Boiled, Scrambled, and Fried](https://scp-wiki.wikidot.com/boiled-scrambled-and-fried) (+142)
-    - [SCP-049-D](https://scp-wiki.wikidot.com/scp-049-d) (+109)
-    - [Let Me Cure Her, Daddy](https://scp-wiki.wikidot.com/let-me-cure-her-daddy) (+87)
+    - [Boiled, Scrambled, and Fried](https://scp-wiki.wikidot.com/boiled-scrambled-and-fried) (+143)
+    - [SCP-049-D](https://scp-wiki.wikidot.com/scp-049-d) (+110)
+    - [Let Me Cure Her, Daddy](https://scp-wiki.wikidot.com/let-me-cure-her-daddy) (+88)
     - [Cack Hard 2: Revengeance: Reloaded](https://scp-wiki.wikidot.com/cack-hard-2-revengeance-reloaded) (+62)
     - [The Cure](https://scp-wiki.wikidot.com/the-cure) (+33)
 
@@ -362,6 +325,8 @@
 - **Rate**: +153
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [A Comprehensive List of K-Class Scenarios](https://scp-wiki.wikidot.com/k-class-complete-list) (+247)
 
 ### [SCP-078-J](https://scp-wiki.wikidot.com/scp-078-j)
 - **Metatitle**: Cooties
@@ -372,11 +337,15 @@
 ### [SCP-80S-J](https://scp-wiki.wikidot.com/scp-80s-j)
 - **Metatitle**: Strangerer Things
 - **Rate**: +177
-- **Cited by 5 SCPs**:
-    - [SCP-1730](https://scp-wiki.wikidot.com/scp-1730) (What Happened to Site-13?, +1975)
-    - [SCP-2598](https://scp-wiki.wikidot.com/scp-2598) (Traveling Moth Salesman, +461)
-    - [SCP-2445](https://scp-wiki.wikidot.com/scp-2445) (Wondertainment Logistics, +250)
-    - [SCP-2464](https://scp-wiki.wikidot.com/scp-2464) (Suspension, +214)
+- **Cited by 1 SCPs**:
+    - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [A Comprehensive List of Mobile Task Forces](https://scp-wiki.wikidot.com/task-forces-complete-list)
+
+### [SCP-093-J](https://scp-wiki.wikidot.com/scp-093-j)
+- **Metatitle**: Failed Embezzlement Scheme
+- **Rate**: +34
+- **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-095-J](https://scp-wiki.wikidot.com/scp-095-j)
@@ -386,6 +355,8 @@
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 1 tales**:
     - [Second Quarto](https://scp-wiki.wikidot.com/second-quarto) (+29)
+- **Associated with**:
+    - [A Comprehensive List of Mobile Task Forces](https://scp-wiki.wikidot.com/task-forces-complete-list)
 
 ### [SCP-096-J](https://scp-wiki.wikidot.com/scp-096-j)
 - **Metatitle**: NarrAway
@@ -413,19 +384,11 @@
 
 ### [SCP-0110-J](https://scp-wiki.wikidot.com/scp-0110-j)
 - **Metatitle**: Personal Retirement, Effective Immediately
-- **Rate**: +104
-- **Cited by 7 SCPs**:
-    - [SCP-5464](https://scp-wiki.wikidot.com/scp-5464) (The Responsibility We Bear, +125)
-    - [SCP-5659](https://scp-wiki.wikidot.com/scp-5659) (A Beast of Lust And Hatred Born, +71)
-    - [SCP-0000-EX](https://scp-wiki.wikidot.com/scp-0000-ex) (An Ode to The Forgotten, +58)
-    - [SCP-5795](https://scp-wiki.wikidot.com/scp-5795) (High Court, +46)
-    - [SCP-5936](https://scp-wiki.wikidot.com/scp-5936) (Those That Do Not Wish To Be Forgotten, +39)
-    - [SCP-5890](https://scp-wiki.wikidot.com/scp-5890) (Within The Inner Prisons We Ourselves Made, +35)
+- **Rate**: +105
+- **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
-- **Appears in 3 tales**:
-    - [The Watchman](https://scp-wiki.wikidot.com/the-watchman) (+56)
-    - [To Simply Be Loved](https://scp-wiki.wikidot.com/to-simply-be-loved) (+32)
-    - [Halfway Found, Halfway Lost](https://scp-wiki.wikidot.com/halfway-found-halfway-lost) (+22)
+- **Associated with**:
+    - [A Comprehensive List of K-Class Scenarios](https://scp-wiki.wikidot.com/k-class-complete-list) (+247)
 
 ### [SCP-111-J](https://scp-wiki.wikidot.com/scp-111-j)
 - **Metatitle**: An Innocent Suburban Household
@@ -435,9 +398,9 @@
 
 ### [SCP-118-J](https://scp-wiki.wikidot.com/scp-118-j)
 - **Metatitle**: The Saltiest Doctor Alive
-- **Rate**: +195
+- **Rate**: +196
 - **Cited by 2 SCPs**:
-    - [SCP-1026-J](https://scp-wiki.wikidot.com/scp-1026-j) (Mr. Somebody, +102)
+    - [SCP-1026-J](https://scp-wiki.wikidot.com/scp-1026-j) (Mr. Somebody, +103)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-123-J](https://scp-wiki.wikidot.com/scp-123-j)
@@ -446,7 +409,7 @@
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 1 tales**:
-    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1629)
+    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1630)
 
 ### [SCP-145-J](https://scp-wiki.wikidot.com/scp-145-j)
 - **Metatitle**: Another Shitty Day at Work
@@ -477,36 +440,27 @@
 - **Cited by 2 SCPs**:
     - [SPC-169-J](https://scp-wiki.wikidot.com/spc-169-j) (The Big One, +274)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [A Comprehensive List of K-Class Scenarios](https://scp-wiki.wikidot.com/k-class-complete-list) (+247)
 
 ### [SCP-173-J](https://scp-wiki.wikidot.com/scp-173-j)
 - **Metatitle**: The Original "The Sculpture"
-- **Rate**: +679
+- **Rate**: +681
 - **Cited by 2 SCPs**:
-    - [SCP-3301](https://scp-wiki.wikidot.com/scp-3301) (THE FOUNDATION, +671)
+    - [SCP-3301](https://scp-wiki.wikidot.com/scp-3301) (THE FOUNDATION, +675)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [Essays On Style](https://scp-wiki.wikidot.com/essays-on-style) (+65)
 
 ### [SPC-173-J](https://scp-wiki.wikidot.com/spc-173-j)
 - **Metatitle**: A Fiesta Shark Statue Brutally Enforcing Vacation Time
-- **Rate**: +230
-- **Cited by 15 SCPs**:
-    - [SCP-001](https://scp-wiki.wikidot.com/shaggydredlocks-proposal) (S. D. Locke's Proposal, +1643)
-    - [SCP-3280](https://scp-wiki.wikidot.com/scp-3280) (After the Storm, +422)
-    - [SCP-2193](https://scp-wiki.wikidot.com/scp-2193) ("Monthly Termination", +387)
-    - [SCP-3980](https://scp-wiki.wikidot.com/scp-3980) (Blind Lead the Blind, +350)
-    - [SCP-783](https://scp-wiki.wikidot.com/scp-783) (There Was A Crooked Man, +325)
-    - [SPC-173-J](https://scp-wiki.wikidot.com/spc-173-j) (A Fiesta Shark Statue Brutally Enforcing Vacation Time, +230)
-    - [SCP-1661](https://scp-wiki.wikidot.com/scp-1661) (Gremlins, +208)
-    - [SCP-2923](https://scp-wiki.wikidot.com/scp-2923) (X-Men Syndrome, +207)
-    - [SCP-2385](https://scp-wiki.wikidot.com/scp-2385) (Somewhere In The Between, +178)
-    - [SCP-3963](https://scp-wiki.wikidot.com/scp-3963) (I Contain Multitudes, +158)
-    - [SCP-4910](https://scp-wiki.wikidot.com/scp-4910) ("The Grinner", +136)
-    - [SCP-3246](https://scp-wiki.wikidot.com/scp-3246) (A Nice Old Lady, +116)
+- **Rate**: +231
+- **Cited by 3 SCPs**:
+    - [SHAGGYDREDLOCKS-PROPOSAL](https://scp-wiki.wikidot.com/shaggydredlocks-proposal) (S. D. Locke's Proposal, +1643)
     - [SPC-2935-J](https://scp-wiki.wikidot.com/spc-2935-j) (O, Fin, +113)
-    - [SCP-3247](https://scp-wiki.wikidot.com/scp-3247) (A Magic Mime and his Mighty Morphin' Method Acting Spider Kids, +111)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
-- **Appears in 2 tales**:
-    - [Avian Anthology I](https://scp-wiki.wikidot.com/avian-anthology-i) (+61)
-    - [A Reason To Die](https://scp-wiki.wikidot.com/a-reason-to-die) (+40)
+- **Appears in 1 tales**:
+    - [Avian Anthology I](https://scp-wiki.wikidot.com/avian-anthology-i) (+62)
 
 ### [SCP-184-J](https://scp-wiki.wikidot.com/scp-184-j)
 - **Metatitle**: The Elaboration Squirrel
@@ -517,7 +471,7 @@
 
 ### [SCP-1D6-J](https://scp-wiki.wikidot.com/scp-1d6-j)
 - **Metatitle**: Gygax's Folly
-- **Rate**: +373
+- **Rate**: +374
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
@@ -539,12 +493,14 @@
 - **Rate**: +384
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [Mobile Task Forces](https://scp-wiki.wikidot.com/task-forces)
+    - [A Comprehensive List of Mobile Task Forces](https://scp-wiki.wikidot.com/task-forces-complete-list)
 
 ### [SCP-248-J](https://scp-wiki.wikidot.com/scp-248-j)
 - **Metatitle**: Picture It
-- **Rate**: +62
-- **Cited by 2 SCPs**:
-    - [SCP-248-J](https://scp-wiki.wikidot.com/scp-248-j) (Picture It, +62)
+- **Rate**: +63
+- **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-273-J](https://scp-wiki.wikidot.com/scp-273-j)
@@ -555,68 +511,25 @@
 
 ### [SCP-300-J](https://scp-wiki.wikidot.com/scp-300-j)
 - **Metatitle**: Our Glorious Ruler
-- **Rate**: +100
+- **Rate**: +99
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-309-J](https://scp-wiki.wikidot.com/scp-309-j)
 - **Metatitle**: the prime example of what not to do
-- **Rate**: +848
+- **Rate**: +852
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-314-J](https://scp-wiki.wikidot.com/scp-314-j)
 - **Metatitle**: Numerical Proofs (That You Suck)
 - **Rate**: +65
-- **Cited by 28 SCPs**:
-    - [SCP-2006](https://scp-wiki.wikidot.com/scp-2006) (Too Spooky, +1482)
-    - [SCP-2950](https://scp-wiki.wikidot.com/scp-2950) (Just A Chair, +664)
-    - [SCP-2599](https://scp-wiki.wikidot.com/scp-2599) (Not Good Enough, +645)
-    - [SCP-2800](https://scp-wiki.wikidot.com/scp-2800) (Cactusman, +451)
-    - [SCP-3200](https://scp-wiki.wikidot.com/scp-3200) (Chronos, +403)
-    - [SCP-4007](https://scp-wiki.wikidot.com/scp-4007) (Kagemusha, +312)
-    - [SCP-2750](https://scp-wiki.wikidot.com/scp-2750) (Navajo Skinwalkers, +219)
-    - [SCP-2201](https://scp-wiki.wikidot.com/scp-2201) (Cross-Dimensional Barbershop, +197)
-    - [SCP-2101](https://scp-wiki.wikidot.com/scp-2101) (The Imperial Army, +180)
-    - [SCP-2050](https://scp-wiki.wikidot.com/scp-2050) (Sciurine Crusaders, +171)
-    - [SCP-2301](https://scp-wiki.wikidot.com/scp-2301) (Slayer's Song, +160)
-    - [SCP-1842](https://scp-wiki.wikidot.com/scp-1842) (Dr. Wondertainment's Magic Microwave Set!, +155)
-    - [SCP-2012](https://scp-wiki.wikidot.com/scp-2012) (Perdidit in Tempore, +152)
-    - [SCP-2499](https://scp-wiki.wikidot.com/scp-2499) (Harmony of the Spheres, +143)
-    - [SCP-1644](https://scp-wiki.wikidot.com/scp-1644) (The Obelisk, +141)
-    - [SCP-2440](https://scp-wiki.wikidot.com/scp-2440) (The Sealed King, +134)
-    - [SCP-2775](https://scp-wiki.wikidot.com/scp-2775) (Bootleg Hoomans, +133)
-    - [SCP-2925](https://scp-wiki.wikidot.com/scp-2925) (Sphere of Influence, +118)
-    - [SCP-1758](https://scp-wiki.wikidot.com/scp-1758) (O Mio Babbino Caro, +113)
-    - [SCP-2625](https://scp-wiki.wikidot.com/scp-2625) (Chipperee Mine, +81)
-    - [SCP-2588](https://scp-wiki.wikidot.com/scp-2588) (The Collective Consciousness of Arthur H. Jones, +79)
-    - [SCP-972](https://scp-wiki.wikidot.com/scp-972) (Immunity, +78)
-    - [SCP-314-J](https://scp-wiki.wikidot.com/scp-314-j) (Numerical Proofs (That You Suck), +65)
-    - [SCP-5050-EX](https://scp-wiki.wikidot.com/scp-5050-ex) (Presto!, +64)
-    - [SCP-5725](https://scp-wiki.wikidot.com/scp-5725) (We're Getting the Man Back Together Again, +64)
-    - [SCP-2896](https://scp-wiki.wikidot.com/scp-2896) (To Sleep, Perchance to Dream (of Freedom), +48)
-    - [SCP-5975](https://scp-wiki.wikidot.com/scp-5975) (The Cycle Keeps Spinning, +32)
+- **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
-- **Appears in 15 tales**:
-    - [The Meaning of Fear](https://scp-wiki.wikidot.com/the-meaning-of-fear) (+205)
-    - [Right?](https://scp-wiki.wikidot.com/right) (+197)
-    - [The Tinkerer](https://scp-wiki.wikidot.com/the-tinkerer) (+91)
-    - [After The End](https://scp-wiki.wikidot.com/after-the-end) (+78)
-    - [Spirit Dust](https://scp-wiki.wikidot.com/spirit-dust) (+63)
-    - [Leisure Time](https://scp-wiki.wikidot.com/leisure-time) (+60)
-    - [Mission Accomplished](https://scp-wiki.wikidot.com/mission-accomplished) (+55)
-    - [Of Meetings and Meals](https://scp-wiki.wikidot.com/of-meetings-and-meals) (+40)
-    - [The Space Soldier](https://scp-wiki.wikidot.com/the-space-soldier) (+40)
-    - [Trip Hammer](https://scp-wiki.wikidot.com/trip-hammer) (+37)
-    - [A Broken Tool](https://scp-wiki.wikidot.com/a-broken-tool) (+33)
-    - [Eulogies](https://scp-wiki.wikidot.com/eulogies) (+24)
-    - [All Work and No Play](https://scp-wiki.wikidot.com/all-work-and-no-play) (+20)
-    - [Another Day On The Job](https://scp-wiki.wikidot.com/another-day-on-the-job) (+14)
-    - [Conferencing](https://scp-wiki.wikidot.com/conferencing) (+10)
 
 ### [SCP-329-J](https://scp-wiki.wikidot.com/scp-329-j)
 - **Metatitle**: The Ghoooost Siiiign
-- **Rate**: +637
+- **Rate**: +638
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 1 tales**:
@@ -624,7 +537,7 @@
 
 ### [SCP-333-J](https://scp-wiki.wikidot.com/scp-333-j)
 - **Metatitle**: Skippy's Corner Pub
-- **Rate**: +174
+- **Rate**: +176
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
@@ -636,42 +549,15 @@
 
 ### [SCP-343-J](https://scp-wiki.wikidot.com/scp-343-j)
 - **Metatitle**: Russell's Soup Can
-- **Rate**: +96
+- **Rate**: +98
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-371-J](https://scp-wiki.wikidot.com/scp-371-j)
 - **Metatitle**: peanut funi xd 🥜😂
-- **Rate**: +160
-- **Cited by 11 SCPs**:
-    - [SCP-4003](https://scp-wiki.wikidot.com/scp-4003) (On Cowboys, Catholicism, and the Cretaceous, +359)
-    - [SCP-4046](https://scp-wiki.wikidot.com/scp-4046) (What do you want to be when you grow up?, +233)
-    - [SCP-4934](https://scp-wiki.wikidot.com/scp-4934) (The House That Chuck Built, +229)
-    - [SCP-3803](https://scp-wiki.wikidot.com/scp-3803) (Custom-Made Business Cards, On the Go!, +181)
-    - [SCP-020-J](https://scp-wiki.wikidot.com/scp-020-j) (A Pale Comparison, +119)
-    - [SCP-5057](https://scp-wiki.wikidot.com/scp-5057) (Señor Taste, +106)
-    - [SCP-2983](https://scp-wiki.wikidot.com/scp-2983) (Choco-Wonder Explosion Marshmallow Bites!™ by Dr. Wondertainment, +105)
-    - [SCP-5726](https://scp-wiki.wikidot.com/scp-5726) (Sparkling Magical Girl ♥ Darling Pink!!, +81)
-    - [SCP-5231](https://scp-wiki.wikidot.com/scp-5231) (127.0.0.WAN, +76)
-    - [SCP-3297](https://scp-wiki.wikidot.com/scp-3297) (Gramma Always Remembers., +48)
+- **Rate**: +162
+- **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
-- **Appears in 16 tales**:
-    - [SCP-049-ΩK](https://scp-wiki.wikidot.com/omega-k-049) (+181)
-    - [Dr. Cimmerian Hits Reply All](https://scp-wiki.wikidot.com/cimmerian-sends-650-pms) (+152)
-    - [Moon Champion's Cinco de Mayo Extravaganza](https://scp-wiki.wikidot.com/moon-champion-s-cinco-de-mayo-extravaganza) (+124)
-    - [Cool Guys Don't Look At Explosions](https://scp-wiki.wikidot.com/cool-guys-dont-look-at-explosions) (+110)
-    - [Reality TV, Designer Pets, and Fine Dining](https://scp-wiki.wikidot.com/reality-tv-designer-pets-and-fine-dining) (+79)
-    - [S&C Paper](https://scp-wiki.wikidot.com/sc-paper) (+66)
-    - [Gentle Wings Flutter Quietly In The Dark](https://scp-wiki.wikidot.com/gentle-wings-flutter-quietly-in-the-dark) (+65)
-    - [Clef Goes To The DMV](https://scp-wiki.wikidot.com/clef-goes-to-the-dmv) (+63)
-    - [The Hermit, Death, and The Devil](https://scp-wiki.wikidot.com/the-hermit-death-and-the-devil) (+60)
-    - [SCP-5057 Additional Documentation](https://scp-wiki.wikidot.com/the-good-ending) (+53)
-    - [Tim Wilson's Close Shave](https://scp-wiki.wikidot.com/tim-wilson-s-close-shave) (+50)
-    - [Robin](https://scp-wiki.wikidot.com/robin) (+45)
-    - [(Too) Late Registration](https://scp-wiki.wikidot.com/late-registration) (+39)
-    - [Fanfa](https://scp-wiki.wikidot.com/fanfa) (+35)
-    - [Gluttony Is Impossible](https://scp-wiki.wikidot.com/gluttony-is-impossible) (+34)
-    - [Nobody Likes Having Enemies](https://scp-wiki.wikidot.com/nobody-likes-having-enemies) (+23)
 
 ### [SCP-404-J](https://scp-wiki.wikidot.com/scp-404-j)
 - **Metatitle**: The Pantheon
@@ -687,40 +573,27 @@
 
 ### [SCP-420-J](https://scp-wiki.wikidot.com/scp-420-j)
 - **Metatitle**: The Best ████ in the World
-- **Rate**: +948
+- **Rate**: +950
 - **Cited by 5 SCPs**:
-    - [SCP-WHY-ARE-YOU-READING-A-URL-GO-BE-PRODUCTIVE-J](https://scp-wiki.wikidot.com/scp-why-are-you-reading-a-url-go-be-productive-j) (JUST SAY NO!!!!!!!!, +329)
-    - [SCP-900-J](https://scp-wiki.wikidot.com/scp-900-j) (Modern Major Keter-Class, +275)
+    - [SCP-WHY-ARE-YOU-READING-A-URL-GO-BE-PRODUCTIVE-J](https://scp-wiki.wikidot.com/scp-why-are-you-reading-a-url-go-be-productive-j) (JUST SAY NO!!!!!!!!, +330)
+    - [SCP-900-J](https://scp-wiki.wikidot.com/scp-900-j) (Modern Major Keter-Class, +276)
     - [SCP-IN-A-BOX-J](https://scp-wiki.wikidot.com/scp-in-a-box-j) (Some fucking thing in a box, +261)
     - [SCP-1347-1353-J](https://scp-wiki.wikidot.com/scp-1347-1353-j) (What a Pestis, +69)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 1 tales**:
     - [New Technical Issues Archive](https://scp-wiki.wikidot.com/new-technical-issues-archive) (+12)
+- **Associated with**:
+    - [History Of The Universe: Part Five](https://scp-wiki.wikidot.com/history-of-the-universe-part-five) (+208)
 
 ### [SCP-444-J](https://scp-wiki.wikidot.com/scp-444-j)
 - **Metatitle**: Six Day Long Fruit Preserves Convention
-- **Rate**: +33
-- **Cited by 16 SCPs**:
-    - [SCP-4966](https://scp-wiki.wikidot.com/scp-4966) (Tubbioca: Devourer of Souls, Consumer of Secrets, Lord of Munchies, +394)
-    - [SCP-1401-EX](https://scp-wiki.wikidot.com/scp-1401-ex) (Have You Been Scrombled?, +191)
-    - [SCP-4088](https://scp-wiki.wikidot.com/scp-4088) (Sing us a song, you're a piano, man, +184)
-    - [SCP-4052](https://scp-wiki.wikidot.com/scp-4052) (Sandwich (disambiguation), +156)
-    - [SCP-5522](https://scp-wiki.wikidot.com/scp-5522) (Pizza Delivery Speedrun (RTA) 100% Completion, +137)
-    - [SCP-4109](https://scp-wiki.wikidot.com/scp-4109) (FINAL CONCLUSION: EVERYTHING IS TERRIBLE, +126)
-    - [SCP-5993](https://scp-wiki.wikidot.com/scp-5993) (We want you to come visit Heaven, just don't fuck with those bees, +123)
-    - [SCP-5020](https://scp-wiki.wikidot.com/scp-5020) (InfeStation™, +88)
-    - [SCP-4664](https://scp-wiki.wikidot.com/scp-4664) (Nightmare of 20,000 Feet, +86)
-    - [SCP-4270](https://scp-wiki.wikidot.com/scp-4270) (Does Benjamin Harrison Shit In The Oval Office?, +80)
-    - [SCP-5225](https://scp-wiki.wikidot.com/scp-5225) (The Abyss Stares Back, +80)
-    - [SCP-4035](https://scp-wiki.wikidot.com/scp-4035) (Prey on Words, +79)
-    - [SCP-3462](https://scp-wiki.wikidot.com/scp-3462) (Lights, Camera, REDACTION, +73)
-    - [SCP-4286](https://scp-wiki.wikidot.com/scp-4286) (The Skeleton Fairy, +70)
-    - [SCP-4570](https://scp-wiki.wikidot.com/scp-4570) (Almost Heaven, West Virginia, +53)
+- **Rate**: +34
+- **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-496-J](https://scp-wiki.wikidot.com/scp-496-j)
 - **Metatitle**: Dr. Margaret Sawyer-Sheen
-- **Rate**: +94
+- **Rate**: +95
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
@@ -738,9 +611,12 @@
 
 ### [SCP-543-J](https://scp-wiki.wikidot.com/scp-543-j)
 - **Metatitle**: Tweetle Beetles
-- **Rate**: +130
+- **Rate**: +133
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [A Comprehensive List of K-Class Scenarios](https://scp-wiki.wikidot.com/k-class-complete-list) (+247)
+    - [A Comprehensive List of Mobile Task Forces](https://scp-wiki.wikidot.com/task-forces-complete-list)
 
 ### [SCP-579-J](https://scp-wiki.wikidot.com/scp-579-j)
 - **Metatitle**: Microtransactions
@@ -756,7 +632,7 @@
 
 ### [SCP-619-J](https://scp-wiki.wikidot.com/scp-619-j)
 - **Metatitle**: Championship Belt
-- **Rate**: +74
+- **Rate**: +75
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 2 tales**:
@@ -771,26 +647,31 @@
 
 ### [SCP-666-J](https://scp-wiki.wikidot.com/scp-666-j)
 - **Metatitle**: Dr. Gerald's Driving Skills
-- **Rate**: +1158
+- **Rate**: +1160
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 2 tales**:
-    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1629)
+    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1630)
     - [Log Of Anomalous Items](https://scp-wiki.wikidot.com/log-of-anomalous-items) (+1140)
+- **Associated with**:
+    - [Personnel And Character Dossier](https://scp-wiki.wikidot.com/personnel-and-character-dossier)
 
 ### [SCP-666-AND-A-HALF-J](https://scp-wiki.wikidot.com/scp-666-and-a-half-j)
 - **Metatitle**: The Roaring Flames of Hell
-- **Rate**: +926
+- **Rate**: +928
 - **Cited by 2 SCPs**:
-    - [SCP-7394-J](https://scp-wiki.wikidot.com/scp-7394-j) (HILARIOUS FARTING FROG CLICK NOW TO SEE, +173)
+    - [SCP-7394-J](https://scp-wiki.wikidot.com/scp-7394-j) (HILARIOUS FARTING FROG CLICK NOW TO SEE, +174)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 2 tales**:
-    - [Lust in the Time of Anomalous Cholera](https://scp-wiki.wikidot.com/adult:lust-in-the-time-of-anomalous-cholera) (+63)
+    - [Lust in the Time of Anomalous Cholera](https://scp-wiki.wikidot.com/lust-in-the-time-of-anomalous-cholera) (+64)
     - [The Foundation Learns Nothing About Clowns](https://scp-wiki.wikidot.com/the-foundation-learns-nothing-about-clowns) (+24)
+- **Associated with**:
+    - [A Comprehensive List of K-Class Scenarios](https://scp-wiki.wikidot.com/k-class-complete-list) (+247)
+    - [Essays On Style](https://scp-wiki.wikidot.com/essays-on-style) (+65)
 
 ### [SCP-682-J](https://scp-wiki.wikidot.com/scp-682-j)
 - **Metatitle**: SUPER BESTEST LIZERD EVER
-- **Rate**: +820
+- **Rate**: +821
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
@@ -805,7 +686,7 @@
 - **Rate**: +217
 - **Cited by 3 SCPs**:
     - [SCP-724-J](https://scp-wiki.wikidot.com/scp-724-j) (Bad Roach, +142)
-    - [SCP-3223](https://scp-wiki.wikidot.com/scp-3223) (Ancient Egyptian Pet Whisperer, +90)
+    - [SCP-3223](https://scp-wiki.wikidot.com/scp-3223) (Ancient Egyptian Pet Whisperer, +91)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 1 tales**:
     - [Roach Wrangling at Kiryu Labs](https://scp-wiki.wikidot.com/roach-wrangling-at-kiryu-labs) (+31)
@@ -821,21 +702,21 @@
 
 ### [SCP-727-J](https://scp-wiki.wikidot.com/scp-727-j)
 - **Metatitle**: Malevolent Celestial Object
-- **Rate**: +350
+- **Rate**: +351
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 1 tales**:
-    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1629)
+    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1630)
 
 ### [SCP-729-J](https://scp-wiki.wikidot.com/scp-729-j)
 - **Metatitle**: Peep Peep, Motherfucker
-- **Rate**: +355
+- **Rate**: +357
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-732-J](https://scp-wiki.wikidot.com/scp-732-j)
 - **Metatitle**: Tiny Ceramic Seahorse
-- **Rate**: +142
+- **Rate**: +143
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
@@ -866,7 +747,7 @@
 
 ### [SCP-800-J](https://scp-wiki.wikidot.com/scp-800-j)
 - **Metatitle**: American Football
-- **Rate**: +99
+- **Rate**: +100
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
@@ -884,16 +765,18 @@
 
 ### [SCP-885-J](https://scp-wiki.wikidot.com/scp-885-j)
 - **Metatitle**: Researcher Jacobs' Inability To Clean Up After Himself
-- **Rate**: +277
+- **Rate**: +278
 - **Cited by 2 SCPs**:
-    - [SCP-7800-J](https://scp-wiki.wikidot.com/scp-7800-j) (The Five-Second Rule, +210)
+    - [SCP-7800-J](https://scp-wiki.wikidot.com/scp-7800-j) (The Five-Second Rule, +211)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-900-J](https://scp-wiki.wikidot.com/scp-900-j)
 - **Metatitle**: Modern Major Keter-Class
-- **Rate**: +275
+- **Rate**: +276
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [A Comprehensive List of K-Class Scenarios](https://scp-wiki.wikidot.com/k-class-complete-list) (+247)
 
 ### [SCP-930-J](https://scp-wiki.wikidot.com/scp-930-j)
 - **Metatitle**: You little rascal!
@@ -925,7 +808,7 @@
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 1 tales**:
-    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1629)
+    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1630)
 
 ### [SCP-1000-J](https://scp-wiki.wikidot.com/scp-1000-j)
 - **Metatitle**: Old Wives' Town
@@ -935,34 +818,34 @@
 
 ### [SCP-1013-J](https://scp-wiki.wikidot.com/scp-1013-j)
 - **Metatitle**: Tree Rats
-- **Rate**: +120
+- **Rate**: +121
 - **Cited by 2 SCPs**:
     - [SCP-2000-J](https://scp-wiki.wikidot.com/scp-2000-j) (Dunky the Funky Werecat 2000: Werecat Strikes Back, +262)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [A Comprehensive List of Mobile Task Forces](https://scp-wiki.wikidot.com/task-forces-complete-list)
 
 ### [SCP-1020-J](https://scp-wiki.wikidot.com/scp-1020-j)
 - **Metatitle**: Fridge Horror
-- **Rate**: +15
+- **Rate**: +16
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-1026-J](https://scp-wiki.wikidot.com/scp-1026-j)
 - **Metatitle**: Mr. Somebody
-- **Rate**: +102
+- **Rate**: +103
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-1040-J](https://scp-wiki.wikidot.com/scp-1040-j)
 - **Metatitle**: A Dangerous Mental Contagion
-- **Rate**: +47
+- **Rate**: +48
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j)
 - **Metatitle**: "The Troll"
 - **Rate**: unknown
-- **Cited by 1 SCPs**:
-    - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-1049-J](https://scp-wiki.wikidot.com/scp-1049-j)
 - **Metatitle**: The Grim Bucket
@@ -972,28 +855,14 @@
 
 ### [SPC-1057-J](https://scp-wiki.wikidot.com/spc-1057-j)
 - **Metatitle**: Absence Of Punchable Shark
-- **Rate**: +176
-- **Cited by 13 SCPs**:
-    - [SCP-3393](https://scp-wiki.wikidot.com/scp-3393) (For Your Eyes Only, +829)
-    - [SCP-001](https://scp-wiki.wikidot.com/captain-kirby-s-proposal) (Captain Kirby's Proposal, +511)
-    - [SCP-4514](https://scp-wiki.wikidot.com/scp-4514) (The Thing That Kills You, +427)
-    - [SCP-3448](https://scp-wiki.wikidot.com/scp-3448) (Halfterlife, +423)
-    - [SCP-5552](https://scp-wiki.wikidot.com/scp-5552) (Our Stolen Theory, +403)
-    - [SCP-5003](https://scp-wiki.wikidot.com/scp-5003) (Powerless, +354)
-    - [SCP-3305](https://scp-wiki.wikidot.com/scp-3305) (The Father, The Son, and The Holy Toast, +351)
-    - [SCP-3844](https://scp-wiki.wikidot.com/scp-3844) (To Slay A Dragon, +343)
-    - [SCP-4877](https://scp-wiki.wikidot.com/scp-4877) (Good Airwaves, +288)
-    - [SCP-4321](https://scp-wiki.wikidot.com/scp-4321) (Sometimes I Look At The Sky So I Can Feel Small, +284)
-    - [SCP-3449](https://scp-wiki.wikidot.com/scp-3449) (The Things Left Unsaid, +278)
-    - [SCP-3123](https://scp-wiki.wikidot.com/scp-3123) (Insult To Injury, +184)
+- **Rate**: +177
+- **Cited by 2 SCPs**:
+    - [CAPTAIN-KIRBY-S-PROPOSAL](https://scp-wiki.wikidot.com/captain-kirby-s-proposal) (Captain Kirby's Proposal, +511)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
-- **Appears in 2 tales**:
-    - [Impossible-To-Destroy Reptile](https://scp-wiki.wikidot.com/impossible-to-destroy-reptile) (+342)
-    - [In The Clutches Of Life](https://scp-wiki.wikidot.com/in-the-clutches-of-life) (+256)
 
 ### [SCP-1089-J](https://scp-wiki.wikidot.com/scp-1089-j)
 - **Metatitle**: The Carpet Ate It Again
-- **Rate**: +38
+- **Rate**: +39
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
@@ -1013,7 +882,7 @@
 
 ### [SCP-1132-J](https://scp-wiki.wikidot.com/scp-1132-j)
 - **Metatitle**: Head-Cannons
-- **Rate**: +268
+- **Rate**: +270
 - **Cited by 2 SCPs**:
     - [SCP-2159](https://scp-wiki.wikidot.com/scp-2159) (Head-"Kannon", +123)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
@@ -1026,9 +895,11 @@
 
 ### [SCP-1150-J](https://scp-wiki.wikidot.com/scp-1150-j)
 - **Metatitle**: Budget Hole
-- **Rate**: +86
+- **Rate**: +87
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [A Comprehensive List of Mobile Task Forces](https://scp-wiki.wikidot.com/task-forces-complete-list)
 
 ### [SCP-1162-J](https://scp-wiki.wikidot.com/scp-1162-j)
 - **Metatitle**: "Double Down Sandwich"
@@ -1039,51 +910,43 @@
 
 ### [SCP-1201-J](https://scp-wiki.wikidot.com/scp-1201-j)
 - **Metatitle**: That One Movie
-- **Rate**: +104
+- **Rate**: +105
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-1212-J](https://scp-wiki.wikidot.com/scp-1212-j)
 - **Metatitle**: Standards
-- **Rate**: +391
+- **Rate**: +392
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-1224-J](https://scp-wiki.wikidot.com/scp-1224-j)
 - **Metatitle**: Duck-Class Personnel
-- **Rate**: +138
+- **Rate**: +139
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-1234-J](https://scp-wiki.wikidot.com/scp-1234-j)
 - **Metatitle**: An SCP
-- **Rate**: +717
+- **Rate**: +718
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-1294-J](https://scp-wiki.wikidot.com/scp-1294-j)
 - **Metatitle**: Watering-down Can
-- **Rate**: +89
-- **Cited by 11 SCPs**:
-    - [SCP-5510](https://scp-wiki.wikidot.com/scp-5510) (Universal Remote, +224)
-    - [SCP-3597](https://scp-wiki.wikidot.com/scp-3597) (Maladroit, +194)
-    - [SCP-4853](https://scp-wiki.wikidot.com/scp-4853) (SCP-4853, +173)
-    - [SCP-4339](https://scp-wiki.wikidot.com/scp-4339) (The Attribute Pen, +139)
-    - [SCP-4447](https://scp-wiki.wikidot.com/scp-4447) (Sasha's Super Shuttle Service!, +132)
-    - [SCP-4781](https://scp-wiki.wikidot.com/scp-4781) (Sour and Dill, +128)
-    - [SCP-4322](https://scp-wiki.wikidot.com/scp-4322) (Sleepless Dreams, +127)
-    - [SCP-5900](https://scp-wiki.wikidot.com/scp-5900) (PITCHBLACK, +117)
-    - [SCP-4838](https://scp-wiki.wikidot.com/scp-4838) (Lover's Quarrel, +106)
-    - [SCP-5502](https://scp-wiki.wikidot.com/scp-5502) (Where the Smoke Trail Ends, +23)
+- **Rate**: +91
+- **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
-- **Appears in 1 tales**:
-    - [The Heart of the Beast](https://scp-wiki.wikidot.com/heart-of-the-beast) (+52)
+- **Associated with**:
+    - [A Comprehensive List of Mobile Task Forces](https://scp-wiki.wikidot.com/task-forces-complete-list)
 
 ### [SCP-1322-J](https://scp-wiki.wikidot.com/scp-1322-j)
 - **Metatitle**: A Whole New World
-- **Rate**: +501
+- **Rate**: +504
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [A Comprehensive List of Mobile Task Forces](https://scp-wiki.wikidot.com/task-forces-complete-list)
 
 ### [SCP-1333-J](https://scp-wiki.wikidot.com/scp-1333-j)
 - **Metatitle**: THE SCREAMING MAN
@@ -1091,18 +954,20 @@
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 2 tales**:
-    - [Ask Lord Blackwood](https://scp-wiki.wikidot.com/ask-lord-blackwood) (+99)
+    - [Ask Lord Blackwood](https://scp-wiki.wikidot.com/ask-lord-blackwood) (+101)
     - [New Technical Issues Archive](https://scp-wiki.wikidot.com/new-technical-issues-archive) (+12)
 
 ### [SCP-1344-J](https://scp-wiki.wikidot.com/scp-1344-j)
 - **Metatitle**: Glass-Like Lifeform
-- **Rate**: +243
+- **Rate**: +245
 - **Cited by 2 SCPs**:
     - [SCP-031-J](https://scp-wiki.wikidot.com/scp-031-j) (Evening of Terrors, +254)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 2 tales**:
     - [Audio Log 185-53](https://scp-wiki.wikidot.com/audio-log-185-53) (+53)
     - [Typo Positive](https://scp-wiki.wikidot.com/typo-positive) (+21)
+- **Associated with**:
+    - [History Of The Universe: Part Two](https://scp-wiki.wikidot.com/history-of-the-universe-part-two) (+248)
 
 ### [SCP-1394-J](https://scp-wiki.wikidot.com/scp-1394-j)
 - **Metatitle**: Upside-Down Connector
@@ -1112,22 +977,22 @@
 
 ### [SCP-1417-J](https://scp-wiki.wikidot.com/scp-1417-j)
 - **Metatitle**: Passive-Aggressive Meteorite
-- **Rate**: +306
+- **Rate**: +307
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-1459-J](https://scp-wiki.wikidot.com/scp-1459-j)
 - **Metatitle**: X-Sponge
-- **Rate**: +375
+- **Rate**: +377
 - **Cited by 4 SCPs**:
-    - [SCP-914](https://scp-wiki.wikidot.com/scp-914) (The Clockworks, +2358)
+    - [SCP-914](https://scp-wiki.wikidot.com/scp-914) (The Clockworks, +2363)
     - [SCP-2421-J](https://scp-wiki.wikidot.com/scp-2421-j) (The Upvote Syndrome, +91)
-    - [SCP-4225](https://scp-wiki.wikidot.com/scp-4225) (Sammy the Superfluous Serpent, by Sr. Supertainment, +78)
+    - [SCP-4225](https://scp-wiki.wikidot.com/scp-4225) (Sammy the Superfluous Serpent, by Sr. Supertainment, +79)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-1471-J](https://scp-wiki.wikidot.com/scp-1471-j)
 - **Metatitle**: Sensual Containment Procedures
-- **Rate**: +115
+- **Rate**: +116
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
@@ -1139,13 +1004,13 @@
 
 ### [SCP-1543-J](https://scp-wiki.wikidot.com/scp-1543-j)
 - **Metatitle**: The Sun Launcher
-- **Rate**: +572
+- **Rate**: +573
 - **Cited by 3 SCPs**:
     - [SCP-042-J](https://scp-wiki.wikidot.com/scp-042-j) (Billions of Anomalous Pillows, +391)
-    - [SCP-727-J](https://scp-wiki.wikidot.com/scp-727-j) (Malevolent Celestial Object, +350)
+    - [SCP-727-J](https://scp-wiki.wikidot.com/scp-727-j) (Malevolent Celestial Object, +351)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 2 tales**:
-    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1629)
+    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1630)
     - [New Technical Issues](https://scp-wiki.wikidot.com/new-technical-issues) (+244)
 
 ### [SCP-1550-J](https://scp-wiki.wikidot.com/scp-1550-j)
@@ -1172,8 +1037,7 @@
 ### [SCP-1622-J](https://scp-wiki.wikidot.com/scp-1622-j)
 - **Metatitle**: No Object Class Whatsoever
 - **Rate**: +103
-- **Cited by 2 SCPs**:
-    - [SCP-1507](https://scp-wiki.wikidot.com/scp-1507) (Pink Flamingos, +262)
+- **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-1638-J](https://scp-wiki.wikidot.com/scp-1638-j)
@@ -1196,7 +1060,7 @@
 
 ### [SCP-1840-J](https://scp-wiki.wikidot.com/scp-1840-j)
 - **Metatitle**: The Hard Sell
-- **Rate**: +245
+- **Rate**: +246
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
@@ -1214,7 +1078,7 @@
 
 ### [SCP-1912-J](https://scp-wiki.wikidot.com/scp-1912-j)
 - **Metatitle**: The Land of [REDACTED]
-- **Rate**: +80
+- **Rate**: +81
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
@@ -1243,6 +1107,8 @@
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 1 tales**:
     - [New Technical Issues Archive](https://scp-wiki.wikidot.com/new-technical-issues-archive) (+12)
+- **Associated with**:
+    - [A Comprehensive List of K-Class Scenarios](https://scp-wiki.wikidot.com/k-class-complete-list) (+247)
 
 ### [SCP-1948-J](https://scp-wiki.wikidot.com/scp-1948-j)
 - **Metatitle**: The Comrade
@@ -1261,12 +1127,14 @@
 - **Rate**: +61
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [A Comprehensive List of K-Class Scenarios](https://scp-wiki.wikidot.com/k-class-complete-list) (+247)
 
 ### [SCP-1960-J](https://scp-wiki.wikidot.com/scp-1960-j)
 - **Metatitle**: Stone Sphere
 - **Rate**: +247
 - **Cited by 2 SCPs**:
-    - [SCP-727-J](https://scp-wiki.wikidot.com/scp-727-j) (Malevolent Celestial Object, +350)
+    - [SCP-727-J](https://scp-wiki.wikidot.com/scp-727-j) (Malevolent Celestial Object, +351)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-1981-J](https://scp-wiki.wikidot.com/scp-1981-j)
@@ -1291,19 +1159,21 @@
 
 ### [SCP-1994-J](https://scp-wiki.wikidot.com/scp-1994-j)
 - **Metatitle**: THE BAAAAAAAAAAALLLLL
-- **Rate**: +651
+- **Rate**: +654
 - **Cited by 2 SCPs**:
-    - [SCP-1013-J](https://scp-wiki.wikidot.com/scp-1013-j) (Tree Rats, +120)
+    - [SCP-1013-J](https://scp-wiki.wikidot.com/scp-1013-j) (Tree Rats, +121)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 1 tales**:
-    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1629)
+    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1630)
 
 ### [SCP-2000-J](https://scp-wiki.wikidot.com/scp-2000-j)
 - **Metatitle**: Dunky the Funky Werecat 2000: Werecat Strikes Back
 - **Rate**: +262
 - **Cited by 2 SCPs**:
-    - [SCP-WHY-ARE-YOU-READING-A-URL-GO-BE-PRODUCTIVE-J](https://scp-wiki.wikidot.com/scp-why-are-you-reading-a-url-go-be-productive-j) (JUST SAY NO!!!!!!!!, +329)
+    - [SCP-WHY-ARE-YOU-READING-A-URL-GO-BE-PRODUCTIVE-J](https://scp-wiki.wikidot.com/scp-why-are-you-reading-a-url-go-be-productive-j) (JUST SAY NO!!!!!!!!, +330)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [A Comprehensive List of Mobile Task Forces](https://scp-wiki.wikidot.com/task-forces-complete-list)
 
 ### [SCP-BUTT-J](https://scp-wiki.wikidot.com/scp-butt-j)
 - **Metatitle**: Laser Butt Disease
@@ -1334,7 +1204,7 @@
 - **Cited by 4 SCPs**:
     - [SCP-031-J](https://scp-wiki.wikidot.com/scp-031-j) (Evening of Terrors, +254)
     - [SCP-4055-J](https://scp-wiki.wikidot.com/scp-4055-j) (Ugly Dog, +125)
-    - [SCP-800-J](https://scp-wiki.wikidot.com/scp-800-j) (American Football, +99)
+    - [SCP-800-J](https://scp-wiki.wikidot.com/scp-800-j) (American Football, +100)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-2029-J](https://scp-wiki.wikidot.com/scp-2029-j)
@@ -1349,12 +1219,12 @@
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 2 tales**:
-    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1629)
+    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1630)
     - [Let the Games Begin](https://scp-wiki.wikidot.com/let-the-games-begin) (+24)
 
 ### [SCP-2100-J](https://scp-wiki.wikidot.com/scp-2100-j)
 - **Metatitle**: Hard-Boiled Fedora
-- **Rate**: +247
+- **Rate**: +249
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
@@ -1364,13 +1234,15 @@
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 1 tales**:
-    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1629)
+    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1630)
 
 ### [SCP-2130-J](https://scp-wiki.wikidot.com/scp-2130-j)
 - **Metatitle**: "But seriously, folks…"
 - **Rate**: +91
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [A Comprehensive List of Mobile Task Forces](https://scp-wiki.wikidot.com/task-forces-complete-list)
 
 ### [SCP-2212-J](https://scp-wiki.wikidot.com/scp-2212-j)
 - **Metatitle**: CALL NOW AND GET APOLLYON FREE!
@@ -1390,7 +1262,7 @@
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 1 tales**:
-    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1629)
+    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1630)
 
 ### [SCP-2412-J](https://scp-wiki.wikidot.com/scp-2412-j)
 - **Metatitle**: The Laplander
@@ -1412,12 +1284,12 @@
 - **Rate**: +444
 - **Cited by 5 SCPs**:
     - [SCP-5555-J](https://scp-wiki.wikidot.com/scp-5555-j) (The Chibinator, +312)
-    - [SCP-1013-J](https://scp-wiki.wikidot.com/scp-1013-j) (Tree Rats, +120)
+    - [SCP-1013-J](https://scp-wiki.wikidot.com/scp-1013-j) (Tree Rats, +121)
     - [SCP-1049-J](https://scp-wiki.wikidot.com/scp-1049-j) (The Grim Bucket, +70)
     - [SCP-4079](https://scp-wiki.wikidot.com/scp-4079) (Saving Archimedes, +68)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 2 tales**:
-    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1629)
+    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1630)
     - [Visions of a Better World](https://scp-wiki.wikidot.com/visionsofabetterworld) (+141)
 
 ### [SCP-2559-J](https://scp-wiki.wikidot.com/scp-2559-j)
@@ -1469,24 +1341,9 @@
 ### [SPC-2935-J](https://scp-wiki.wikidot.com/spc-2935-j)
 - **Metatitle**: O, Fin
 - **Rate**: +113
-- **Cited by 15 SCPs**:
-    - [SCP-001](https://scp-wiki.wikidot.com/shaggydredlocks-proposal) (S. D. Locke's Proposal, +1643)
-    - [SCP-3280](https://scp-wiki.wikidot.com/scp-3280) (After the Storm, +422)
-    - [SCP-2193](https://scp-wiki.wikidot.com/scp-2193) ("Monthly Termination", +387)
-    - [SCP-3980](https://scp-wiki.wikidot.com/scp-3980) (Blind Lead the Blind, +350)
-    - [SCP-783](https://scp-wiki.wikidot.com/scp-783) (There Was A Crooked Man, +325)
-    - [SPC-173-J](https://scp-wiki.wikidot.com/spc-173-j) (A Fiesta Shark Statue Brutally Enforcing Vacation Time, +230)
-    - [SCP-1661](https://scp-wiki.wikidot.com/scp-1661) (Gremlins, +208)
-    - [SCP-2923](https://scp-wiki.wikidot.com/scp-2923) (X-Men Syndrome, +207)
-    - [SCP-2385](https://scp-wiki.wikidot.com/scp-2385) (Somewhere In The Between, +178)
-    - [SCP-3963](https://scp-wiki.wikidot.com/scp-3963) (I Contain Multitudes, +158)
-    - [SCP-4910](https://scp-wiki.wikidot.com/scp-4910) ("The Grinner", +136)
-    - [SCP-3246](https://scp-wiki.wikidot.com/scp-3246) (A Nice Old Lady, +116)
-    - [SPC-2935-J](https://scp-wiki.wikidot.com/spc-2935-j) (O, Fin, +113)
-    - [SCP-3247](https://scp-wiki.wikidot.com/scp-3247) (A Magic Mime and his Mighty Morphin' Method Acting Spider Kids, +111)
+- **Cited by 2 SCPs**:
+    - [SHAGGYDREDLOCKS-PROPOSAL](https://scp-wiki.wikidot.com/shaggydredlocks-proposal) (S. D. Locke's Proposal, +1643)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
-- **Appears in 1 tales**:
-    - [A Reason To Die](https://scp-wiki.wikidot.com/a-reason-to-die) (+40)
 
 ### [SCP-2950-J](https://scp-wiki.wikidot.com/scp-2950-j)
 - **Metatitle**: THE POSTCARD
@@ -1496,7 +1353,7 @@
 
 ### [SCP-3000-J](https://scp-wiki.wikidot.com/scp-3000-j)
 - **Metatitle**: Kellogg's® Foundation Flakes™!
-- **Rate**: +187
+- **Rate**: +189
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
@@ -1520,26 +1377,26 @@
 
 ### [SCP-3333-J](https://scp-wiki.wikidot.com/scp-3333-j)
 - **Metatitle**: Angsty Teenage Plant
-- **Rate**: +249
+- **Rate**: +250
 - **Cited by 2 SCPs**:
-    - [SCP-WHY-ARE-YOU-READING-A-URL-GO-BE-PRODUCTIVE-J](https://scp-wiki.wikidot.com/scp-why-are-you-reading-a-url-go-be-productive-j) (JUST SAY NO!!!!!!!!, +329)
+    - [SCP-WHY-ARE-YOU-READING-A-URL-GO-BE-PRODUCTIVE-J](https://scp-wiki.wikidot.com/scp-why-are-you-reading-a-url-go-be-productive-j) (JUST SAY NO!!!!!!!!, +330)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-3448-J](https://scp-wiki.wikidot.com/scp-3448-j)
 - **Metatitle**: Should Have Taken Him Sleeping
-- **Rate**: +71
+- **Rate**: +72
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-3467-J](https://scp-wiki.wikidot.com/scp-3467-j)
 - **Metatitle**: Six Foot Man-Eating-Chicken
-- **Rate**: +111
+- **Rate**: +109
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-3472-J](https://scp-wiki.wikidot.com/scp-3472-j)
 - **Metatitle**: In time, you will come to hate me.
-- **Rate**: +121
+- **Rate**: +122
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
@@ -1552,14 +1409,7 @@
 ### [SCP-3790-J](https://scp-wiki.wikidot.com/scp-3790-j)
 - **Metatitle**: Pantopicon IV: The Search for Pantopticon III (sic)
 - **Rate**: +105
-- **Cited by 8 SCPs**:
-    - [SCP-4661](https://scp-wiki.wikidot.com/scp-4661) (Sin City, +332)
-    - [SCP-5983](https://scp-wiki.wikidot.com/scp-5983) (Nuke York, Nuke York, +294)
-    - [SCP-2304](https://scp-wiki.wikidot.com/scp-2304) ("Like This Image To Die Instantly", +266)
-    - [SCP-4852](https://scp-wiki.wikidot.com/scp-4852) (Site-19 Goes South For The Winter!, +234)
-    - [SCP-5376](https://scp-wiki.wikidot.com/scp-5376) (Turbo Thompson and Deathramp Supreme, +204)
-    - [SCP-4355](https://scp-wiki.wikidot.com/scp-4355) (OZYMANDIAS, KING OF KINGS, +185)
-    - [SCP-4549](https://scp-wiki.wikidot.com/scp-4549) (Retrohippies, +80)
+- **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-3999-J](https://scp-wiki.wikidot.com/scp-3999-j)
@@ -1570,15 +1420,8 @@
 
 ### [SCP-4000-J](https://scp-wiki.wikidot.com/scp-4000-j)
 - **Metatitle**: 2boo
-- **Rate**: +382
-- **Cited by 8 SCPs**:
-    - [SCP-2399](https://scp-wiki.wikidot.com/scp-2399) (A Malfunctioning Destroyer, +787)
-    - [SCP-2540](https://scp-wiki.wikidot.com/scp-2540) (Time Lime, +266)
-    - [SCP-2846](https://scp-wiki.wikidot.com/scp-2846) (The Squid and the Sailor, +259)
-    - [SCP-2151](https://scp-wiki.wikidot.com/scp-2151) (The Ties That Bind Us, +235)
-    - [SCP-2464](https://scp-wiki.wikidot.com/scp-2464) (Suspension, +214)
-    - [SCP-2120](https://scp-wiki.wikidot.com/scp-2120) (Damage Control, +194)
-    - [SCP-2812](https://scp-wiki.wikidot.com/scp-2812) (Echoes of Yesterday, +185)
+- **Rate**: +383
+- **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-4001-J](https://scp-wiki.wikidot.com/scp-4001-j)
@@ -1614,9 +1457,7 @@
 ### [SCP-4297-J](https://scp-wiki.wikidot.com/scp-4297-j)
 - **Metatitle**: Normal Australian Wildlife
 - **Rate**: +40
-- **Cited by 3 SCPs**:
-    - [SCP-4134](https://scp-wiki.wikidot.com/scp-4134) (Claymore Anti-Personnel Mimes, +71)
-    - [SCP-4152](https://scp-wiki.wikidot.com/scp-4152) (BASEMENT LOVE, Acrylic on canvas, +50)
+- **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-4357-J](https://scp-wiki.wikidot.com/scp-4357-j)
@@ -1638,12 +1479,16 @@
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 1 tales**:
     - [1st - 12th December 2008](https://scp-wiki.wikidot.com/1st-12th-december-2008) (+15)
+- **Associated with**:
+    - [History Of The Universe: Part Two](https://scp-wiki.wikidot.com/history-of-the-universe-part-two) (+248)
 
 ### [SCP-4445-J](https://scp-wiki.wikidot.com/scp-4445-j)
 - **Metatitle**: Disinformation Campaign: Operation Trident Valley
 - **Rate**: +251
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [History Of The Universe: Part Two](https://scp-wiki.wikidot.com/history-of-the-universe-part-two) (+248)
 
 ### [SCP-4590-J](https://scp-wiki.wikidot.com/scp-4590-j)
 - **Metatitle**: Japucha
@@ -1659,33 +1504,37 @@
 
 ### [SCP-5000-J](https://scp-wiki.wikidot.com/scp-5000-j)
 - **Metatitle**: The Cookie Caper
-- **Rate**: +296
+- **Rate**: +297
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 1 tales**:
     - [The Culprit Of The Cookie Caper](https://scp-wiki.wikidot.com/the-culprit-of-the-cookie-caper) (+76)
+- **Associated with**:
+    - [Advanced Formatting and You](https://scp-wiki.wikidot.com/advanced-formatting-and-you) (+211)
 
 ### [SCP-5040-J](https://scp-wiki.wikidot.com/scp-5040-j)
 - **Metatitle**: Stripèd Gangs
 - **Rate**: +218
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [Essays On Style](https://scp-wiki.wikidot.com/essays-on-style) (+65)
 
 ### [SCP-5150-J](https://scp-wiki.wikidot.com/scp-5150-j)
 - **Metatitle**: Think Of The Children
 - **Rate**: +319
 - **Cited by 3 SCPs**:
-    - [SCP-914](https://scp-wiki.wikidot.com/scp-914) (The Clockworks, +2358)
-    - [SCP-WHY-ARE-YOU-READING-A-URL-GO-BE-PRODUCTIVE-J](https://scp-wiki.wikidot.com/scp-why-are-you-reading-a-url-go-be-productive-j) (JUST SAY NO!!!!!!!!, +329)
+    - [SCP-914](https://scp-wiki.wikidot.com/scp-914) (The Clockworks, +2363)
+    - [SCP-WHY-ARE-YOU-READING-A-URL-GO-BE-PRODUCTIVE-J](https://scp-wiki.wikidot.com/scp-why-are-you-reading-a-url-go-be-productive-j) (JUST SAY NO!!!!!!!!, +330)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-WHY-ARE-YOU-READING-A-URL-GO-BE-PRODUCTIVE-J](https://scp-wiki.wikidot.com/scp-why-are-you-reading-a-url-go-be-productive-j)
 - **Metatitle**: JUST SAY NO!!!!!!!!
-- **Rate**: +329
+- **Rate**: +330
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 1 tales**:
-    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1629)
+    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1630)
 
 ### [SCP-5280-J](https://scp-wiki.wikidot.com/scp-5280-j)
 - **Metatitle**: Antiquated Measurement System
@@ -1711,7 +1560,7 @@
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 1 tales**:
-    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1629)
+    - [The Things Dr Bright Is Not Allowed To Do At The Foundation](https://scp-wiki.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation) (+1630)
 
 ### [SCP-5972-J](https://scp-wiki.wikidot.com/scp-5972-j)
 - **Metatitle**: Kirby Company Vacuum Cleaner
@@ -1727,7 +1576,7 @@
 
 ### [SCP-6132-J](https://scp-wiki.wikidot.com/scp-6132-j)
 - **Metatitle**: Terrain Fumble
-- **Rate**: +117
+- **Rate**: +119
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
@@ -1739,32 +1588,25 @@
 
 ### [SCP-7000-J](https://scp-wiki.wikidot.com/scp-7000-j)
 - **Metatitle**: Veni, Vidi, [DATA EXPUNGED]
-- **Rate**: +274
+- **Rate**: +275
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-7007-J](https://scp-wiki.wikidot.com/scp-7007-j)
 - **Metatitle**: Subs Only!
-- **Rate**: +36
+- **Rate**: +37
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-7143-J](https://scp-wiki.wikidot.com/scp-7143-j)
 - **Metatitle**: THE KNOB
 - **Rate**: +415
-- **Cited by 8 SCPs**:
-    - [SCP-2399](https://scp-wiki.wikidot.com/scp-2399) (A Malfunctioning Destroyer, +787)
-    - [SCP-2740](https://scp-wiki.wikidot.com/scp-2740) (It Wasn't There, +609)
-    - [SCP-2932](https://scp-wiki.wikidot.com/scp-2932) (Titania's Prison, +422)
-    - [SCP-2980](https://scp-wiki.wikidot.com/scp-2980) (Devil's Nightlight, +379)
-    - [SCP-1864](https://scp-wiki.wikidot.com/scp-1864) (The Lonely Liar, +296)
-    - [SCP-2846](https://scp-wiki.wikidot.com/scp-2846) (The Squid and the Sailor, +259)
-    - [SCP-2445](https://scp-wiki.wikidot.com/scp-2445) (Wondertainment Logistics, +250)
+- **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
 ### [SCP-7394-J](https://scp-wiki.wikidot.com/scp-7394-j)
 - **Metatitle**: HILARIOUS FARTING FROG CLICK NOW TO SEE
-- **Rate**: +173
+- **Rate**: +174
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
@@ -1791,7 +1633,7 @@
 
 ### [SCP-7800-J](https://scp-wiki.wikidot.com/scp-7800-j)
 - **Metatitle**: The Five-Second Rule
-- **Rate**: +210
+- **Rate**: +211
 - **Cited by 2 SCPs**:
     - [SCP-1000-J](https://scp-wiki.wikidot.com/scp-1000-j) (Old Wives' Town, +158)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
@@ -1828,15 +1670,19 @@
 
 ### [SCP-9999-J](https://scp-wiki.wikidot.com/scp-9999-j)
 - **Metatitle**: Ground Beef
-- **Rate**: +95
+- **Rate**: +96
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [A Comprehensive List of K-Class Scenarios](https://scp-wiki.wikidot.com/k-class-complete-list) (+247)
 
 ### [SCP-10101-J](https://scp-wiki.wikidot.com/scp-10101-j)
 - **Metatitle**: Not A Self-Insert At All
 - **Rate**: +465
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [A Comprehensive List of Mobile Task Forces](https://scp-wiki.wikidot.com/task-forces-complete-list)
 
 ### [SCP-15000-J](https://scp-wiki.wikidot.com/scp-15000-j)
 - **Metatitle**: The Dupe Dective
@@ -1858,9 +1704,11 @@
 
 ### [SCP-100000-J](https://scp-wiki.wikidot.com/scp-100000-j)
 - **Metatitle**: Procedure 110-Overkill
-- **Rate**: +547
+- **Rate**: +548
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [A Comprehensive List of K-Class Scenarios](https://scp-wiki.wikidot.com/k-class-complete-list) (+247)
 
 ### [SCP-2128046979-J](https://scp-wiki.wikidot.com/scp-2128046979-j)
 - **Metatitle**: You don't know her, she works at a different Site!
@@ -1911,6 +1759,8 @@
 - **Rate**: +405
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [A Comprehensive List of Mobile Task Forces](https://scp-wiki.wikidot.com/task-forces-complete-list)
 
 ### [SCP-CURSING-J](https://scp-wiki.wikidot.com/scp-cursing-j)
 - **Metatitle**: Titters The Talking Bird
@@ -1926,9 +1776,9 @@
 
 ### [SCP-J](https://scp-wiki.wikidot.com/scp-j)
 - **Metatitle**: Procrastinati
-- **Rate**: +3648
+- **Rate**: +3656
 - **Cited by 3 SCPs**:
-    - [SCP-914](https://scp-wiki.wikidot.com/scp-914) (The Clockworks, +2358)
+    - [SCP-914](https://scp-wiki.wikidot.com/scp-914) (The Clockworks, +2363)
     - [SCP-TLDR-J](https://scp-wiki.wikidot.com/scp-tldr-j) (An Easily Digestible Document, +150)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 - **Appears in 2 tales**:
@@ -1937,9 +1787,11 @@
 
 ### [SCP-EVEN-NUMBER-J](https://scp-wiki.wikidot.com/scp-even-number-j)
 - **Metatitle**: An [Adjective] [Animal]
-- **Rate**: +954
+- **Rate**: +959
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [A Comprehensive List of Mobile Task Forces](https://scp-wiki.wikidot.com/task-forces-complete-list)
 
 ### [SCP-IN-A-BOX-J](https://scp-wiki.wikidot.com/scp-in-a-box-j)
 - **Metatitle**: Some fucking thing in a box
@@ -1957,7 +1809,7 @@
 
 ### [SCP-HR009-J](https://scp-wiki.wikidot.com/scp-hr009-j)
 - **Metatitle**: Eye-Grabbing Clickbait Title
-- **Rate**: +156
+- **Rate**: +157
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
@@ -1971,7 +1823,7 @@
 
 ### [SCP-CASH4D-J](https://scp-wiki.wikidot.com/scp-cash4d-j)
 - **Metatitle**: The People Person
-- **Rate**: +60
+- **Rate**: +61
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
@@ -1986,6 +1838,8 @@
 - **Rate**: +32
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [A Comprehensive List of K-Class Scenarios](https://scp-wiki.wikidot.com/k-class-complete-list) (+247)
 
 ### [SCP-META-EX-J](https://scp-wiki.wikidot.com/scp-meta-ex-j)
 - **Metatitle**: Please Don't Coldpost
@@ -1995,39 +1849,17 @@
 
 ### [SCP-MYSTERY-J](https://scp-wiki.wikidot.com/scp-mystery-j)
 - **Metatitle**: A Mysterious Placeholder
-- **Rate**: +550
-- **Cited by 11 SCPs**:
-    - [SCP-4003](https://scp-wiki.wikidot.com/scp-4003) (On Cowboys, Catholicism, and the Cretaceous, +359)
-    - [SCP-4934](https://scp-wiki.wikidot.com/scp-4934) (The House That Chuck Built, +229)
-    - [SCP-3867](https://scp-wiki.wikidot.com/scp-3867) (♡♡♡Sweet Cats & Perfect Dogs!♡♡♡, +227)
-    - [SCP-020-J](https://scp-wiki.wikidot.com/scp-020-j) (A Pale Comparison, +119)
-    - [SCP-3879](https://scp-wiki.wikidot.com/scp-3879) (Musical Jolly Ape™ by Dr. Wondertainment, +101)
-    - [SCP-5047](https://scp-wiki.wikidot.com/scp-5047) (Apartment Hunting, +91)
-    - [SCP-5148](https://scp-wiki.wikidot.com/scp-5148) (Qlippoth, +84)
-    - [SCP-5726](https://scp-wiki.wikidot.com/scp-5726) (Sparkling Magical Girl ♥ Darling Pink!!, +81)
-    - [SCP-3923](https://scp-wiki.wikidot.com/scp-3923) (Negotium Ficus, +63)
-    - [SCP-1712](https://scp-wiki.wikidot.com/scp-1712) (An Unusual Occurrence On August 11th, 1959, +44)
+- **Rate**: +552
+- **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
-- **Appears in 13 tales**:
-    - [SCP-049-ΩK](https://scp-wiki.wikidot.com/omega-k-049) (+181)
-    - [Moon Champion's Cinco de Mayo Extravaganza](https://scp-wiki.wikidot.com/moon-champion-s-cinco-de-mayo-extravaganza) (+124)
-    - [Reality TV, Designer Pets, and Fine Dining](https://scp-wiki.wikidot.com/reality-tv-designer-pets-and-fine-dining) (+79)
-    - [RAISA-6147 (PENDING ASSIGNMENT)](https://scp-wiki.wikidot.com/raisa-6147) (+70)
-    - [S&C Paper](https://scp-wiki.wikidot.com/sc-paper) (+66)
-    - [Gentle Wings Flutter Quietly In The Dark](https://scp-wiki.wikidot.com/gentle-wings-flutter-quietly-in-the-dark) (+65)
-    - [Tim Wilson's Close Shave](https://scp-wiki.wikidot.com/tim-wilson-s-close-shave) (+50)
-    - [Robin](https://scp-wiki.wikidot.com/robin) (+45)
-    - [Fanfa](https://scp-wiki.wikidot.com/fanfa) (+35)
-    - [Gluttony Is Impossible](https://scp-wiki.wikidot.com/gluttony-is-impossible) (+34)
-    - [The Case of the Bathroom Cheese Labels](https://scp-wiki.wikidot.com/the-case-of-the-bathroom-cheese-labels) (+26)
-    - [Nobody Likes Having Enemies](https://scp-wiki.wikidot.com/nobody-likes-having-enemies) (+23)
-    - [La Persistencia De La Memoria](https://scp-wiki.wikidot.com/la-persistencia-de-la-memoria) (+19)
 
 ### [SCP-O5-J](https://scp-wiki.wikidot.com/scp-o5-j)
 - **Metatitle**: Sorry, I do not understand the command.
 - **Rate**: +155
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [A Comprehensive List of Mobile Task Forces](https://scp-wiki.wikidot.com/task-forces-complete-list)
 
 ### [SCP-ROCKS-J](https://scp-wiki.wikidot.com/scp-rocks-j)
 - **Metatitle**: A Pile Of Rocks That Need To Shut The Hell Up
@@ -2037,7 +1869,7 @@
 
 ### [SCP-SAFE-J](https://scp-wiki.wikidot.com/scp-safe-j)
 - **Metatitle**: Some safes
-- **Rate**: +616
+- **Rate**: +617
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
@@ -2055,7 +1887,7 @@
 
 ### [SCP-SPOOKY-J](https://scp-wiki.wikidot.com/scp-spooky-j)
 - **Metatitle**: A Veteran Of The Skeleton War
-- **Rate**: +175
+- **Rate**: +176
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
 
@@ -2067,11 +1899,13 @@
 
 ### [SCP-TTKU-J](https://scp-wiki.wikidot.com/scp-ttku-j)
 - **Metatitle**: A Thing That Kills You
-- **Rate**: +913
+- **Rate**: +918
 - **Cited by 3 SCPs**:
-    - [DAVEYOUFOOL-PROPOSAL](https://scp-wiki.wikidot.com/daveyoufool-proposal) ("KEEP CALM AND APOLLY ON", +283)
+    - [DAVEYOUFOOL-PROPOSAL](https://scp-wiki.wikidot.com/daveyoufool-proposal) ("KEEP CALM AND APOLLY ON", +285)
     - [SCP-2718-J](https://scp-wiki.wikidot.com/scp-2718-j) (Weekend at Dammerung's, +83)
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [A Comprehensive List of K-Class Scenarios](https://scp-wiki.wikidot.com/k-class-complete-list) (+247)
 
 ### [SCP-V1L3-J](https://scp-wiki.wikidot.com/scp-v1l3-j)
 - **Metatitle**: A VILE Machine
@@ -2091,6 +1925,9 @@
 - **Rate**: +65
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
+- **Associated with**:
+    - [A Comprehensive List of K-Class Scenarios](https://scp-wiki.wikidot.com/k-class-complete-list) (+247)
+    - [A Comprehensive List of Mobile Task Forces](https://scp-wiki.wikidot.com/task-forces-complete-list)
 
 ### [SCP-WTF-J](https://scp-wiki.wikidot.com/scp-wtf-j)
 - **Metatitle**: The Worst
@@ -2100,11 +1937,9 @@
 
 ### [SCP-BOTNIK-J](https://scp-wiki.wikidot.com/scp-botnik-j)
 - **Metatitle**: The Subject is Aware
-- **Rate**: +672
+- **Rate**: +674
 - **Cited by 1 SCPs**:
     - [SCP-1047-J](https://scp-wiki.wikidot.com/scp-1047-j) ("The Troll")
-- **Appears in 1 tales**:
-    - [A Surprise Encounter with Crispy Sex Pirates](https://scp-wiki.wikidot.com/crispy-sex-pirates) (+48)
 
 ### [SCP-SQRT-1-J](https://scp-wiki.wikidot.com/scp-sqrt-1-j)
 - **Metatitle**: SCP-$\sqrt{-1}$ -J
