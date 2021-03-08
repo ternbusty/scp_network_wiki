@@ -40,7 +40,7 @@
 - **Metatitle**: 人類の夢に救済を
 - **Rate**: +156
 - **Cited by 1 SCPs**:
-    - [AMAMIEL-SANKS-S-PROPOSAL](https://scp-jp.wikidot.com/amamiel-sanks-s-proposal) (Amamiel=Sanksの提言 - SCP財団, +92)
+    - [AMAMIEL-SANKS-S-PROPOSAL](https://scp-jp.wikidot.com/amamiel-sanks-s-proposal) (Amamiel=Sanksの提言, +102)
 - **Appears in 1 tales**:
     - [SCPフレーバーテキスト集](https://scp-jp.wikidot.com/scp-flavor) (+208)
 
@@ -519,7 +519,7 @@
 - **Cited by 3 SCPs**:
     - [MAKING-STEW-HUB](https://scp-jp.wikidot.com/making-stew-hub) (シチュー造り ハブ, +136)
     - [NINTENDO-HUB](https://scp-jp.wikidot.com/nintendo-hub) (任天堂 ハブ, +132)
-    - [INDONOOTOKO-S-PROPOSAL-III](https://scp-jp.wikidot.com/indonootoko-s-proposal-iii) (Indonootokoの提言Ⅲ - SCP財団, +41)
+    - [INDONOOTOKO-S-PROPOSAL-III](https://scp-jp.wikidot.com/indonootoko-s-proposal-iii) (Indonootokoの提言Ⅲ, +41)
 - **Appears in 2 tales**:
     - [スシブレード ハブ](https://scp-jp.wikidot.com/sushiblade-hub) (+174)
     - [集村:61 - 跳記"巫女と片羽"](https://scp-jp.wikidot.com/village-61-priestess-and-feather-on-one-side) (+22)
@@ -571,7 +571,7 @@
 - **Metatitle**: 復活！新宿発→ムベべ星行深夜バス(信者割引アリ※最大70%！)
 - **Rate**: +58
 - **Cited by 1 SCPs**:
-    - [INDONOOTOKO-S-PROPOSAL-III](https://scp-jp.wikidot.com/indonootoko-s-proposal-iii) (Indonootokoの提言Ⅲ - SCP財団, +41)
+    - [INDONOOTOKO-S-PROPOSAL-III](https://scp-jp.wikidot.com/indonootoko-s-proposal-iii) (Indonootokoの提言Ⅲ, +41)
 - **Appears in 2 tales**:
     - [異世界跳躍のすゝめ 〜エルマ信者の選ぶ神秘の異世界10選〜](https://scp-jp.wikidot.com/elma-brochure) (+73)
     - [ある新興宗教における潜入捜査官の顛末と物語](https://scp-jp.wikidot.com/elma2006) (+41)
@@ -706,7 +706,7 @@
 - **Metatitle**: 灯
 - **Rate**: +213
 - **Cited by 1 SCPs**:
-    - [FENNECIST-S-PROPOSAL](https://scp-jp.wikidot.com/fennecist-s-proposal) (Fennecistの提言 - SCP財団, +68)
+    - [FENNECIST-S-PROPOSAL](https://scp-jp.wikidot.com/fennecist-s-proposal) (Fennecistの提言, +68)
 - **Appears in 1 tales**:
     - [SCPフレーバーテキスト集](https://scp-jp.wikidot.com/scp-flavor) (+208)
 
@@ -1112,7 +1112,7 @@
 - **Metatitle**: ライズ
 - **Rate**: +114
 - **Cited by 2 SCPs**:
-    - [MISHARY-S-PROPOSAL](https://scp-jp.wikidot.com/mishary-s-proposal) (禦舍利の提言 / 第〇〇〇八番 - SCP財団, +57)
+    - [MISHARY-S-PROPOSAL](https://scp-jp.wikidot.com/mishary-s-proposal) (禦舍利の提言 / 第〇〇〇八番, +57)
     - [SCP-1856-JP](https://scp-jp.wikidot.com/scp-1856-jp) (NINJA・SAGA, +47)
 - **Appears in 2 tales**:
     - [日本支部理事会書類](https://scp-jp.wikidot.com/japanese-area-directors-dossier) (+124)
@@ -1600,8 +1600,8 @@
 - **Metatitle**: どっどど どどうど
 - **Rate**: +14
 - **Appears in 2 tales**:
-    - [PoI-1933 ハブ](https://scp-jp.wikidot.com/miyazawakenji-hub) (+13)
     - [要注意人物ファイル #1933/01](https://scp-jp.wikidot.com/poi-1933) (+13)
+    - [PoI-1933 ハブ](https://scp-jp.wikidot.com/miyazawakenji-hub) (+13)
 
 ### [SCP-2902-JP](https://scp-jp.wikidot.com/scp-2902-jp)
 - **Metatitle**: 穴二つ
@@ -1696,8 +1696,8 @@
 - **Rate**: +30
 - **Appears in 3 tales**:
     - [SCPフレーバーテキスト集](https://scp-jp.wikidot.com/scp-flavor) (+208)
-    - [PoI-1933 ハブ](https://scp-jp.wikidot.com/miyazawakenji-hub) (+13)
     - [要注意人物ファイル #1933/01](https://scp-jp.wikidot.com/poi-1933) (+13)
+    - [PoI-1933 ハブ](https://scp-jp.wikidot.com/miyazawakenji-hub) (+13)
 
 ### [SCP-2949-JP](https://scp-jp.wikidot.com/scp-2949-jp)
 - **Metatitle**: 忍法・射出成型

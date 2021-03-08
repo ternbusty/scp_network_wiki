@@ -2,579 +2,577 @@ kwana-s-proposal:
   links: []
   rate: '+142'
   tags:
-  - "\u5834\u6240"
-  - "\u30C6\u30EC\u30D1\u30B7\u30FC"
+  - scp
   - jp
+  - "\u30C6\u30EC\u30D1\u30B7\u30FC"
   - thaumiel
   - "\u4E57\u308A\u7269"
+  - "\u5EFA\u9020\u7269"
+  - "\u5834\u6240"
   - "\u81EA\u52D5\u88C5\u7F6E"
   - "001\u63D0\u8A00"
-  - "\u5EFA\u9020\u7269"
-  - scp
-  title: "Kwana\u306E\u63D0\u8A00 - SCP\u8CA1\u56E3"
+  title: "Kwana\u306E\u63D0\u8A00"
 b-bone-s-proposal:
   links: []
   rate: '+87'
   tags:
-  - "\u672A\u53CE\u5BB9"
-  - "\u6587\u66F8"
-  - safe
-  - jp
-  - "001\u63D0\u8A00"
   - scp
+  - "\u6587\u66F8"
+  - jp
   - "\u30E1\u30BF"
-  title: "broken_bone\u306E\u63D0\u8A00 - SCP\u8CA1\u56E3"
+  - safe
+  - "\u672A\u53CE\u5BB9"
+  - "001\u63D0\u8A00"
+  title: "broken_bone\u306E\u63D0\u8A00"
 tokage-otoko-s-proposal-2:
   links: []
   rate: '+163'
   tags:
+  - scp
+  - "\u4EBA\u9593\u578B"
+  - jp
+  - "\u30E1\u30BF"
+  - "\u7570\u6B21\u5143"
   - keter
   - "\u7CBE\u795E\u5F71\u97FF"
-  - jp
   - "\u30DD\u30FC\u30BF\u30EB"
   - "001\u63D0\u8A00"
-  - "\u4EBA\u9593\u578B"
-  - "\u7570\u6B21\u5143"
-  - scp
-  - "\u30E1\u30BF"
-  title: "tokage-otoko\u306E\u63D0\u8A00 - SCP\u8CA1\u56E3"
+  title: "tokage-otoko\u306E\u63D0\u8A00"
 toraya-s-proposal:
   links: []
   rate: '+147'
   tags:
-  - keter
-  - jp
-  - "\u8607\u751F"
+  - scp
+  - "\u8490\u96C6\u9662"
   - "\u81EA\u6211"
+  - "\u77E5\u6027"
+  - "\u8607\u751F"
+  - jp
+  - "\u30E1\u30BF"
+  - "\u7570\u6B21\u5143"
+  - keter
   - "\u30DD\u30FC\u30BF\u30EB"
   - "001\u63D0\u8A00"
-  - "\u77E5\u6027"
-  - "\u7570\u6B21\u5143"
-  - "\u8490\u96C6\u9662"
-  - scp
-  - "\u30E1\u30BF"
-  title: "Toraya\u306E\u63D0\u8A00 - SCP\u8CA1\u56E3"
+  title: "Toraya\u306E\u63D0\u8A00"
 hal-aki-s-proposal:
   links: []
   rate: '+102'
   tags:
-  - "\u8A18\u61B6\u5A92\u4F53"
-  - safe
-  - jp
+  - scp
   - "\u8490\u96C6\u9662"
-  - "001\u63D0\u8A00"
-  - "k-\u30AF\u30E9\u30B9\u30B7\u30CA\u30EA\u30AA"
+  - "\u8A18\u61B6\u5A92\u4F53"
+  - jp
   - "\u6642\u9593"
   - "\u9332\u753B"
-  - scp
-  title: "hal_aki\u306E\u63D0\u8A00 - SCP\u8CA1\u56E3"
+  - "k-\u30AF\u30E9\u30B9\u30B7\u30CA\u30EA\u30AA"
+  - safe
+  - "001\u63D0\u8A00"
+  title: "hal_aki\u306E\u63D0\u8A00"
 locker-s-proposal:
   links: []
   rate: '+56'
   tags:
+  - scp
+  - "\u81EA\u6211"
+  - "\u77E5\u6027"
   - jp
   - thaumiel
-  - "\u96FB\u6C17"
-  - "\u81EA\u6211"
-  - "001\u63D0\u8A00"
   - "\u5916\u90E8\u30A8\u30F3\u30C8\u30ED\u30D4\u30FC"
-  - "\u77E5\u6027"
-  - "\u7570\u6B21\u5143"
   - "\u6A5F\u68B0"
+  - "\u7570\u6B21\u5143"
+  - "\u96FB\u6C17"
   - "\u81EA\u52D5\u88C5\u7F6E"
-  - scp
-  title: "locker\u306E\u63D0\u8A00 - SCP\u8CA1\u56E3"
+  - "001\u63D0\u8A00"
+  title: "locker\u306E\u63D0\u8A00"
 solvex-s-proposal:
   links: []
   rate: '+290'
   tags:
-  - "\u30C7\u30B9\u30B3\u30F317"
-  - "\u611F\u899A"
+  - scp
   - "\u56FD\u5916\u53CE\u5BB9"
+  - "\u611F\u899A"
+  - "\u30C7\u30B9\u30B3\u30F317"
+  - "\u8A8D\u8B58\u707D\u5BB3"
   - jp
   - thaumiel
-  - "\u9053\u5177"
   - "\u8996\u899A"
+  - "\u9053\u5177"
   - "001\u63D0\u8A00"
-  - scp
-  - "\u8A8D\u8B58\u707D\u5BB3"
-  title: "solvex\u306E\u63D0\u8A00 - SCP\u8CA1\u56E3"
+  title: "solvex\u306E\u63D0\u8A00"
 o-92-s-proposal:
   links:
-  - scp-1111-jp
+  - scp-612-jp
   - scp-835-jp
   - scp-115-jp
   - scp-579-jp
-  - scp-612-jp
+  - scp-1111-jp
   rate: '+122'
   tags:
-  - "\u6587\u66F8"
-  - "\u8CA1\u56E3\u88FD"
-  - jp
-  - thaumiel
-  - "001\u63D0\u8A00"
-  - "\u60C5\u5831\u707D\u5BB3"
-  - "\u30D1\u30E9\u30C9\u30C3\u30AF\u30B9"
   - scp
+  - "\u8CA1\u56E3\u88FD"
+  - "\u30D1\u30E9\u30C9\u30C3\u30AF\u30B9"
+  - "\u6587\u66F8"
+  - jp
   - "\u30E1\u30BF"
-  title: "O-92\u306E\u63D0\u8A00 - SCP\u8CA1\u56E3"
+  - thaumiel
+  - "\u60C5\u5831\u707D\u5BB3"
+  - "001\u63D0\u8A00"
+  title: "O-92\u306E\u63D0\u8A00"
 okaka-onigiri-s-proposal:
   links:
   - scp-3200
   rate: '+53'
   tags:
+  - scp
   - "\u60D1\u661F"
+  - "\u751F\u547D"
   - esoteric-class
+  - "\u690D\u7269"
   - jp
   - "\u64EC\u614B"
-  - "\u907A\u4F1D\u5B50"
-  - "\u751F\u547D"
-  - "001\u63D0\u8A00"
   - "\u5730\u4E0B"
-  - "\u690D\u7269"
+  - "\u907A\u4F1D\u5B50"
   - "\u751F\u6B96"
-  - scp
-  title: "Okaka_Onigiri\u306E\u63D0\u8A00 - SCP\u8CA1\u56E3"
+  - "001\u63D0\u8A00"
+  title: "Okaka_Onigiri\u306E\u63D0\u8A00"
 amamiel-s-proposal:
   links: []
   rate: '+167'
   tags:
-  - "\u8CA1\u56E3\u88FD"
-  - esoteric-class
-  - "\u30AA\u30CD\u30A4\u30ED\u30A4"
-  - jp
-  - "\u30D5\u30A1\u30A6\u30F3\u30C7\u30FC\u30B7\u30E7\u30F3\u30FB\u30B3\u30EC\u30AF\
-    \u30C6\u30A3\u30D6"
-  - "001\u63D0\u8A00"
-  - "\u751F\u6B96"
   - scp
   - "\u4EBA\u9593\u578B"
-  title: "amamiel\u306E\u63D0\u8A00 - SCP\u8CA1\u56E3"
+  - "\u8CA1\u56E3\u88FD"
+  - "\u30D5\u30A1\u30A6\u30F3\u30C7\u30FC\u30B7\u30E7\u30F3\u30FB\u30B3\u30EC\u30AF\
+    \u30C6\u30A3\u30D6"
+  - esoteric-class
+  - jp
+  - "\u30AA\u30CD\u30A4\u30ED\u30A4"
+  - "\u751F\u6B96"
+  - "001\u63D0\u8A00"
+  title: "amamiel\u306E\u63D0\u8A00"
 wagnascousin-s-proposal:
   links: []
   rate: '+72'
   tags:
+  - scp
+  - "\u6728\u88FD"
+  - "\u30DF\u30FC\u30E0"
   - "\u30D9\u30F3\u30C1\u30E3\u30FC\u30B3\u30F3\u30C6\u30B9\u30C8"
   - "\u53CD\u30DF\u30FC\u30E0"
-  - "\u591C\u95C7\u306E\u5B50\u3089"
-  - "\u99AC"
-  - "\u6A39\u6728"
+  - "\u5F6B\u308A\u7269"
   - jp
   - thaumiel
-  - "\u5F6B\u308A\u7269"
-  - "\u98DF\u7269"
   - "\u9069\u5FDC"
-  - "\u907A\u4F1D\u5B50"
+  - "\u6A39\u6728"
   - "\u9E7F"
+  - "\u98DF\u7269"
+  - "\u99AC"
   - "k-\u30AF\u30E9\u30B9\u30B7\u30CA\u30EA\u30AA"
+  - "\u907A\u4F1D\u5B50"
+  - "\u591C\u95C7\u306E\u5B50\u3089"
   - "001\u63D0\u8A00"
-  - scp
-  - "\u30DF\u30FC\u30E0"
-  - "\u6728\u88FD"
-  title: "WagnasCousin\u306E\u63D0\u8A00 - SCP\u8CA1\u56E3"
+  title: "WagnasCousin\u306E\u63D0\u8A00"
 chuukunn-s-proposal:
   links: []
   rate: '+218'
   tags:
-  - "\u30D9\u30F3\u30C1\u30E3\u30FC\u30B3\u30F3\u30C6\u30B9\u30C8"
-  - esoteric-class
-  - jp
-  - "001\u63D0\u8A00"
   - scp
   - "\u4EBA\u9593\u578B"
-  title: "chuukunn\u306E\u63D0\u8A00 - SCP\u8CA1\u56E3"
+  - esoteric-class
+  - "\u30D9\u30F3\u30C1\u30E3\u30FC\u30B3\u30F3\u30C6\u30B9\u30C8"
+  - jp
+  - "001\u63D0\u8A00"
+  title: "chuukunn\u306E\u63D0\u8A00"
 darumaboy-s-proposal:
   links: []
   rate: '+135'
   tags:
-  - safe
-  - "\u7CBE\u795E\u5F71\u97FF"
-  - jp
-  - "\u5BC4\u751F"
-  - "\u6355\u98DF"
-  - "\u8702"
-  - "\u6982\u5FF5"
-  - "001\u63D0\u8A00"
   - scp
-  title: "darumaboy\u306E\u63D0\u8A00 - SCP\u8CA1\u56E3"
+  - "\u5BC4\u751F"
+  - jp
+  - "\u8702"
+  - "\u6355\u98DF"
+  - "\u7CBE\u795E\u5F71\u97FF"
+  - "\u6982\u5FF5"
+  - safe
+  - "001\u63D0\u8A00"
+  title: "darumaboy\u306E\u63D0\u8A00"
 indonootoko-s-proposal:
   links:
+  - scp-044-jp
+  - scp-1435-jp
   - scp-2419
   - scp-183-jp
-  - scp-1435-jp
-  - scp-044-jp
   rate: '+75'
   tags:
-  - esoteric-class
-  - jp
-  - "\u4EBA\u5DE5"
-  - "\u53EF\u8996\u5149"
-  - "\u30EF\u30EB\u30B3\u30F318"
-  - "\u751F\u6B96"
-  - "\u6DB2\u4F53"
-  - "\u907A\u4F1D\u5B50"
-  - "k-\u30AF\u30E9\u30B9\u30B7\u30CA\u30EA\u30AA"
-  - "001\u63D0\u8A00"
-  - "\u6027\u7684"
-  - "\u65E5\u672C\u751F\u985E\u5275\u7814"
-  - "\u51CD\u9727\u967D"
-  - "\u81EA\u52D5\u88C5\u7F6E"
   - scp
+  - "\u6DB2\u4F53"
+  - "\u6027\u7684"
+  - "\u53EF\u8996\u5149"
+  - esoteric-class
+  - "\u65E5\u672C\u751F\u985E\u5275\u7814"
+  - "\u4EBA\u5DE5"
+  - jp
   - "\u751F\u7269\u707D\u5BB3"
-  title: "indonootoko\u306E\u63D0\u8A00 - SCP\u8CA1\u56E3"
+  - "\u30EF\u30EB\u30B3\u30F318"
+  - "k-\u30AF\u30E9\u30B9\u30B7\u30CA\u30EA\u30AA"
+  - "\u51CD\u9727\u967D"
+  - "\u907A\u4F1D\u5B50"
+  - "\u81EA\u52D5\u88C5\u7F6E"
+  - "\u751F\u6B96"
+  - "001\u63D0\u8A00"
+  title: "indonootoko\u306E\u63D0\u8A00"
 k-cal-s-proposal:
   links: []
   rate: '+182'
   tags:
+  - scp
   - "\u8CA1\u56E3\u88FD"
   - jp
   - thaumiel
   - "\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF"
-  - "001\u63D0\u8A00"
-  - "k-\u30AF\u30E9\u30B9\u30B7\u30CA\u30EA\u30AA"
   - "\u6A5F\u68B0"
-  - scp
-  title: "k-cal\u306E\u63D0\u8A00 - SCP\u8CA1\u56E3"
+  - "k-\u30AF\u30E9\u30B9\u30B7\u30CA\u30EA\u30AA"
+  - "001\u63D0\u8A00"
+  title: "k-cal\u306E\u63D0\u8A00"
 kyougoku-s-proposal:
   links: []
   rate: '+143'
   tags:
-  - esoteric-class
-  - "\u773C\u7403"
-  - jp
-  - "001\u63D0\u8A00"
   - scp
+  - "\u773C\u7403"
+  - esoteric-class
   - "\u89B3\u6E2C"
   - "\u82B8\u8853"
-  title: "\u4EAC\u6975\u306E\u63D0\u8A00 - SCP\u8CA1\u56E3"
+  - jp
+  - "001\u63D0\u8A00"
+  title: "\u4EAC\u6975\u306E\u63D0\u8A00"
 noname:
   links: []
   rate: '+118'
   tags:
+  - tale
   - jp
   - "001\u63D0\u8A00"
-  - tale
-  title: "Noname - SCP\u8CA1\u56E3"
+  title: Noname
 yzkrt-s-proposal:
   links:
-  - author:kankan
-  - scp-920
-  - author:indonootoko
   - author:holy-nova
+  - author:kankan
+  - author:indonootoko
   - scp-682
+  - scp-920
   rate: '+21'
   tags:
-  - "\u672A\u53CE\u5BB9"
-  - "\u73FE\u5B9F\u6539\u5909"
-  - "\u6587\u66F8"
-  - "\u8A18\u61B6\u5A92\u4F53"
-  - jp
-  - thaumiel
-  - "\u8A18\u61B6\u5F71\u97FF"
-  - "\u5F37\u5236\u529B"
-  - "\u6982\u5FF5"
-  - "001\u63D0\u8A00"
-  - "\u81EA\u6211"
-  - "\u8A18\u8FF0"
-  - "\u30AA\u30F3\u30E9\u30A4\u30F3"
   - scp
+  - "\u8A18\u61B6\u5A92\u4F53"
+  - "\u81EA\u6211"
+  - "\u6587\u66F8"
+  - "\u30AA\u30F3\u30E9\u30A4\u30F3"
+  - "\u8A18\u61B6\u5F71\u97FF"
+  - jp
   - "\u30E1\u30BF"
+  - thaumiel
+  - "\u73FE\u5B9F\u6539\u5909"
+  - "\u8A18\u8FF0"
   - "\u975E\u5B9F\u4F53"
-  title: "\u8CA1\u56E3\u535A\u58EB\u306E\u4EBA\u4E8B\u30D5\u30A1\u30A4\u30EB - SCP\u8CA1\
-    \u56E3"
+  - "\u6982\u5FF5"
+  - "\u5F37\u5236\u529B"
+  - "\u672A\u53CE\u5BB9"
+  - "001\u63D0\u8A00"
+  title: "\u8CA1\u56E3\u535A\u58EB\u306E\u4EBA\u4E8B\u30D5\u30A1\u30A4\u30EB"
 ikkeby-v-s-proposal:
   links:
-  - about-the-scp-foundation
-  - scp-571
   - scp-2140
+  - scp-571
+  - about-the-scp-foundation
   rate: '+136'
   tags:
+  - scp
   - "\u8CA1\u56E3\u88FD"
+  - "\u89B3\u6E2C"
   - jp
   - thaumiel
   - "\u975E\u5B9F\u4F53"
   - "001\u63D0\u8A00"
-  - scp
-  - "\u89B3\u6E2C"
-  title: "Ikkeby-V\u306E\u63D0\u8A00 - SCP\u8CA1\u56E3"
+  title: "Ikkeby-V\u306E\u63D0\u8A00"
 hannyahara-s-proposal:
   links:
-  - scp-049
-  - scp-953
-  - scp-1111-jp
   - scp-1136
+  - scp-953
+  - scp-049
+  - scp-1111-jp
   rate: '+129'
   tags:
+  - scp
   - "\u6587\u66F8"
-  - keter
-  - jp
   - "\u30DF\u30FC\u30E0"
+  - jp
+  - explained
+  - keter
+  - "\u60C5\u5831\u707D\u5BB3"
   - "\u5F37\u5236\u529B"
   - "001\u63D0\u8A00"
-  - scp
-  - "\u60C5\u5831\u707D\u5BB3"
-  - explained
-  title: "hannyahara\u306E\u63D0\u8A00 - SCP\u8CA1\u56E3"
+  title: "hannyahara\u306E\u63D0\u8A00"
 ykamikura-s-proposal:
   links: []
   rate: '+165'
   tags:
-  - "\u30AF\u30EC\u30D5\u535A\u58EB"
-  - "\u591C\u95C7\u306E\u5B50\u3089"
-  - tale
-  - "\u30D6\u30E9\u30A4\u30C8\u535A\u58EB"
-  - "\u30A8\u30FC\u30B8\u30A7\u30F3\u30C8\u30FB\u6238\u795E"
-  - "\u7121\u30B3\u30F319"
-  - jp
   - "\u30AE\u30A2\u30FC\u30BA\u535A\u58EB"
   - "\u540D\u3082\u306A\u304D\u3082\u306E"
-  - "\u7BA1\u7406\u8005"
-  - "\u9ED2\u306E\u5973\u738B"
+  - "\u30D6\u30E9\u30A4\u30C8\u535A\u58EB"
   - "\u30AB\u30AA\u30B9\u30FB\u30A4\u30F3\u30B5\u30FC\u30B8\u30A7\u30F3\u30B7\u30FC"
-  - "001\u63D0\u8A00"
+  - "\u7121\u30B3\u30F319"
+  - "\u7BA1\u7406\u8005"
+  - "\u30B5\u30FC\u30AD\u30C3\u30AF"
+  - "\u30A8\u30FC\u30B8\u30A7\u30F3\u30C8\u30FB\u6238\u795E"
+  - tale
+  - jp
+  - "\u9ED2\u306E\u5973\u738B"
+  - "\u86C7\u306E\u624B"
   - "\u58CA\u308C\u305F\u795E\u306E\u6559\u4F1A"
   - "\u30A2\u30A4\u30B9\u30D0\u30FC\u30B0\u535A\u58EB"
-  - "\u86C7\u306E\u624B"
-  - "\u30B5\u30FC\u30AD\u30C3\u30AF"
+  - "\u30AF\u30EC\u30D5\u535A\u58EB"
   - "\u4E16\u754C\u30AA\u30AB\u30EB\u30C8\u9023\u5408"
-  title: "ykamikura\u306E\u63D0\u8A00 - SCP\u8CA1\u56E3"
+  - "\u591C\u95C7\u306E\u5B50\u3089"
+  - "001\u63D0\u8A00"
+  title: "ykamikura\u306E\u63D0\u8A00"
 okaka-onigiri-s-proposal-ii:
   links:
   - okaka-onigiri-s-proposal-ii/offset/1/page2_limit/1
   - author:okaka-onigiri
   rate: '+196'
   tags:
-  - keter
+  - scp
+  - "\u71B1\u529B\u5B66"
   - "\u7121\u30B3\u30F319"
   - jp
-  - "\u71B1\u529B\u5B66"
-  - "001\u63D0\u8A00"
-  - "\u30AA\u30D6\u30B9\u30AF\u30E9"
-  - scp
   - "\u7269\u7406\u6CD5\u5247"
+  - keter
+  - "\u30AA\u30D6\u30B9\u30AF\u30E9"
   - "\u4E16\u754C\u30AA\u30AB\u30EB\u30C8\u9023\u5408"
-  title: "Okaka_Onigiri\u306E\u63D0\u8A00II - SCP\u8CA1\u56E3"
+  - "001\u63D0\u8A00"
+  title: "Okaka_Onigiri\u306E\u63D0\u8A00II"
 solvex-s-proposal-ii:
   links:
-  - scp-1030-jp
-  - scp-783-jp
-  - goc-far-east-orientation
   - marshall-carter-and-dark-hub
+  - scp-783-jp
+  - scp-1030-jp
+  - goc-far-east-orientation
   rate: '+32'
   tags:
-  - "\u672A\u53CE\u5BB9"
-  - keter
-  - "\u7121\u30B3\u30F319"
-  - jp
-  - "\u5730\u8CEA"
-  - mc&d
-  - "001\u63D0\u8A00"
+  - scp
   - "k-\u30AF\u30E9\u30B9\u30B7\u30CA\u30EA\u30AA"
   - "\u65E5\u672C\u751F\u985E\u5275\u7814"
-  - scp
+  - "\u5730\u8CEA"
+  - "\u7121\u30B3\u30F319"
+  - "001\u63D0\u8A00"
+  - jp
+  - keter
   - "\u4E16\u754C\u30AA\u30AB\u30EB\u30C8\u9023\u5408"
-  title: "solvex\u306E\u63D0\u8A00II - SCP\u8CA1\u56E3"
+  - "\u672A\u53CE\u5BB9"
+  - mc&d
+  title: "solvex\u306E\u63D0\u8A00II"
 hannyahara-s-proposal-ii:
   links:
   - scp-682
   rate: '+66'
   tags:
-  - "\u7121\u30B3\u30F319"
-  - esoteric-class
-  - jp
-  - "\u6642\u7A7A\u9593"
-  - "\u6982\u5FF5"
-  - "001\u63D0\u8A00"
   - scp
+  - esoteric-class
+  - "\u6642\u7A7A\u9593"
+  - "\u7121\u30B3\u30F319"
+  - "001\u63D0\u8A00"
+  - jp
+  - "\u6982\u5FF5"
   - "\u4E16\u754C\u30AA\u30AB\u30EB\u30C8\u9023\u5408"
-  title: "hannyahara\u306E\u63D0\u8A00II - SCP\u8CA1\u56E3"
+  title: "hannyahara\u306E\u63D0\u8A00II"
 r-00x-s-proposal:
   links: []
   rate: '+129'
   tags:
-  - "\u672A\u53CE\u5BB9"
-  - "\u7121\u30B3\u30F319"
-  - esoteric-class
-  - jp
-  - "\u6642\u7A7A\u9593"
-  - "\u78BA\u7387"
-  - "\u751F\u547D"
-  - "001\u63D0\u8A00"
-  - "\u7269\u7406\u6CD5\u5247"
-  - "\u7570\u6B21\u5143"
   - scp
   - "\u4EBA\u9593\u578B"
-  title: "R-00X\u306E\u63D0\u8A00 - SCP\u8CA1\u56E3"
+  - "\u751F\u547D"
+  - esoteric-class
+  - "\u6642\u7A7A\u9593"
+  - "\u7121\u30B3\u30F319"
+  - jp
+  - "\u7269\u7406\u6CD5\u5247"
+  - "\u78BA\u7387"
+  - "\u7570\u6B21\u5143"
+  - "\u672A\u53CE\u5BB9"
+  - "001\u63D0\u8A00"
+  title: "R-00X\u306E\u63D0\u8A00"
 jiraku-mogana-s-proposal:
   links:
-  - scp-495-jp
-  - collected-item-no1091
+  - scp-823-jp
+  - scp-743-jp
+  - scp-3005
   - scp-1343-jp
   - scp-1915-jp
   - scp-1681-jp
-  - scp-743-jp
   - scp-975-jp
-  - scp-3005
-  - scp-823-jp
+  - scp-495-jp
+  - collected-item-no1091
   rate: '+73'
   tags:
-  - "\u672A\u53CE\u5BB9"
-  - "\u73FE\u5B9F\u6539\u5909"
-  - "\u7CBE\u795E\u5F71\u97FF"
-  - esoteric-class
-  - "\u5834\u6240"
+  - "\u30B8\u30E3\u30E0\u30B3\u30F32019a"
+  - scp
   - "\u9169\u914A\u8857"
-  - jp
+  - esoteric-class
   - "\u6642\u7A7A\u9593"
+  - jp
+  - "\u73FE\u5B9F\u6539\u5909"
   - "\u55C5\u899A"
+  - "\u672A\u53CE\u5BB9"
+  - "k-\u30AF\u30E9\u30B9\u30B7\u30CA\u30EA\u30AA"
+  - "\u7570\u6B21\u5143"
+  - "\u5834\u6240"
+  - "\u708E"
+  - "\u65E5\u5949\u4E00\u65CF"
+  - "\u7CBE\u795E\u5F71\u97FF"
   - "\u30DD\u30FC\u30BF\u30EB"
   - "001\u63D0\u8A00"
-  - "k-\u30AF\u30E9\u30B9\u30B7\u30CA\u30EA\u30AA"
-  - scp
-  - "\u65E5\u5949\u4E00\u65CF"
-  - "\u7570\u6B21\u5143"
-  - "\u708E"
-  - "\u30B8\u30E3\u30E0\u30B3\u30F32019a"
-  title: "\u6642\u7D61\u306E\u63D0\u8A00 - SCP\u8CA1\u56E3"
+  title: "\u6642\u7D61\u306E\u63D0\u8A00"
 fennecist-s-proposal:
   links:
   - scp-2222-jp
   rate: '+68'
   tags:
+  - scp
   - esoteric-class
-  - jp
   - "\u7BA1\u7406\u8005"
+  - jp
+  - "\u30E1\u30BF"
+  - explained
   - "\u6982\u5FF5"
   - "001\u63D0\u8A00"
-  - scp
-  - explained
-  - "\u30E1\u30BF"
-  title: "Fennecist\u306E\u63D0\u8A00 - SCP\u8CA1\u56E3"
+  title: "Fennecist\u306E\u63D0\u8A00"
 meshiochislash-s-proposal:
   links:
   - meshiochislash-s-proposal/offset/1/page2_limit/1
   - log-of-anomalous-items-jp/order/rating%20desc
   rate: '+113'
   tags:
+  - scp
   - "\u30EB\u30FC\u30AD\u30FC\u30B3\u30F3\u30C6\u30B9\u30C8"
-  - "\u6642\u8A08"
   - jp
   - thaumiel
-  - "001\u63D0\u8A00"
+  - "\u6642\u9593"
+  - "\u6A5F\u68B0"
   - "k-\u30AF\u30E9\u30B9\u30B7\u30CA\u30EA\u30AA"
   - "\u7834\u58CA\u4E0D\u80FD"
   - "\u6975\u591C\u706F"
-  - "\u6642\u9593"
-  - scp
-  - "\u6A5F\u68B0"
-  title: "\u98EF\u843D\u306E\u63D0\u8A00 - SCP\u8CA1\u56E3"
+  - "\u6642\u8A08"
+  - "001\u63D0\u8A00"
+  title: "\u98EF\u843D\u306E\u63D0\u8A00"
 mishary-s-proposal:
   links:
-  - wrong-proposal
+  - goc-hub-page
+  - scp-2478
   - collected-item-no0025
-  - wjs-proposal
+  - ijamea-hub
   - parade
   - scp-2500-jp
-  - scp-1111-jp
-  - scp-140
-  - sarkicism-hub
-  - goc-supplemental-arad
-  - scp-2478
-  - ijamea-hub
-  - scp-1200-jp/
-  - o5-command-dossier
-  - cage-of-null
-  - japanese-area-directors
-  - scp-1945-jp
-  - archives-f
-  - collected-item-no0086
-  - collected-item-no0091
-  - seafield13-author-page
-  - goc-hub-page
-  - author:tokage-otoko
   - guideline:minor-goi-list#toc11
+  - o5-command-dossier
+  - collected-item-no0086
+  - sarkicism-hub
+  - wrong-proposal
+  - scp-1200-jp/
+  - cage-of-null
+  - scp-140
+  - collected-item-no0091
+  - japanese-area-directors
+  - seafield13-author-page
+  - author:tokage-otoko
+  - goc-supplemental-arad
+  - archives-f
+  - scp-1945-jp
+  - wjs-proposal
+  - scp-1111-jp
   rate: '+57'
   tags:
-  - ijamea
-  - "001\u63D0\u8A00"
-  - "\u8CA0\u53F7\u90E8\u968A"
-  - "\u30C4\u30A1\u30FC\u30EA\u306E\u8CE2\u4EBA\u56E3"
-  - daevite
-  - asci
-  - "\u5224\u5B98\u4F1A"
-  - "\u65E5\u5949\u4E00\u65CF"
-  - "\u8266\u653F\u672C\u90E8\u5BFE\u8D85\u5E38\u8AB2"
-  - hmfscp
-  - "\u30B5\u30FC\u30AD\u30C3\u30AF"
-  - goi-format
-  - "\u7406\u5916\u7814"
-  - "\u30EB\u30FC\u30AD\u30FC\u30B3\u30F3\u30C6\u30B9\u30C8"
-  - "\u6D44\u571F\u771F\u5B97\u672C\u9858\u8A87\u8CA0\u6D3E"
-  - "\u8490\u96C6\u9662"
   - "\u65E5\u672C\u751F\u985E\u5275\u7814"
-  - "\u6276\u6851\u7D00"
+  - "\u30B5\u30FC\u30AD\u30C3\u30AF"
+  - ijamea
+  - "\u7406\u5916\u7814"
+  - "\u6D44\u571F\u771F\u5B97\u672C\u9858\u8A87\u8CA0\u6D3E"
   - "\u58CA\u308C\u305F\u795E\u306E\u6559\u4F1A"
-  - "\u4E16\u754C\u30AA\u30AB\u30EB\u30C8\u9023\u5408"
+  - "\u8266\u653F\u672C\u90E8\u5BFE\u8D85\u5E38\u8AB2"
   - "\u9670\u967D\u5BEE"
   - "\u6674\u660E\u9662"
-  - jp
-  - "\u4E5D\u5341\u4E5D\u6A5F\u95A2"
+  - "\u30C4\u30A1\u30FC\u30EA\u306E\u8CE2\u4EBA\u56E3"
   - "\u4E94\u884C\u7D50\u793E"
-  title: "\u79A6\u820D\u5229\u306E\u63D0\u8A00 / \u7B2C\u3007\u3007\u3007\u516B\u756A\
-    \ - SCP\u8CA1\u56E3"
+  - "\u65E5\u5949\u4E00\u65CF"
+  - "\u8490\u96C6\u9662"
+  - "\u5224\u5B98\u4F1A"
+  - asci
+  - "\u6276\u6851\u7D00"
+  - "001\u63D0\u8A00"
+  - hmfscp
+  - jp
+  - "\u8CA0\u53F7\u90E8\u968A"
+  - daevite
+  - "\u30EB\u30FC\u30AD\u30FC\u30B3\u30F3\u30C6\u30B9\u30C8"
+  - "\u4E5D\u5341\u4E5D\u6A5F\u95A2"
+  - goi-format
+  - "\u4E16\u754C\u30AA\u30AB\u30EB\u30C8\u9023\u5408"
+  title: "\u79A6\u820D\u5229\u306E\u63D0\u8A00 / \u7B2C\u3007\u3007\u3007\u516B\u756A"
 stengan774-s-proposal:
   links:
-  - about-the-scp-foundation
+  - unfounded-hub
+  - third-law-hub
   - doctors-of-the-church-hub
   - alive
-  - site-17-hub
-  - unfounded-hub
-  - scp-cn-1000
-  - scp-1739
-  - scp-2317
-  - 1998-hub
-  - scp-3640
-  - rat-s-nest-hub
-  - lolfoundation-hub-page
-  - the-trashfire
   - f4k
-  - third-law-hub
+  - rat-s-nest-hub
+  - scp-3640
+  - scp-1739
+  - lolfoundation-hub-page
+  - scp-cn-1000
   - security-clearance-levels
+  - scp-2317
   - scp-3200
+  - the-trashfire
+  - site-17-hub
+  - 1998-hub
+  - about-the-scp-foundation
   rate: '+21'
   tags:
-  - "001\u63D0\u8A00"
-  - "\u30D1\u30F3\u30B0\u30ED\u30B9"
-  - "\u7ACB\u65B9\u4F53"
-  - "\u8A9E\u308A"
-  - "\u502B\u7406\u59D4\u54E1\u4F1A"
-  - "\u591C\u95C7\u306E\u5B50\u3089"
-  - "\u30D7\u30ED\u30E1\u30C6\u30A6\u30B9"
-  - scarlet-king
-  - pattern-screamer
-  - "\u7BA1\u7406\u8005"
-  - "\u30A2\u30D9\u30EB"
-  - brothers-of-death
-  - "\u4EA4\u63DB"
-  - "\u5909\u5F62"
-  - "\u56FD\u5916\u53CE\u5BB9"
-  - esoteric-class
-  - "\u5F6B\u523B"
-  - "\u708E"
-  - "\u30DF\u30FC\u30E0"
-  - "\u5618\u30B3\u30F320"
-  - "\u7834\u58CA\u4E0D\u80FD"
-  - "\u5BB9\u5668"
-  - jp
-  - "\u53EF\u8996\u5149"
-  - saturn-deer
-  - "\u5F37\u5236\u529B"
-  - "\u6982\u5FF5"
-  - "\u5B97\u6559"
   - scp
-  - "\u975E\u5B9F\u4F53"
+  - "\u56FD\u5916\u53CE\u5BB9"
+  - "\u5BB9\u5668"
+  - "\u5F6B\u523B"
+  - scarlet-king
+  - "\u7ACB\u65B9\u4F53"
+  - "\u30D7\u30ED\u30E1\u30C6\u30A6\u30B9"
+  - "\u7834\u58CA\u4E0D\u80FD"
+  - "\u708E"
+  - "\u5909\u5F62"
+  - saturn-deer
+  - "\u53EF\u8996\u5149"
   - "\u4E0D\u5B9A\u5F62"
-  title: "\u5929\u773C\u306E\u63D0\u8A00 - SCP\u8CA1\u56E3"
+  - "\u5618\u30B3\u30F320"
+  - "\u6982\u5FF5"
+  - "\u591C\u95C7\u306E\u5B50\u3089"
+  - "\u502B\u7406\u59D4\u54E1\u4F1A"
+  - "\u7BA1\u7406\u8005"
+  - "\u30DF\u30FC\u30E0"
+  - pattern-screamer
+  - "\u5F37\u5236\u529B"
+  - "001\u63D0\u8A00"
+  - "\u30A2\u30D9\u30EB"
+  - esoteric-class
+  - jp
+  - "\u5B97\u6559"
+  - "\u30D1\u30F3\u30B0\u30ED\u30B9"
+  - brothers-of-death
+  - "\u975E\u5B9F\u4F53"
+  - "\u4EA4\u63DB"
+  - "\u8A9E\u308A"
+  title: "\u5929\u773C\u306E\u63D0\u8A00"
 wagnascousin-fattyacid-r-00x-s-proposal:
   links:
   - scp-140
@@ -582,74 +580,74 @@ wagnascousin-fattyacid-r-00x-s-proposal:
   - wagnascousin-fattyacid-r-00x-s-proposal/offset/1/page2_limit/1
   rate: '+85'
   tags:
-  - "\u5618\u30B3\u30F320"
-  - tale
-  - daevite
-  - jp
   - "\u30AB\u30AA\u30B9\u30FB\u30A4\u30F3\u30B5\u30FC\u30B8\u30A7\u30F3\u30B7\u30FC"
-  - "001\u63D0\u8A00"
-  - "\u5171\u8457"
-  - "\u58CA\u308C\u305F\u795E\u306E\u6559\u4F1A"
   - "\u30B5\u30FC\u30AD\u30C3\u30AF"
-  title: "Wagnas/Fatty/R-00X\u306E\u63D0\u8A00 - SCP\u8CA1\u56E3"
+  - tale
+  - jp
+  - daevite
+  - "\u58CA\u308C\u305F\u795E\u306E\u6559\u4F1A"
+  - "\u5618\u30B3\u30F320"
+  - "\u5171\u8457"
+  - "001\u63D0\u8A00"
+  title: "Wagnas/Fatty/R-00X\u306E\u63D0\u8A00"
 indonootoko-s-proposal-iii:
   links:
-  - eden-leap-001
-  - scp-2133-jp
-  - scp-2163-jp
   - scp-588-jp
+  - scp-2163-jp
+  - scp-2133-jp
+  - eden-leap-001
   rate: '+41'
   tags:
-  - "\u672A\u53CE\u5BB9"
-  - "\u6575\u5BFE\u7684"
+  - scp
+  - "\u30C1\u30FC\u30E0\u30B3\u30F320"
   - esoteric-class
+  - "\u30DF\u30FC\u30E0"
+  - "\u6575\u5BFE\u7684"
+  - "\u82B8\u8853"
   - "\u30C6\u30EC\u30D1\u30B7\u30FC"
   - jp
+  - "\u5B97\u6559"
+  - "\u30A8\u30EB\u30DE\u5916\u6559"
   - "\u6355\u98DF"
   - d-2930
-  - "001\u63D0\u8A00"
-  - scp
   - "\u5100\u5F0F"
-  - "\u30A8\u30EB\u30DE\u5916\u6559"
-  - "\u5B97\u6559"
   - "\u7570\u6B21\u5143"
-  - "\u30DF\u30FC\u30E0"
-  - "\u30C1\u30FC\u30E0\u30B3\u30F320"
-  - "\u82B8\u8853"
-  title: "Indonootoko\u306E\u63D0\u8A00\u2162 - SCP\u8CA1\u56E3"
+  - "\u672A\u53CE\u5BB9"
+  - "001\u63D0\u8A00"
+  title: "Indonootoko\u306E\u63D0\u8A00\u2162"
 falsehood-s-proposal:
   links:
   - darum-tracer-hub
   rate: '+28'
   tags:
-  - "\u502B\u7406\u59D4\u54E1\u4F1A"
-  - safe
-  - "\u30D6\u30E9\u30A4\u30C8\u535A\u58EB"
-  - "d\u0101rum-tracer"
-  - jp
-  - "\u7BA1\u7406\u8005"
-  - "001\u63D0\u8A00"
   - scp
-  - "\u30DF\u30FC\u30E0"
   - "\u30C1\u30FC\u30E0\u30B3\u30F320"
-  title: "Amaryllis-en-Grappe\u306E\u63D0\u8A00 - SCP\u8CA1\u56E3"
+  - "\u502B\u7406\u59D4\u54E1\u4F1A"
+  - "\u30D6\u30E9\u30A4\u30C8\u535A\u58EB"
+  - "\u7BA1\u7406\u8005"
+  - "\u30DF\u30FC\u30E0"
+  - jp
+  - "d\u0101rum-tracer"
+  - safe
+  - "001\u63D0\u8A00"
+  title: "Amaryllis-en-Grappe\u306E\u63D0\u8A00"
 amamiel-sanks-s-proposal:
   links:
   - amamiel-sanks-s-proposal/offset/1/page2_limit/1
   - scp-2006-jp
   - amamiel-sanks-s-proposal/offset/1/page3_limit/1
   - k-class-complete-list
-  rate: '+92'
+  rate: '+102'
   tags:
+  - scp
   - "\u8CA1\u56E3\u88FD"
-  - "\u7761\u7720"
   - esoteric-class
-  - "\u7CBE\u795E\u5F71\u97FF"
-  - jp
   - "\u8A18\u61B6\u5F71\u97FF"
-  - "001\u63D0\u8A00"
+  - jp
+  - "\u7761\u7720"
+  - "\u975E\u5B9F\u4F53"
+  - "\u7CBE\u795E\u5F71\u97FF"
   - "k-\u30AF\u30E9\u30B9\u30B7\u30CA\u30EA\u30AA"
   - "\u5171\u8457"
-  - scp
-  - "\u975E\u5B9F\u4F53"
-  title: "Amamiel=Sanks\u306E\u63D0\u8A00 - SCP\u8CA1\u56E3"
+  - "001\u63D0\u8A00"
+  title: "Amamiel=Sanks\u306E\u63D0\u8A00"

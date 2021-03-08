@@ -157,7 +157,7 @@
 - **Rate**: +54
 - **Cited by 2 SCPs**:
     - [SCP-2912-JP](https://scp-jp.wikidot.com/scp-2912-jp) (我らの壊れたる機動精神　ブロークン・ガンダム, +104)
-    - [SOLVEX-S-PROPOSAL-II](https://scp-jp.wikidot.com/solvex-s-proposal-ii) (solvexの提言II - SCP財団, +32)
+    - [SOLVEX-S-PROPOSAL-II](https://scp-jp.wikidot.com/solvex-s-proposal-ii) (solvexの提言II, +32)
 
 ### [SCP-1031-JP](https://scp-jp.wikidot.com/scp-1031-jp)
 - **Metatitle**: 傍迷惑サイト
@@ -564,9 +564,9 @@
 - **Metatitle**: 国体護持
 - **Rate**: +418
 - **Cited by 4 SCPs**:
-    - [HANNYAHARA-S-PROPOSAL](https://scp-jp.wikidot.com/hannyahara-s-proposal) (hannyaharaの提言 - SCP財団, +129)
-    - [O-92-S-PROPOSAL](https://scp-jp.wikidot.com/o-92-s-proposal) (O-92の提言 - SCP財団, +122)
-    - [MISHARY-S-PROPOSAL](https://scp-jp.wikidot.com/mishary-s-proposal) (禦舍利の提言 / 第〇〇〇八番 - SCP財団, +57)
+    - [HANNYAHARA-S-PROPOSAL](https://scp-jp.wikidot.com/hannyahara-s-proposal) (hannyaharaの提言, +129)
+    - [O-92-S-PROPOSAL](https://scp-jp.wikidot.com/o-92-s-proposal) (O-92の提言, +122)
+    - [MISHARY-S-PROPOSAL](https://scp-jp.wikidot.com/mishary-s-proposal) (禦舍利の提言 / 第〇〇〇八番, +57)
     - [SCP-2630-JP](https://scp-jp.wikidot.com/scp-2630-jp) (十種神宝, +24)
 - **Appears in 2 tales**:
     - [SCPフレーバーテキスト集](https://scp-jp.wikidot.com/scp-flavor) (+208)
@@ -1667,7 +1667,7 @@
 - **Rate**: +106
 - **Cited by 2 SCPs**:
     - [SCP-2222-JP](https://scp-jp.wikidot.com/scp-2222-jp) (灯, +213)
-    - [JIRAKU-MOGANA-S-PROPOSAL](https://scp-jp.wikidot.com/jiraku-mogana-s-proposal) (時絡の提言 - SCP財団, +73)
+    - [JIRAKU-MOGANA-S-PROPOSAL](https://scp-jp.wikidot.com/jiraku-mogana-s-proposal) (時絡の提言, +73)
 - **Appears in 1 tales**:
     - [SCPフレーバーテキスト集](https://scp-jp.wikidot.com/scp-flavor) (+208)
 
@@ -2010,7 +2010,7 @@
 - **Metatitle**: 宿木の宿
 - **Rate**: +97
 - **Cited by 1 SCPs**:
-    - [INDONOOTOKO-S-PROPOSAL](https://scp-jp.wikidot.com/indonootoko-s-proposal) (indonootokoの提言 - SCP財団, +75)
+    - [INDONOOTOKO-S-PROPOSAL](https://scp-jp.wikidot.com/indonootoko-s-proposal) (indonootokoの提言, +75)
 - **Appears in 1 tales**:
     - [SCPフレーバーテキスト集](https://scp-jp.wikidot.com/scp-flavor) (+208)
 
@@ -2755,8 +2755,8 @@
     - [SCP-1710-JP-J](https://scp-jp.wikidot.com/scp-1710-jp-j) (スシン・ゴジラ, +77)
 - **Appears in 5 tales**:
     - [スシブレード ハブ](https://scp-jp.wikidot.com/sushiblade-hub) (+174)
-    - [青春、そしてスシブレード。](https://scp-jp.wikidot.com/aoharu-sushiblade) (+36)
     - [闇寿司神戸店開店](https://scp-jp.wikidot.com/the-opening-of-yamizushi-kobe) (+36)
+    - [青春、そしてスシブレード。](https://scp-jp.wikidot.com/aoharu-sushiblade) (+36)
     - [正常と異常の寿司](https://scp-jp.wikidot.com/end-of-the-sushi) (+32)
     - [白乃瀬鯨の人間ざんまい](https://scp-jp.wikidot.com/shironose-kuzira-1) (+24)
 
@@ -2878,7 +2878,7 @@
 - **Metatitle**: ドードー巡り
 - **Rate**: +131
 - **Cited by 1 SCPs**:
-    - [JIRAKU-MOGANA-S-PROPOSAL](https://scp-jp.wikidot.com/jiraku-mogana-s-proposal) (時絡の提言 - SCP財団, +73)
+    - [JIRAKU-MOGANA-S-PROPOSAL](https://scp-jp.wikidot.com/jiraku-mogana-s-proposal) (時絡の提言, +73)
 - **Appears in 1 tales**:
     - [SCPフレーバーテキスト集](https://scp-jp.wikidot.com/scp-flavor) (+208)
 
@@ -3021,11 +3021,11 @@
     - [4K序曲: 賑やかな日々](https://scp-jp.wikidot.com/stengan774-1) (+70)
     - [マンハッタン・クライシス ハブ](https://scp-jp.wikidot.com/1998-911-hub) (+66)
     - [どっちが間違い](https://scp-jp.wikidot.com/which-one-is-wrong) (+56)
-    - [特集記事 森野雄太郎教授が語る科学の今後](https://scp-jp.wikidot.com/r-sinano-chuo-co-jp-2050-09-07-e34j876) (+48)
     - [The “F” 10月号](https://scp-jp.wikidot.com/the-f) (+48)
+    - [特集記事 森野雄太郎教授が語る科学の今後](https://scp-jp.wikidot.com/r-sinano-chuo-co-jp-2050-09-07-e34j876) (+48)
     - [燻る南米、あるいは堕楽園](https://scp-jp.wikidot.com/columbia-2006) (+45)
-    - [東弊重工製神的エネルギー交換実験炉「マチテラス1号炉」に関する事業評価レポート](https://scp-jp.wikidot.com/project-evaluation-report-on-machiterasu-no-1-reactor) (+38)
     - [理外研電算機、起死回生の神格存在計算機開発計画を発表](https://scp-jp.wikidot.com/r-sinano-chuo-co-jp-2014-3-26-5hda4t7y) (+38)
+    - [東弊重工製神的エネルギー交換実験炉「マチテラス1号炉」に関する事業評価レポート](https://scp-jp.wikidot.com/project-evaluation-report-on-machiterasu-no-1-reactor) (+38)
     - [帝都大学、超常史料編纂所所長に穴生原真理子氏を任用へ](https://scp-jp.wikidot.com/r-sinano-chuo-co-jp-2019-12-19-na37u538) (+36)
     - [プロメテウス・ジャーナル2021年春号日本語版](https://scp-jp.wikidot.com/p-journal-2021-spring-ja) (+36)
     - [飛ぶ夏鳥、後を濁す](https://scp-jp.wikidot.com/continue-or-reset) (+29)
@@ -3693,8 +3693,8 @@
 - **Rate**: +5
 - **Appears in 3 tales**:
     - [日本支部理事会書類](https://scp-jp.wikidot.com/japanese-area-directors-dossier) (+124)
-    - [PoI-1933 ハブ](https://scp-jp.wikidot.com/miyazawakenji-hub) (+13)
     - [要注意人物ファイル #1933/01](https://scp-jp.wikidot.com/poi-1933) (+13)
+    - [PoI-1933 ハブ](https://scp-jp.wikidot.com/miyazawakenji-hub) (+13)
 
 ### [SCP-1887-JP](https://scp-jp.wikidot.com/scp-1887-jp)
 - **Metatitle**: 惡の華
@@ -3835,7 +3835,7 @@
 - **Metatitle**: 宇宙製造機械と輪廻の蛇
 - **Rate**: +15
 - **Cited by 1 SCPs**:
-    - [JIRAKU-MOGANA-S-PROPOSAL](https://scp-jp.wikidot.com/jiraku-mogana-s-proposal) (時絡の提言 - SCP財団, +73)
+    - [JIRAKU-MOGANA-S-PROPOSAL](https://scp-jp.wikidot.com/jiraku-mogana-s-proposal) (時絡の提言, +73)
 
 ### [SCP-1916-JP](https://scp-jp.wikidot.com/scp-1916-jp)
 - **Metatitle**: ぐちゃぐちゃかちゃかちゃ
@@ -3903,8 +3903,8 @@
 - **Metatitle**: いと高き方のもとに
 - **Rate**: +55
 - **Cited by 3 SCPs**:
-    - [SCP-1856-JP](https://scp-jp.wikidot.com/scp-1856-jp) (NINJA・SAGA, +47)
     - [SCP-1924-JP](https://scp-jp.wikidot.com/scp-1924-jp) (故ロンメル将軍の秘跡, +47)
+    - [SCP-1856-JP](https://scp-jp.wikidot.com/scp-1856-jp) (NINJA・SAGA, +47)
     - [SCP-2983-JP](https://scp-jp.wikidot.com/scp-2983-jp) (吊るされた天の崩壊, +24)
 - **Appears in 7 tales**:
     - [5000兆年、初夏](https://scp-jp.wikidot.com/early-summer-5000000000000000) (+106)
@@ -4021,7 +4021,7 @@
 - **Metatitle**: オノゴロ-45協定に基づく共同管理対象
 - **Rate**: +95
 - **Cited by 1 SCPs**:
-    - [MISHARY-S-PROPOSAL](https://scp-jp.wikidot.com/mishary-s-proposal) (禦舍利の提言 / 第〇〇〇八番 - SCP財団, +57)
+    - [MISHARY-S-PROPOSAL](https://scp-jp.wikidot.com/mishary-s-proposal) (禦舍利の提言 / 第〇〇〇八番, +57)
 - **Appears in 4 tales**:
     - [SCPフレーバーテキスト集](https://scp-jp.wikidot.com/scp-flavor) (+208)
     - [日本支部理事会書類](https://scp-jp.wikidot.com/japanese-area-directors-dossier) (+124)

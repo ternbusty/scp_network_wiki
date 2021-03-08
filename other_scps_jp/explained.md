@@ -1,7 +1,7 @@
 # Explained SCPs
 
 ### [FENNECIST-S-PROPOSAL](https://scp-jp.wikidot.com/fennecist-s-proposal)
-- **Metatitle**: Fennecistの提言 - SCP財団
+- **Metatitle**: Fennecistの提言
 - **Rate**: +68
 
 ### [SCP-001-EX-SOLVEX](https://scp-jp.wikidot.com/scp-001-ex-solvex)

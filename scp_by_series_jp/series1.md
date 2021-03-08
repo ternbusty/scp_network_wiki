@@ -343,7 +343,7 @@
 - **Rate**: +120
 - **Cited by 2 SCPs**:
     - [TALE-PERSONNAL-Q-AND-A-BOX](https://scp-jp.wikidot.com/tale-personnal-q-and-a-box) (合同Tale「財団質問箱」, +129)
-    - [INDONOOTOKO-S-PROPOSAL](https://scp-jp.wikidot.com/indonootoko-s-proposal) (indonootokoの提言 - SCP財団, +75)
+    - [INDONOOTOKO-S-PROPOSAL](https://scp-jp.wikidot.com/indonootoko-s-proposal) (indonootokoの提言, +75)
 - **Appears in 2 tales**:
     - [SCPフレーバーテキスト集](https://scp-jp.wikidot.com/scp-flavor) (+208)
     - [僕と息子と林檎の木と](https://scp-jp.wikidot.com/me-my-son-and-the-apple-tree) (+37)
@@ -819,7 +819,7 @@
 - **Metatitle**: 鵺
 - **Rate**: +152
 - **Cited by 1 SCPs**:
-    - [O-92-S-PROPOSAL](https://scp-jp.wikidot.com/o-92-s-proposal) (O-92の提言 - SCP財団, +122)
+    - [O-92-S-PROPOSAL](https://scp-jp.wikidot.com/o-92-s-proposal) (O-92の提言, +122)
 - **Appears in 7 tales**:
     - [SCPフレーバーテキスト集](https://scp-jp.wikidot.com/scp-flavor) (+208)
     - [日本支部理事会書類](https://scp-jp.wikidot.com/japanese-area-directors-dossier) (+124)
@@ -1223,7 +1223,7 @@
 - **Rate**: +254
 - **Cited by 4 SCPs**:
     - [SCP-1435-JP](https://scp-jp.wikidot.com/scp-1435-jp) (宿木の宿, +97)
-    - [INDONOOTOKO-S-PROPOSAL](https://scp-jp.wikidot.com/indonootoko-s-proposal) (indonootokoの提言 - SCP財団, +75)
+    - [INDONOOTOKO-S-PROPOSAL](https://scp-jp.wikidot.com/indonootoko-s-proposal) (indonootokoの提言, +75)
     - [SCP-1465-JP](https://scp-jp.wikidot.com/scp-1465-jp) (銭と蟻, +45)
     - [SCP-1425-JP](https://scp-jp.wikidot.com/scp-1425-jp) (敵の敵は敵、もしかしたらサンタ, +15)
 - **Appears in 1 tales**:
@@ -1398,8 +1398,8 @@
     - [日本支部理事会書類](https://scp-jp.wikidot.com/japanese-area-directors-dossier) (+124)
     - [鉄と蜥蜴](https://scp-jp.wikidot.com/the-guardian-and-the-lizard) (+95)
     - [特異敵対事例026-111：作戦名"嚥下"](https://scp-jp.wikidot.com/locker-s-tales-026-210-098) (+51)
-    - [幽霊死す](https://scp-jp.wikidot.com/kwana-9) (+48)
     - [マイナーゲーム紹介第173回：『Star Crisis Protocol』](https://scp-jp.wikidot.com/af2016-stgreview) (+48)
+    - [幽霊死す](https://scp-jp.wikidot.com/kwana-9) (+48)
     - [使命](https://scp-jp.wikidot.com/your-missions) (+28)
     - [海面上昇イベント時の功労者表彰式が開催される 今回の対象者は43名](https://scp-jp.wikidot.com/kaijo-shinpo-2020-07-15-q7eru8h8) (+28)
     - [金属とコンクリートの方舟](https://scp-jp.wikidot.com/ark-made-from-metal-and-concrete-aka-site-8162) (+20)
@@ -2728,7 +2728,7 @@
 - **Metatitle**: █████[アクセス不許可]
 - **Rate**: +828
 - **Appears in 1 SCPs**:
-    - [NONAME](https://scp-jp.wikidot.com/noname) (Noname - SCP財団, +118)
+    - [NONAME](https://scp-jp.wikidot.com/noname) (Noname, +118)
 - **Appears in 19 tales**:
     - [日本財団昔話「桃太郎」](https://scp-jp.wikidot.com/ukitanomos-tales-mtarou800) (+419)
     - [SCP-000-W](https://scp-jp.wikidot.com/tale-proposals-for-scp-000-w) (+261)
@@ -2765,8 +2765,8 @@
 - **Metatitle**: 怪電界史のデマゴーグ
 - **Rate**: +29
 - **Appears in 2 tales**:
-    - [財団フロント企業-81ブロック-ARC](https://scp-jp.wikidot.com/front-company-database-site-81block) (+60)
     - [扶桑紀](https://scp-jp.wikidot.com/fusouki) (+60)
+    - [財団フロント企業-81ブロック-ARC](https://scp-jp.wikidot.com/front-company-database-site-81block) (+60)
 
 ### [SCP-448-JP](https://scp-jp.wikidot.com/scp-448-jp)
 - **Metatitle**: 感銭症
@@ -3016,7 +3016,7 @@
 - **Metatitle**: 廃ビルの靴磨き
 - **Rate**: +113
 - **Cited by 1 SCPs**:
-    - [JIRAKU-MOGANA-S-PROPOSAL](https://scp-jp.wikidot.com/jiraku-mogana-s-proposal) (時絡の提言 - SCP財団, +73)
+    - [JIRAKU-MOGANA-S-PROPOSAL](https://scp-jp.wikidot.com/jiraku-mogana-s-proposal) (時絡の提言, +73)
 - **Appears in 1 tales**:
     - [SCPフレーバーテキスト集](https://scp-jp.wikidot.com/scp-flavor) (+208)
 
@@ -3508,7 +3508,7 @@
 - **Metatitle**: コロポックル
 - **Rate**: +214
 - **Cited by 1 SCPs**:
-    - [O-92-S-PROPOSAL](https://scp-jp.wikidot.com/o-92-s-proposal) (O-92の提言 - SCP財団, +122)
+    - [O-92-S-PROPOSAL](https://scp-jp.wikidot.com/o-92-s-proposal) (O-92の提言, +122)
 - **Appears in 2 tales**:
     - [SCPフレーバーテキスト集](https://scp-jp.wikidot.com/scp-flavor) (+208)
     - [世界オカルト連合極東部門 新入職員へのオリエンテーション](https://scp-jp.wikidot.com/goc-far-east-orientation) (+88)
@@ -3559,7 +3559,7 @@
 - **Metatitle**: 超次元壁尻～俺たちの宇宙に突き出すカルキストのケツ～
 - **Rate**: +116
 - **Cited by 2 SCPs**:
-    - [INDONOOTOKO-S-PROPOSAL-III](https://scp-jp.wikidot.com/indonootoko-s-proposal-iii) (Indonootokoの提言Ⅲ - SCP財団, +41)
+    - [INDONOOTOKO-S-PROPOSAL-III](https://scp-jp.wikidot.com/indonootoko-s-proposal-iii) (Indonootokoの提言Ⅲ, +41)
     - [SCP-2373-JP](https://scp-jp.wikidot.com/scp-2373-jp) (跳んでけ, +21)
 - **Appears in 4 tales**:
     - [SCPフレーバーテキスト集](https://scp-jp.wikidot.com/scp-flavor) (+208)
@@ -3698,7 +3698,7 @@
 - **Metatitle**: 忘れられた災害
 - **Rate**: +195
 - **Cited by 1 SCPs**:
-    - [O-92-S-PROPOSAL](https://scp-jp.wikidot.com/o-92-s-proposal) (O-92の提言 - SCP財団, +122)
+    - [O-92-S-PROPOSAL](https://scp-jp.wikidot.com/o-92-s-proposal) (O-92の提言, +122)
 - **Appears in 3 tales**:
     - [SCPフレーバーテキスト集](https://scp-jp.wikidot.com/scp-flavor) (+208)
     - [財団フロント企業-81ブロック-ARC](https://scp-jp.wikidot.com/front-company-database-site-81block) (+60)
@@ -3920,8 +3920,8 @@
 - **Rate**: +209
 - **Appears in 3 tales**:
     - [SCPフレーバーテキスト集](https://scp-jp.wikidot.com/scp-flavor) (+208)
-    - [終わりまでの回想](https://scp-jp.wikidot.com/reminiscence-to-the-end) (+18)
     - [青天の霹靂](https://scp-jp.wikidot.com/seitennnohekireki) (+18)
+    - [終わりまでの回想](https://scp-jp.wikidot.com/reminiscence-to-the-end) (+18)
 - **Associated with**:
     - [特殊オブジェクトクラスの包括的リスト](https://scp-jp.wikidot.com/esoteric-classes-complete-list) (+54)
 
@@ -4404,7 +4404,7 @@
 - **Metatitle**: 黄昏、彼は誰、道半ば
 - **Rate**: +60
 - **Cited by 1 SCPs**:
-    - [JIRAKU-MOGANA-S-PROPOSAL](https://scp-jp.wikidot.com/jiraku-mogana-s-proposal) (時絡の提言 - SCP財団, +73)
+    - [JIRAKU-MOGANA-S-PROPOSAL](https://scp-jp.wikidot.com/jiraku-mogana-s-proposal) (時絡の提言, +73)
 
 ### [SCP-744-JP](https://scp-jp.wikidot.com/scp-744-jp)
 - **Metatitle**: 仲良し人形
@@ -4617,7 +4617,7 @@
 - **Metatitle**: 絵に描かせない餅
 - **Rate**: +105
 - **Cited by 1 SCPs**:
-    - [SOLVEX-S-PROPOSAL-II](https://scp-jp.wikidot.com/solvex-s-proposal-ii) (solvexの提言II - SCP財団, +32)
+    - [SOLVEX-S-PROPOSAL-II](https://scp-jp.wikidot.com/solvex-s-proposal-ii) (solvexの提言II, +32)
 - **Appears in 1 tales**:
     - [SCPフレーバーテキスト集](https://scp-jp.wikidot.com/scp-flavor) (+208)
 
@@ -4817,7 +4817,7 @@
 - **Metatitle**: おつきみ
 - **Rate**: +125
 - **Cited by 1 SCPs**:
-    - [JIRAKU-MOGANA-S-PROPOSAL](https://scp-jp.wikidot.com/jiraku-mogana-s-proposal) (時絡の提言 - SCP財団, +73)
+    - [JIRAKU-MOGANA-S-PROPOSAL](https://scp-jp.wikidot.com/jiraku-mogana-s-proposal) (時絡の提言, +73)
 - **Appears in 1 tales**:
     - [贈り物と添える手紙](https://scp-jp.wikidot.com/present-and-letter) (+54)
 
@@ -4884,7 +4884,7 @@
 - **Metatitle**: ゼノフォビア消照闇子
 - **Rate**: +243
 - **Cited by 2 SCPs**:
-    - [O-92-S-PROPOSAL](https://scp-jp.wikidot.com/o-92-s-proposal) (O-92の提言 - SCP財団, +122)
+    - [O-92-S-PROPOSAL](https://scp-jp.wikidot.com/o-92-s-proposal) (O-92の提言, +122)
     - [SCP-3519-JP-J](https://scp-jp.wikidot.com/scp-3519-jp-j) ((ある意味)静かなる日々, +68)
 - **Appears in 6 tales**:
     - [闇子様教を広めるスレッド](https://scp-jp.wikidot.com/835love) (+106)
@@ -5518,8 +5518,8 @@
     - [SCP-1886-JP](https://scp-jp.wikidot.com/scp-1886-jp) (財団の事務所, +5)
 - **Appears in 3 tales**:
     - [財団フロント企業-81ブロック-ARC](https://scp-jp.wikidot.com/front-company-database-site-81block) (+60)
-    - [PoI-1933 ハブ](https://scp-jp.wikidot.com/miyazawakenji-hub) (+13)
     - [要注意人物ファイル #1933/01](https://scp-jp.wikidot.com/poi-1933) (+13)
+    - [PoI-1933 ハブ](https://scp-jp.wikidot.com/miyazawakenji-hub) (+13)
 
 ### [SCP-958-JP](https://scp-jp.wikidot.com/scp-958-jp)
 - **Metatitle**: 人材発掘機
@@ -5625,7 +5625,7 @@
 - **Metatitle**: 道を紡ぐ廃忘
 - **Rate**: +83
 - **Cited by 1 SCPs**:
-    - [JIRAKU-MOGANA-S-PROPOSAL](https://scp-jp.wikidot.com/jiraku-mogana-s-proposal) (時絡の提言 - SCP財団, +73)
+    - [JIRAKU-MOGANA-S-PROPOSAL](https://scp-jp.wikidot.com/jiraku-mogana-s-proposal) (時絡の提言, +73)
 
 ### [SCP-976-JP](https://scp-jp.wikidot.com/scp-976-jp)
 - **Metatitle**: スクラントン現実猫
