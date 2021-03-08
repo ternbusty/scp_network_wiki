@@ -117,7 +117,7 @@ class SCP():
             self.summ_obj[key]['cites'].discard(name)
             links = supp_obj[name]['links']
             tags = supp_obj[name]['tags']
-            if 'supplement' not in tags:
+            if ('supplement' not in tags) and ('補足' not in tags):
                 continue
             self.summ_obj[key]['cites'] |= set(links)
 

@@ -3024,10 +3024,10 @@
     - [特集記事 森野雄太郎教授が語る科学の今後](https://scp-jp.wikidot.com/r-sinano-chuo-co-jp-2050-09-07-e34j876) (+48)
     - [The “F” 10月号](https://scp-jp.wikidot.com/the-f) (+48)
     - [燻る南米、あるいは堕楽園](https://scp-jp.wikidot.com/columbia-2006) (+45)
-    - [理外研電算機、起死回生の神格存在計算機開発計画を発表](https://scp-jp.wikidot.com/r-sinano-chuo-co-jp-2014-3-26-5hda4t7y) (+38)
     - [東弊重工製神的エネルギー交換実験炉「マチテラス1号炉」に関する事業評価レポート](https://scp-jp.wikidot.com/project-evaluation-report-on-machiterasu-no-1-reactor) (+38)
-    - [プロメテウス・ジャーナル2021年春号日本語版](https://scp-jp.wikidot.com/p-journal-2021-spring-ja) (+36)
+    - [理外研電算機、起死回生の神格存在計算機開発計画を発表](https://scp-jp.wikidot.com/r-sinano-chuo-co-jp-2014-3-26-5hda4t7y) (+38)
     - [帝都大学、超常史料編纂所所長に穴生原真理子氏を任用へ](https://scp-jp.wikidot.com/r-sinano-chuo-co-jp-2019-12-19-na37u538) (+36)
+    - [プロメテウス・ジャーナル2021年春号日本語版](https://scp-jp.wikidot.com/p-journal-2021-spring-ja) (+36)
     - [飛ぶ夏鳥、後を濁す](https://scp-jp.wikidot.com/continue-or-reset) (+29)
     - [The “F” 2045年11月号](https://scp-jp.wikidot.com/the-f-3) (+28)
     - [バルセロナ・フォアラッシュ爆発事件5周年式典追悼演説](https://scp-jp.wikidot.com/plus-ultra-on-2020-08-13) (+26)
@@ -3683,6 +3683,8 @@
 ### [SCP-1885-JP](https://scp-jp.wikidot.com/scp-1885-jp)
 - **Metatitle**: 思い出の家
 - **Rate**: +13
+- **Cited by 1 SCPs**:
+    - [SCP-2308-JP](https://scp-jp.wikidot.com/scp-2308-jp) (むこう淵, +64)
 - **Appears in 1 tales**:
     - [草木湖畔児童行方不明事件 - Wikipedia](https://scp-jp.wikidot.com/scp-2308-jp-1) (+36)
 
@@ -3691,8 +3693,8 @@
 - **Rate**: +5
 - **Appears in 3 tales**:
     - [日本支部理事会書類](https://scp-jp.wikidot.com/japanese-area-directors-dossier) (+124)
-    - [要注意人物ファイル #1933/01](https://scp-jp.wikidot.com/poi-1933) (+13)
     - [PoI-1933 ハブ](https://scp-jp.wikidot.com/miyazawakenji-hub) (+13)
+    - [要注意人物ファイル #1933/01](https://scp-jp.wikidot.com/poi-1933) (+13)
 
 ### [SCP-1887-JP](https://scp-jp.wikidot.com/scp-1887-jp)
 - **Metatitle**: 惡の華

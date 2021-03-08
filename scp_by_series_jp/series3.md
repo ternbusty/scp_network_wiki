@@ -1748,6 +1748,8 @@
 ### [SCP-2989-JP](https://scp-jp.wikidot.com/scp-2989-jp)
 - **Metatitle**: 願いの星は青霄に昇る
 - **Rate**: +68
+- **Cited by 1 SCPs**:
+    - [SCP-1094-JP](https://scp-jp.wikidot.com/scp-1094-jp) ([修正済], +13)
 
 ### [SCP-2990-JP](https://scp-jp.wikidot.com/scp-2990-jp)
 - **Metatitle**: ────, that is the question.
@@ -1756,12 +1758,16 @@
 ### [SCP-2991-JP](https://scp-jp.wikidot.com/scp-2991-jp)
 - **Metatitle**: 幸せのおすそ分け
 - **Rate**: +38
+- **Cited by 1 SCPs**:
+    - [SCP-1094-JP](https://scp-jp.wikidot.com/scp-1094-jp) ([修正済], +13)
 - **Appears in 1 tales**:
     - [相貌失認ハブ](https://scp-jp.wikidot.com/prosopagnosia-hub) (+71)
 
 ### [SCP-2992-JP](https://scp-jp.wikidot.com/scp-2992-jp)
 - **Metatitle**: バックドア
 - **Rate**: +71
+- **Cited by 1 SCPs**:
+    - [SCP-1094-JP](https://scp-jp.wikidot.com/scp-1094-jp) ([修正済], +13)
 
 ### [SCP-2993-JP](https://scp-jp.wikidot.com/scp-2993-jp)
 - **Metatitle**: 企画案2024-993: "まだ見ぬ一面"

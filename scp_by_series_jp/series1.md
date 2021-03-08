@@ -532,8 +532,9 @@
 ### [SCP-073-JP](https://scp-jp.wikidot.com/scp-073-jp)
 - **Metatitle**: ザリガニ池
 - **Rate**: +39
-- **Cited by 2 SCPs**:
+- **Cited by 3 SCPs**:
     - [TALE-PERSONNAL-Q-AND-A-BOX](https://scp-jp.wikidot.com/tale-personnal-q-and-a-box) (合同Tale「財団質問箱」, +129)
+    - [SCP-232-JP](https://scp-jp.wikidot.com/scp-232-jp) (外意識一秒圧縮器, +39)
     - [SCP-315-JP](https://scp-jp.wikidot.com/scp-315-jp) (福神聞耳壷錯乱誘発性壷, +28)
 - **Appears in 3 tales**:
     - [SCPフロント-JP](https://scp-jp.wikidot.com/scp-front-jp) (+348)
@@ -1743,6 +1744,8 @@
 ### [SCP-268-JP](https://scp-jp.wikidot.com/scp-268-jp)
 - **Metatitle**: 終わらない英雄譚
 - **Rate**: +517
+- **Cited by 1 SCPs**:
+    - [SCP-1779-JP](https://scp-jp.wikidot.com/scp-1779-jp) (この動画はフィクションです。登場する人物・団体・名称等は架空であり、実在のものとは関係ありません。, +123)
 - **Appears in 12 tales**:
     - [英雄、などではなく](https://scp-jp.wikidot.com/your-turn) (+256)
     - [表題：少年の夢と信頼を踏みにじった、エセヒーローどもの茶番劇](https://scp-jp.wikidot.com/micro-heroic-tale) (+224)
@@ -2672,8 +2675,8 @@
 - **Metatitle**: 人生は続く
 - **Rate**: +178
 - **Appears in 2 tales**:
-    - [ただ正常の前に立つ男は何を思うのか。](https://scp-jp.wikidot.com/life-without-mistake) (+33)
     - [親の愛](https://scp-jp.wikidot.com/parental-affection) (+33)
+    - [ただ正常の前に立つ男は何を思うのか。](https://scp-jp.wikidot.com/life-without-mistake) (+33)
 
 ### [SCP-435-JP](https://scp-jp.wikidot.com/scp-435-jp)
 - **Metatitle**: 血液代替トマトケチャップ
@@ -2740,8 +2743,8 @@
     - [世界オカルト連合極東部門 新入職員へのオリエンテーション](https://scp-jp.wikidot.com/goc-far-east-orientation) (+88)
     - [前原愛の誕生日](https://scp-jp.wikidot.com/ai-s-birthday) (+87)
     - [かくて世界は滅びたり](https://scp-jp.wikidot.com/hirose-tale03) (+78)
-    - [主よ、人の望みの喜びよ](https://scp-jp.wikidot.com/joy-of-mans-desiring) (+59)
     - [七つの子](https://scp-jp.wikidot.com/nanatsunoko) (+59)
+    - [主よ、人の望みの喜びよ](https://scp-jp.wikidot.com/joy-of-mans-desiring) (+59)
     - [俺はスピード](https://scp-jp.wikidot.com/i-am-speed) (+51)
     - [マイナーゲーム紹介第173回：『Star Crisis Protocol』](https://scp-jp.wikidot.com/af2016-stgreview) (+48)
     - [赤色飫賜](https://scp-jp.wikidot.com/sekishokuyoshi) (+40)
@@ -2762,8 +2765,8 @@
 - **Metatitle**: 怪電界史のデマゴーグ
 - **Rate**: +29
 - **Appears in 2 tales**:
-    - [扶桑紀](https://scp-jp.wikidot.com/fusouki) (+60)
     - [財団フロント企業-81ブロック-ARC](https://scp-jp.wikidot.com/front-company-database-site-81block) (+60)
+    - [扶桑紀](https://scp-jp.wikidot.com/fusouki) (+60)
 
 ### [SCP-448-JP](https://scp-jp.wikidot.com/scp-448-jp)
 - **Metatitle**: 感銭症
@@ -5221,8 +5224,8 @@
     - [SCPフレーバーテキスト集](https://scp-jp.wikidot.com/scp-flavor) (+208)
     - [記憶処理課終業時刻](https://scp-jp.wikidot.com/locker-s-tales-memory) (+43)
     - [定員：１人](https://scp-jp.wikidot.com/capacity-is-one) (+27)
-    - [ハエトリ計画特殊対処事例-1：作戦名"霧迅"](https://scp-jp.wikidot.com/locker-s-tales-catch-the-light) (+24)
     - [霧の底へ](https://scp-jp.wikidot.com/to-bottom-of-the-fog) (+24)
+    - [ハエトリ計画特殊対処事例-1：作戦名"霧迅"](https://scp-jp.wikidot.com/locker-s-tales-catch-the-light) (+24)
     - [世界の果てのサンタクロース](https://scp-jp.wikidot.com/nekomiya-tale-004) (+14)
     - [不特定な夢の欠片](https://scp-jp.wikidot.com/piece-of-a-dream) (+13)
 
@@ -5745,6 +5748,8 @@
 ### [SCP-999-JP](https://scp-jp.wikidot.com/scp-999-jp)
 - **Metatitle**: I am No.9
 - **Rate**: +334
+- **Cited by 1 SCPs**:
+    - [SCP-024-JP](https://scp-jp.wikidot.com/scp-024-jp) (カラオケBOXES, +219)
 - **Appears in 6 tales**:
     - [SCPフレーバーテキスト集](https://scp-jp.wikidot.com/scp-flavor) (+208)
     - [人でなしどもの願い事](https://scp-jp.wikidot.com/brutes-blues) (+98)
