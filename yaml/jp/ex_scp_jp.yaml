@@ -1,0 +1,163 @@
+fennecist-s-proposal:
+  links:
+  - scp-2222-jp
+  rate: '+68'
+  tags:
+  - "\u7BA1\u7406\u8005"
+  - "\u6982\u5FF5"
+  - jp
+  - scp
+  - esoteric-class
+  - "\u30E1\u30BF"
+  - "001\u63D0\u8A00"
+  - explained
+  title: "Fennecist\u306E\u63D0\u8A00"
+scp-001-ex-solvex:
+  links:
+  - sandrewswann-s-proposal
+  rate: '+102'
+  tags:
+  - "\u8A9E\u308A"
+  - jp
+  - scp
+  - esoteric-class
+  - explained
+  title: "SCP-001-EX(\u518D\u5206\u985E\u6E08\u307F)"
+scp-002-jp-ex:
+  links: []
+  rate: '+57'
+  tags:
+  - "\u7FA4\u308C"
+  - "\u4EBA\u9593\u578B"
+  - jp
+  - scp
+  - "\u7A2E\u65CF"
+  - euclid
+  - "\u6355\u98DF"
+  - "\u6575\u5BFE\u7684"
+  - explained
+  title: SCP-002-JP-EX
+scp-014-jp-ex:
+  links: []
+  rate: '+299'
+  tags:
+  - "\u4EBA\u9593\u578B"
+  - "\u516C\u5B89\u90E8\u7279\u4E8B\u8AB2"
+  - jp
+  - scp
+  - esoteric-class
+  - explained
+  - scp-014-jp-ex-1
+  title: SCP-014-JP-EX
+scp-233-jp-ex:
+  links: []
+  rate: '+94'
+  tags:
+  - "\u6982\u5FF5"
+  - jp
+  - scp
+  - euclid
+  - "\u30C7\u30B9\u30B3\u30F317"
+  - explained
+  - "\u60C5\u5831\u707D\u5BB3"
+  title: SCP-233-JP-EX
+scp-500-jp-ex:
+  links:
+  - manna-charitable-foundation-hub
+  - scp-3000
+  rate: '+157'
+  tags:
+  - "\u30EB\u30FC\u30AD\u30FC\u30B3\u30F3\u30C6\u30B9\u30C8"
+  - "\u8CA1\u56E3\u88FD"
+  - "\u30DE\u30CA\u306B\u3088\u308B\u6148\u5584\u8CA1\u56E3"
+  - jp
+  - scp
+  - esoteric-class
+  - "\u533B\u7642"
+  - explained
+  - "k-\u30AF\u30E9\u30B9\u30B7\u30CA\u30EA\u30AA"
+  title: SCP-500-JP-EX
+scp-768-jp-ex:
+  links: []
+  rate: '+62'
+  tags:
+  - "\u8CA8\u5E63"
+  - "\u96D1\u98DF"
+  - "\u975E\u5B9F\u4F53"
+  - "\u6982\u5FF5"
+  - mc&d
+  - "\u30D7\u30ED\u30E1\u30C6\u30A6\u30B9"
+  - "\u5100\u5F0F"
+  - "\u7CBE\u795E\u5F71\u97FF"
+  - jp
+  - scp
+  - "\u5B97\u6559"
+  - "\u4E16\u754C\u30AA\u30AB\u30EB\u30C8\u9023\u5408"
+  - thaumiel
+  - "\u30E1\u30BF"
+  - explained
+  - "\u9E7F"
+  - "k-\u30AF\u30E9\u30B9\u30B7\u30CA\u30EA\u30AA"
+  title: SCP-768-JP-EX
+scp-1160-jp-ex:
+  links: []
+  rate: '+22'
+  tags:
+  - "\u91D1\u5C5E"
+  - "\u4EBA\u9593\u578B"
+  - jp
+  - scp
+  - "\u5618\u30B3\u30F320"
+  - explained
+  title: SCP-1160-JP-EX
+scp-1728-jp-ex:
+  links: []
+  rate: '+71'
+  tags:
+  - "\u502B\u7406\u59D4\u54E1\u4F1A"
+  - "\u52D5\u7269"
+  - jp
+  - scp
+  - euclid
+  - "\u5909\u8EAB"
+  - "\u9B5A"
+  - explained
+  - "\u65E5\u672C\u751F\u985E\u5275\u7814"
+  - "\u98DF\u7269"
+  title: SCP-1728-JP-EX
+scp-1859-jp-ex:
+  links: []
+  rate: '+32'
+  tags:
+  - "\u611F\u899A"
+  - "\u52D5\u7269"
+  - jp
+  - scp
+  - "\u9AA8\u683C"
+  - euclid
+  - "\u4F53\u80A2"
+  - "\u751F\u547D"
+  - explained
+  - "\u8996\u899A"
+  - "\u733F"
+  title: SCP-1859-JP-EX
+scp-2996-jp-ex:
+  links: []
+  rate: '+68'
+  tags:
+  - "\u4EBA\u9593\u578B"
+  - jp
+  - scp
+  - esoteric-class
+  - explained
+  title: SCP-2996-JP-EX
+scp-3001-jp-ex:
+  links: []
+  rate: '+84'
+  tags:
+  - "\u533B\u7642"
+  - jp
+  - scp
+  - safe
+  - explained
+  title: SCP-3001-JP-EX

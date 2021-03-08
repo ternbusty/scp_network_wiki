@@ -1,0 +1,2599 @@
+scp-024-jp:
+  links:
+  - experiment-log-024-jp:
+      links:
+      - scp-999-jp
+      rate: '+69'
+      tags:
+      - jp
+      - "\u88DC\u8DB3"
+      - "\u5408\u4F5C"
+      - "\u5B9F\u9A13"
+      title: "\u5229\u7528\u8A18\u9332SCP-024-JP"
+scp-158-jp:
+  links:
+  - scp-158-jp-41-az:
+      links: []
+      rate: '+26'
+      tags:
+      - jp
+      - "\u88DC\u8DB3"
+      title: "\u8A18\u9332\u6587\u66F8-158-41AZ"
+scp-183-jp:
+  links:
+  - g-b-0183:
+      links: []
+      rate: '+209'
+      tags:
+      - jp
+      - "\u65E5\u672C\u751F\u985E\u5275\u7814"
+      - goi-format
+      - "\u5171\u8457"
+      - "\u51CD\u9727\u967D"
+      title: "\u304C-B-0183\"\u30EA\u30D7\u30ED\u30C0\u30AF\u30B7\u30E7\u30F3\u30E9\
+        \u30A4\u30C8\"\u8CA9\u58F2\u30AB\u30BF\u30ED\u30B0"
+scp-232-jp:
+  links:
+  - scp-232-jp-9-6-7:
+      links:
+      - scp-073-jp
+      rate: '+23'
+      tags:
+      - jp
+      - "\u88DC\u8DB3"
+      title: "\u62E1\u5F35\u8A18\u9332\u6587\u66F8232-JP"
+scp-291-jp:
+  links:
+  - scp-291-jp-supplement:
+      links: []
+      rate: '+16'
+      tags:
+      - jp
+      - "\u88DC\u8DB3"
+      title: "SCP-291-JP\u53CE\u5BB9\u6CD5\u8A66\u9A13\u4F5C\u6226"
+scp-337-jp:
+  links:
+  - experiment-log-337-jp:
+      links: []
+      rate: '+57'
+      tags:
+      - jp
+      - "\u88DC\u8DB3"
+      - "\u5408\u4F5C"
+      title: "SCP-337-JP\u62E1\u5F35\u9332\u97F3\u8A18\u9332"
+scp-391-jp:
+  links:
+  - interview-391-jp:
+      links: []
+      rate: '+8'
+      tags:
+      - jp
+      - "\u88DC\u8DB3"
+      title: "\u30A4\u30F3\u30BF\u30D3\u30E5\u30FC\u8A18\u9332391-JP"
+scp-533-jp:
+  links:
+  - scp-533-jp-log:
+      links: []
+      rate: '+23'
+      tags:
+      - jp
+      - "\u88DC\u8DB3"
+      title: "\u97F3\u58F0\u8A18\u9332 SCP-533-JP-E-4\u3000\u300E\u7B2C4\u56DE \u5B66\
+        \u7D1A\u4F1A\u300F"
+scp-621-jp:
+  links:
+  - scp-621-jp-1:
+      links: []
+      rate: '+50'
+      tags:
+      - jp
+      - "\u88DC\u8DB3"
+      title: "\u6587\u66F8\uFF1ASCP-621-JP-1"
+scp-627-jp:
+  links:
+  - scp-627-jp-log:
+      links: []
+      rate: '+10'
+      tags:
+      - jp
+      - "\u88DC\u8DB3"
+      - "\u5B9F\u9A13"
+      title: "\u5B9F\u9A13\u8A18\u9332627JP"
+scp-650-jp:
+  links:
+  - statement-of-650-jp:
+      links: []
+      rate: '+226'
+      tags:
+      - "\u30A4\u30F3\u30BF\u30D3\u30E5\u30FC"
+      - "\u88DC\u8DB3"
+      - jp
+      title: "SCP-650-JP\u306B\u3088\u308B\u9673\u8FF0"
+scp-664-jp:
+  links:
+  - s-g-1664:
+      links:
+      - scp-1710-jp
+      - s-b-1998
+      rate: '+44'
+      tags:
+      - '1998'
+      - jp
+      - "\u65E5\u672C\u751F\u985E\u5275\u7814"
+      - goi-format
+      - "\u5618\u30B3\u30F320"
+      title: "\u305B-G-1664\"\u5171\u751F\u81EA\u8DB3\u7C73\u300C\u3084\u3069\u308A\
+        \u304C\u307F\u300D\"\u8CA9\u58F2\u30AB\u30BF\u30ED\u30B0"
+scp-899-jp:
+  links:
+  - incident-log-899-jp:
+      links: []
+      rate: '+28'
+      tags:
+      - jp
+      - "\u88DC\u8DB3"
+      - "\u30A4\u30F3\u30B7\u30C7\u30F3\u30C8"
+      title: "\u4E8B\u4EF6\u8A18\u93322070530"
+scp-959-jp:
+  links:
+  - scp-959-jp#001:
+      links:
+      - scp-959-jp#002
+      rate: '+13'
+      tags:
+      - jp
+      - "\u5EFA\u9020\u7269"
+      - "\u4EBA\u5DE5"
+      - "\u8CA1\u56E3\u88FD"
+      - euclid
+      - "\u5171\u8457"
+      - scp
+      title: SCP-959-JP
+  - scp-959-jp#002:
+      links:
+      - scp-959-jp#001
+      rate: '+13'
+      tags:
+      - jp
+      - "\u5EFA\u9020\u7269"
+      - "\u4EBA\u5DE5"
+      - "\u8CA1\u56E3\u88FD"
+      - euclid
+      - "\u5171\u8457"
+      - scp
+      title: SCP-959-JP
+scp-1094-jp:
+  links:
+  - scp-1094-jp-1:
+      links:
+      - scp-series-ko-4
+      - scp-series-cn
+      - scp-series-ua-2
+      - scp-series-pt-2
+      - discord-guideline
+      - scp-series-cn-2
+      - scp-series-es-2
+      - goi-formats-jp
+      - brothers-restaurant-hub
+      - foundation-tales-cs
+      - scp-series-ua
+      - scp-series-it-2
+      - foundation-tales
+      - scp-2991-jp
+      - canon-hub
+      - scp-series-pl-4
+      - scp-series-6
+      - foundation-tales-jp
+      - scp-series-2
+      - scp-series-th
+      - scp-series-de-3
+      - scp-series-ru-4
+      - scp-series-cs-3
+      - scp-series-cn-3
+      - foundation-tales-es
+      - scp-series-7
+      - scp-series-it-3
+      - scp-series-de
+      - scp-series-th-4
+      - scp-series-fr-2
+      - scp-2992-jp
+      - scp-series-pt-3
+      - foundation-tales-fr
+      - scp-series-cs-2
+      - scp-series-pt-4
+      - scp-series-de-4
+      - scp-series-it-4
+      - scp-series-4
+      - scp-series-ko-3
+      - foundation-tales-cn
+      - scp-series-it
+      - foundation-tales-th
+      - canon-hub-jp
+      - forum:start
+      - scp-series-ko
+      - scp-series-jp
+      - scp-series-pl-2
+      - madness-brother
+      - scp-series-th-2
+      - scp-series-3
+      - scp-series-fr
+      - scp-series-ru
+      - foundation-tales-pl
+      - scp-series-jp-3
+      - scp-series-jp-4
+      - scp-series-de-2
+      - scp-series-pl
+      - foundation-tales-ru
+      - scp-series-es-3
+      - scp-series-ko-2
+      - scp-series-ru-3
+      - scp-series-ru-2
+      - foundation-tales-ko
+      - most-recently-created
+      - scp-series-jp-2
+      - scp-series-5
+      - system:list-all-pages
+      - scp-series-es
+      - scp-series-es-4
+      - scp-2989-jp
+      - foundation-tales-ua
+      - forum:recent-posts
+      - most-recently-edited
+      - system:members
+      - scp-series
+      - foundation-tales-de
+      - scp-series-pt
+      - scp-series-ua-4
+      - scp-series-pl-3
+      - scp-series-fr-4
+      - scp-series-th-3
+      - foundation-tales-it
+      - scp-series-fr-3
+      - scp-series-cn-4
+      - foundation-tales-pt
+      - scp-series-cs
+      - scp-series-ua-3
+      - scp-series-cs-4
+      - goi-formats
+      - system:recent-changes
+      rate: '+2'
+      tags:
+      - jp
+      - "\u88DC\u8DB3"
+      - "\u5171\u8457"
+      title: "\u30B8\u30E7\u30F3\u30FBF\u30FB\u30B1\u30CD\u30C7\u30A3\u6697\u6BBA\u4E8B\
+        \u4EF6"
+scp-1151-jp:
+  links:
+  - scp-1151-jp/offset/1/page2_limit/1:
+      links:
+      - goc-hub-page
+      - aiad-homescreen
+      rate: '+50'
+      tags:
+      - jp
+      - "\u6587\u66F8"
+      - "\u30E1\u30BF"
+      - safe
+      - "\u7CBE\u795E\u5F71\u97FF"
+      - "\u86C7\u306E\u624B"
+      - scp
+      - "\u9053\u5177"
+      - aiad
+      title: "\u8AAD\u3080\u3068\u6B7B\u306C\u672C"
+scp-1169-jp:
+  links:
+  - scp-1169-jp/offset/1/page2_limit/1:
+      links:
+      - scp-1169-jp/offset/1/page3_limit/1
+      rate: '+14'
+      tags:
+      - jp
+      - "k-\u30AF\u30E9\u30B9\u30B7\u30CA\u30EA\u30AA"
+      - scp
+      - "\u7570\u6B21\u5143"
+      - neutralized
+      title: SCP-1169-JP
+  - scp-1169-jp/offset/1/page3_limit/1:
+      links:
+      - scp-1169-jp/offset/1/page4_limit/1
+      rate: '+14'
+      tags:
+      - jp
+      - "k-\u30AF\u30E9\u30B9\u30B7\u30CA\u30EA\u30AA"
+      - scp
+      - "\u7570\u6B21\u5143"
+      - neutralized
+      title: SCP-1169-JP
+  - scp-1169-jp/offset/1/page4_limit/1:
+      links: []
+      rate: '+14'
+      tags:
+      - jp
+      - "k-\u30AF\u30E9\u30B9\u30B7\u30CA\u30EA\u30AA"
+      - scp
+      - "\u7570\u6B21\u5143"
+      - neutralized
+      title: SCP-1169-JP
+scp-1430-jp:
+  links:
+  - scp-1430-jp/offset/1/page2_limit/1:
+      links:
+      - scp-2000
+      - scp-1000
+      - scp-1430-jp/offset/1/page3_limit/1
+      rate: '-4'
+      tags:
+      - jp
+      - "k-\u30AF\u30E9\u30B9\u30B7\u30CA\u30EA\u30AA"
+      - esoteric-class
+      - scp
+      - "\u524A\u9664\u901A\u77E5"
+      - "\u5916\u90E8\u30A8\u30F3\u30C8\u30ED\u30D4\u30FC"
+      - "\u7834\u58CA\u4E0D\u80FD"
+      - "\u79FB\u52D5\u4E0D\u53EF"
+      - "\u6A5F\u68B0"
+      title: SCP-1430-JP
+  - scp-1430-jp/offset/1/page3_limit/1:
+      links:
+      - scp-1430-jp/offset/1/page4_limit/1
+      - esoteric-classes-complete-list
+      rate: '-4'
+      tags:
+      - jp
+      - "k-\u30AF\u30E9\u30B9\u30B7\u30CA\u30EA\u30AA"
+      - esoteric-class
+      - scp
+      - "\u524A\u9664\u901A\u77E5"
+      - "\u5916\u90E8\u30A8\u30F3\u30C8\u30ED\u30D4\u30FC"
+      - "\u7834\u58CA\u4E0D\u80FD"
+      - "\u79FB\u52D5\u4E0D\u53EF"
+      - "\u6A5F\u68B0"
+      title: SCP-1430-JP
+  - scp-1430-jp/offset/1/page4_limit/1:
+      links: []
+      rate: '-4'
+      tags:
+      - jp
+      - "k-\u30AF\u30E9\u30B9\u30B7\u30CA\u30EA\u30AA"
+      - esoteric-class
+      - scp
+      - "\u524A\u9664\u901A\u77E5"
+      - "\u5916\u90E8\u30A8\u30F3\u30C8\u30ED\u30D4\u30FC"
+      - "\u7834\u58CA\u4E0D\u80FD"
+      - "\u79FB\u52D5\u4E0D\u53EF"
+      - "\u6A5F\u68B0"
+      title: SCP-1430-JP
+scp-1714-jp:
+  links:
+  - scp-1714-jp/offset/1/page2_limit/1:
+      links:
+      - scp-1714-jp/offset/1/page3_limit/1
+      rate: '+168'
+      tags:
+      - "\u975E\u5B9F\u4F53"
+      - jp
+      - "\u4EBA\u9593\u578B"
+      - "\u30D9\u30F3\u30C1\u30E3\u30FC\u30B3\u30F3\u30C6\u30B9\u30C8"
+      - esoteric-class
+      - scp
+      - "\u8150\u98DF"
+      title: SCP-1714-JP
+  - scp-1714-jp/offset/1/page3_limit/1:
+      links: []
+      rate: '+168'
+      tags:
+      - "\u975E\u5B9F\u4F53"
+      - jp
+      - "\u4EBA\u9593\u578B"
+      - "\u30D9\u30F3\u30C1\u30E3\u30FC\u30B3\u30F3\u30C6\u30B9\u30C8"
+      - esoteric-class
+      - scp
+      - "\u8150\u98DF"
+      title: SCP-1714-JP
+scp-1779-jp:
+  links:
+  - video-log-of-scp-1779-jp:
+      links:
+      - video-log-of-scp-1779-jp/order/rating
+      - video-log-of-scp-1779-jp/order/name
+      - video-log-of-scp-1779-jp:10002/noredirect/true
+      - video-log-of-scp-1779-jp/order/rating%20desc
+      - video-log-of-scp-1779-jp:10002/noredirect/true/norender/true/#_editpage
+      - video-log-of-scp-1779-jp:10001/noredirect/true/norender/true/#_editpage
+      - video-log-of-scp-1779-jp:10000/noredirect/true/norender/true/#_editpage
+      - video-log-of-scp-1779-jp:10003/noredirect/true/norender/true/#_editpage
+      - video-log-of-scp-1779-jp/name/10001
+      - video-log-of-scp-1779-jp:10003/noredirect/true
+      - log-of-extranormal-events-jp/name/10015
+      - scp-268-jp
+      - video-log-of-scp-1779-jp/order/name%20desc
+      - video-log-of-scp-1779-jp/name/10003
+      - video-log-of-scp-1779-jp:10000/noredirect/true
+      - video-log-of-scp-1779-jp/order/random
+      - video-log-of-scp-1779-jp/name/10000
+      - video-log-of-scp-1779-jp:10004/noredirect/true/parentPage/video-log-of-scp-1779-jp/tags/jp/#_editpage
+      - video-log-of-scp-1779-jp/name/10002
+      - video-log-of-scp-1779-jp:10001/noredirect/true
+      rate: '+34'
+      tags:
+      - jp
+      - "\u88DC\u8DB3"
+      - "\u5408\u4F5C"
+      title: "\u6620\u50CF\u8A18\u9332SCP-1779-JP-B"
+  - video-log-of-scp-1779-jp/order/rating:
+      links:
+      - video-log-of-scp-1779-jp/order/name
+      - video-log-of-scp-1779-jp:10002/noredirect/true
+      - video-log-of-scp-1779-jp/order/rating%20desc
+      - video-log-of-scp-1779-jp:10002/noredirect/true/norender/true/#_editpage
+      - video-log-of-scp-1779-jp:10001/noredirect/true/norender/true/#_editpage
+      - video-log-of-scp-1779-jp:10000/noredirect/true/norender/true/#_editpage
+      - video-log-of-scp-1779-jp:10003/noredirect/true/norender/true/#_editpage
+      - video-log-of-scp-1779-jp/name/10001
+      - video-log-of-scp-1779-jp:10003/noredirect/true
+      - log-of-extranormal-events-jp/name/10015
+      - scp-268-jp
+      - video-log-of-scp-1779-jp/order/name%20desc
+      - video-log-of-scp-1779-jp/name/10003
+      - video-log-of-scp-1779-jp:10000/noredirect/true
+      - video-log-of-scp-1779-jp/order/random
+      - video-log-of-scp-1779-jp/name/10000
+      - video-log-of-scp-1779-jp:10004/noredirect/true/parentPage/video-log-of-scp-1779-jp/tags/jp/#_editpage
+      - video-log-of-scp-1779-jp/name/10002
+      - video-log-of-scp-1779-jp:10001/noredirect/true
+      rate: '+34'
+      tags:
+      - jp
+      - "\u88DC\u8DB3"
+      - "\u5408\u4F5C"
+      title: "\u6620\u50CF\u8A18\u9332SCP-1779-JP-B"
+  - video-log-of-scp-1779-jp/order/name:
+      links:
+      - video-log-of-scp-1779-jp/order/rating
+      - video-log-of-scp-1779-jp:10002/noredirect/true
+      - video-log-of-scp-1779-jp/order/rating%20desc
+      - video-log-of-scp-1779-jp:10002/noredirect/true/norender/true/#_editpage
+      - video-log-of-scp-1779-jp:10001/noredirect/true/norender/true/#_editpage
+      - video-log-of-scp-1779-jp:10000/noredirect/true/norender/true/#_editpage
+      - video-log-of-scp-1779-jp:10003/noredirect/true/norender/true/#_editpage
+      - video-log-of-scp-1779-jp/name/10001
+      - video-log-of-scp-1779-jp:10003/noredirect/true
+      - log-of-extranormal-events-jp/name/10015
+      - scp-268-jp
+      - video-log-of-scp-1779-jp/order/name%20desc
+      - video-log-of-scp-1779-jp/name/10003
+      - video-log-of-scp-1779-jp:10000/noredirect/true
+      - video-log-of-scp-1779-jp/order/random
+      - video-log-of-scp-1779-jp/name/10000
+      - video-log-of-scp-1779-jp:10004/noredirect/true/parentPage/video-log-of-scp-1779-jp/tags/jp/#_editpage
+      - video-log-of-scp-1779-jp/name/10002
+      - video-log-of-scp-1779-jp:10001/noredirect/true
+      rate: '+34'
+      tags:
+      - jp
+      - "\u88DC\u8DB3"
+      - "\u5408\u4F5C"
+      title: "\u6620\u50CF\u8A18\u9332SCP-1779-JP-B"
+  - video-log-of-scp-1779-jp:10002/noredirect/true:
+      links: []
+      rate: '+12'
+      tags:
+      - jp
+      title: '10002'
+  - video-log-of-scp-1779-jp/order/rating%20desc:
+      links:
+      - video-log-of-scp-1779-jp/order/rating
+      - video-log-of-scp-1779-jp/order/name
+      - video-log-of-scp-1779-jp:10002/noredirect/true
+      - video-log-of-scp-1779-jp:10002/noredirect/true/norender/true/#_editpage
+      - video-log-of-scp-1779-jp:10001/noredirect/true/norender/true/#_editpage
+      - video-log-of-scp-1779-jp:10000/noredirect/true/norender/true/#_editpage
+      - video-log-of-scp-1779-jp:10003/noredirect/true/norender/true/#_editpage
+      - video-log-of-scp-1779-jp/name/10001
+      - video-log-of-scp-1779-jp:10003/noredirect/true
+      - log-of-extranormal-events-jp/name/10015
+      - scp-268-jp
+      - video-log-of-scp-1779-jp/order/name%20desc
+      - video-log-of-scp-1779-jp/name/10003
+      - video-log-of-scp-1779-jp:10000/noredirect/true
+      - video-log-of-scp-1779-jp/order/random
+      - video-log-of-scp-1779-jp/name/10000
+      - video-log-of-scp-1779-jp:10004/noredirect/true/parentPage/video-log-of-scp-1779-jp/tags/jp/#_editpage
+      - video-log-of-scp-1779-jp/name/10002
+      - video-log-of-scp-1779-jp:10001/noredirect/true
+      rate: '+34'
+      tags:
+      - jp
+      - "\u88DC\u8DB3"
+      - "\u5408\u4F5C"
+      title: "\u6620\u50CF\u8A18\u9332SCP-1779-JP-B"
+  - video-log-of-scp-1779-jp:10002/noredirect/true/norender/true/#_editpage:
+      links: []
+      rate: unknown
+      tags:
+      - jp
+      title: '10002'
+  - video-log-of-scp-1779-jp:10001/noredirect/true/norender/true/#_editpage:
+      links: []
+      rate: unknown
+      tags:
+      - jp
+      title: '10001'
+  - video-log-of-scp-1779-jp:10000/noredirect/true/norender/true/#_editpage:
+      links: []
+      rate: unknown
+      tags:
+      - jp
+      title: '10000'
+  - video-log-of-scp-1779-jp:10003/noredirect/true/norender/true/#_editpage:
+      links: []
+      rate: unknown
+      tags:
+      - jp
+      title: '10003'
+  - video-log-of-scp-1779-jp/name/10001:
+      links:
+      - video-log-of-scp-1779-jp/order/rating
+      - video-log-of-scp-1779-jp/order/name
+      - video-log-of-scp-1779-jp/order/name%20desc
+      - video-log-of-scp-1779-jp/order/rating%20desc
+      - video-log-of-scp-1779-jp:10001/noredirect/true
+      - video-log-of-scp-1779-jp:10004/noredirect/true/parentPage/video-log-of-scp-1779-jp/tags/jp/#_editpage
+      - video-log-of-scp-1779-jp:10001/noredirect/true/norender/true/#_editpage
+      - video-log-of-scp-1779-jp/order/random
+      - log-of-extranormal-events-jp/name/10015
+      rate: '+34'
+      tags:
+      - jp
+      - "\u88DC\u8DB3"
+      - "\u5408\u4F5C"
+      title: "\u6620\u50CF\u8A18\u9332SCP-1779-JP-B"
+  - video-log-of-scp-1779-jp/order/name%20desc:
+      links:
+      - video-log-of-scp-1779-jp/order/rating
+      - video-log-of-scp-1779-jp/order/name
+      - video-log-of-scp-1779-jp:10002/noredirect/true
+      - video-log-of-scp-1779-jp/order/rating%20desc
+      - video-log-of-scp-1779-jp:10002/noredirect/true/norender/true/#_editpage
+      - video-log-of-scp-1779-jp:10001/noredirect/true/norender/true/#_editpage
+      - video-log-of-scp-1779-jp:10000/noredirect/true/norender/true/#_editpage
+      - video-log-of-scp-1779-jp:10003/noredirect/true/norender/true/#_editpage
+      - video-log-of-scp-1779-jp/name/10001
+      - video-log-of-scp-1779-jp:10003/noredirect/true
+      - log-of-extranormal-events-jp/name/10015
+      - scp-268-jp
+      - video-log-of-scp-1779-jp/name/10003
+      - video-log-of-scp-1779-jp:10000/noredirect/true
+      - video-log-of-scp-1779-jp/order/random
+      - video-log-of-scp-1779-jp/name/10000
+      - video-log-of-scp-1779-jp:10004/noredirect/true/parentPage/video-log-of-scp-1779-jp/tags/jp/#_editpage
+      - video-log-of-scp-1779-jp/name/10002
+      - video-log-of-scp-1779-jp:10001/noredirect/true
+      rate: '+34'
+      tags:
+      - jp
+      - "\u88DC\u8DB3"
+      - "\u5408\u4F5C"
+      title: "\u6620\u50CF\u8A18\u9332SCP-1779-JP-B"
+  - video-log-of-scp-1779-jp:10003/noredirect/true:
+      links:
+      - scp-268-jp
+      rate: '+15'
+      tags:
+      - jp
+      title: '10003'
+  - video-log-of-scp-1779-jp/name/10003:
+      links:
+      - video-log-of-scp-1779-jp/order/rating
+      - video-log-of-scp-1779-jp:10003/noredirect/true/norender/true/#_editpage
+      - video-log-of-scp-1779-jp/order/name
+      - video-log-of-scp-1779-jp/order/name%20desc
+      - video-log-of-scp-1779-jp/order/rating%20desc
+      - video-log-of-scp-1779-jp:10004/noredirect/true/parentPage/video-log-of-scp-1779-jp/tags/jp/#_editpage
+      - video-log-of-scp-1779-jp:10003/noredirect/true
+      - video-log-of-scp-1779-jp/order/random
+      - scp-268-jp
+      rate: '+34'
+      tags:
+      - jp
+      - "\u88DC\u8DB3"
+      - "\u5408\u4F5C"
+      title: "\u6620\u50CF\u8A18\u9332SCP-1779-JP-B"
+  - video-log-of-scp-1779-jp/order/random:
+      links:
+      - video-log-of-scp-1779-jp/order/rating
+      - video-log-of-scp-1779-jp/order/name
+      - video-log-of-scp-1779-jp:10002/noredirect/true
+      - video-log-of-scp-1779-jp/order/rating%20desc
+      - video-log-of-scp-1779-jp:10002/noredirect/true/norender/true/#_editpage
+      - video-log-of-scp-1779-jp:10001/noredirect/true/norender/true/#_editpage
+      - video-log-of-scp-1779-jp:10000/noredirect/true/norender/true/#_editpage
+      - video-log-of-scp-1779-jp:10003/noredirect/true/norender/true/#_editpage
+      - video-log-of-scp-1779-jp/name/10001
+      - video-log-of-scp-1779-jp:10003/noredirect/true
+      - log-of-extranormal-events-jp/name/10015
+      - scp-268-jp
+      - video-log-of-scp-1779-jp/order/name%20desc
+      - video-log-of-scp-1779-jp/name/10003
+      - video-log-of-scp-1779-jp:10000/noredirect/true
+      - video-log-of-scp-1779-jp/name/10000
+      - video-log-of-scp-1779-jp:10004/noredirect/true/parentPage/video-log-of-scp-1779-jp/tags/jp/#_editpage
+      - video-log-of-scp-1779-jp/name/10002
+      - video-log-of-scp-1779-jp:10001/noredirect/true
+      rate: '+34'
+      tags:
+      - jp
+      - "\u88DC\u8DB3"
+      - "\u5408\u4F5C"
+      title: "\u6620\u50CF\u8A18\u9332SCP-1779-JP-B"
+  - video-log-of-scp-1779-jp:10000/noredirect/true:
+      links: []
+      rate: '+7'
+      tags:
+      - jp
+      title: '10000'
+  - video-log-of-scp-1779-jp/name/10000:
+      links:
+      - video-log-of-scp-1779-jp:10000/noredirect/true/norender/true/#_editpage
+      - video-log-of-scp-1779-jp/order/rating
+      - video-log-of-scp-1779-jp/order/name
+      - video-log-of-scp-1779-jp/order/name%20desc
+      - video-log-of-scp-1779-jp/order/rating%20desc
+      - video-log-of-scp-1779-jp:10004/noredirect/true/parentPage/video-log-of-scp-1779-jp/tags/jp/#_editpage
+      - video-log-of-scp-1779-jp:10000/noredirect/true
+      - video-log-of-scp-1779-jp/order/random
+      rate: '+34'
+      tags:
+      - jp
+      - "\u88DC\u8DB3"
+      - "\u5408\u4F5C"
+      title: "\u6620\u50CF\u8A18\u9332SCP-1779-JP-B"
+  - video-log-of-scp-1779-jp/name/10002:
+      links:
+      - video-log-of-scp-1779-jp/order/rating
+      - video-log-of-scp-1779-jp/order/name
+      - video-log-of-scp-1779-jp/order/name%20desc
+      - video-log-of-scp-1779-jp:10002/noredirect/true
+      - video-log-of-scp-1779-jp/order/rating%20desc
+      - video-log-of-scp-1779-jp:10002/noredirect/true/norender/true/#_editpage
+      - video-log-of-scp-1779-jp:10004/noredirect/true/parentPage/video-log-of-scp-1779-jp/tags/jp/#_editpage
+      - video-log-of-scp-1779-jp/order/random
+      rate: '+34'
+      tags:
+      - jp
+      - "\u88DC\u8DB3"
+      - "\u5408\u4F5C"
+      title: "\u6620\u50CF\u8A18\u9332SCP-1779-JP-B"
+  - video-log-of-scp-1779-jp:10001/noredirect/true:
+      links:
+      - log-of-extranormal-events-jp/name/10015
+      rate: '+11'
+      tags:
+      - jp
+      title: '10001'
+scp-1863-jp:
+  links:
+  - scp-1863-jp/offset/1/page2_limit/1:
+      links:
+      - scp-1863-jp/offset/1/page3_limit/1
+      rate: '+7'
+      tags:
+      - jp
+      - "\u6587\u66F8"
+      - keter
+      - scp
+      - "\u30DF\u30FC\u30E0"
+      title: SCP-1863-JP
+  - scp-1863-jp/offset/1/page3_limit/1:
+      links:
+      - scp-1863-jp/offset/1/page4_limit/1
+      rate: '+7'
+      tags:
+      - jp
+      - "\u6587\u66F8"
+      - keter
+      - scp
+      - "\u30DF\u30FC\u30E0"
+      title: SCP-1863-JP
+  - scp-1863-jp/offset/1/page4_limit/1:
+      links:
+      - scp-1863-jp/offset/1/page5_limit/1
+      rate: '+7'
+      tags:
+      - jp
+      - "\u6587\u66F8"
+      - keter
+      - scp
+      - "\u30DF\u30FC\u30E0"
+      title: SCP-1863-JP
+  - scp-1863-jp/offset/1/page5_limit/1:
+      links:
+      - scp-1863-jp/offset/1/page6_limit/1
+      rate: '+7'
+      tags:
+      - jp
+      - "\u6587\u66F8"
+      - keter
+      - scp
+      - "\u30DF\u30FC\u30E0"
+      title: SCP-1863-JP
+  - scp-1863-jp/offset/1/page6_limit/1:
+      links:
+      - scp-1863-jp/
+      rate: '+7'
+      tags:
+      - jp
+      - "\u6587\u66F8"
+      - keter
+      - scp
+      - "\u30DF\u30FC\u30E0"
+      title: SCP-1863-JP
+  - scp-1863-jp/:
+      links:
+      - scp-1863-jp/offset/1/page2_limit/1
+      rate: '+7'
+      tags:
+      - jp
+      - "\u6587\u66F8"
+      - keter
+      - scp
+      - "\u30DF\u30FC\u30E0"
+      title: SCP-1863-JP
+scp-1921-jp:
+  links:
+  - scp-1921-jp/offset/1/page2_limit/1:
+      links: []
+      rate: '+51'
+      tags:
+      - "\u8056\u676F\u3092\u4EF0\u3050\u7FF3"
+      - jp
+      - "\u30C1\u30FC\u30E0\u30B3\u30F320"
+      - "\u5B97\u6559"
+      - euclid
+      - scp
+      - "\u9053\u5177"
+      title: SCP-1921-JP
+scp-2000-jp:
+  links:
+  - scp-2000-jp/offset/1/page3_limit/1:
+      links: []
+      rate: '+814'
+      tags:
+      - jp
+      - "\u81EA\u6211"
+      - "\u30E1\u30BF"
+      - "\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF"
+      - "\u52D5\u7269"
+      - "\u5171\u8457"
+      - scp
+      - "\u72AC"
+      - thaumiel
+      - 2000jp
+      - "\u77E5\u6027"
+      title: SCP-2000-JP
+  - scp-2000-jp/offset/1/page2_limit/1:
+      links:
+      - scp-2000
+      - scp-2000-jp/offset/1/page2_limit/1#u-back
+      - scp-2000-jp#u-back
+      - scp-3519
+      - scp-2000-jp/offset/1/page2_limit/1#u-open4
+      - scp-2000-jp/offset/1/page2_limit/1#u-open9
+      - scp-2000-jp/offset/1/page2_limit/1#u-open10
+      - scp-2000-jp/offset/1/page2_limit/1#u-open0
+      - scp-2000-jp/offset/1/page2_limit/1#u-open5
+      - scp-2000-jp/offset/1/page2_limit/1#u-open3
+      - scp-2000-jp/offset/1/page2_limit/1#u-open7
+      - scp-2000-jp/offset/1/page2_limit/1#u-open8
+      - scp-2000-jp/offset/1/page2_limit/1#u-open6
+      - scp-2000-jp/offset/1/page2_limit/1#u-open2
+      - scp-2000-jp/offset/1/page2_limit/1#u-open1
+      rate: '+814'
+      tags:
+      - jp
+      - "\u81EA\u6211"
+      - "\u30E1\u30BF"
+      - "\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF"
+      - "\u52D5\u7269"
+      - "\u5171\u8457"
+      - scp
+      - "\u72AC"
+      - thaumiel
+      - 2000jp
+      - "\u77E5\u6027"
+      title: SCP-2000-JP
+  - scp-2000:
+      links:
+      - scp-3480
+      - scp-1422
+      - incident-zero-part-1
+      rate: '+276'
+      tags:
+      - "\u6B74\u53F2"
+      - "\u8A18\u61B6\u5F71\u97FF"
+      - '2000'
+      - "\u7BA1\u7406\u8005"
+      - "\u69CB\u9020"
+      - "\u6642\u9593"
+      - "\u907A\u4F1D\u5B50"
+      - "\u30AF\u30EC\u30D5\u535A\u58EB"
+      - "\u8CA1\u56E3\u88FD"
+      - "\u30B7\u30E3\u30F3\u30AF\u535A\u58EB"
+      - scp
+      - en
+      - thaumiel
+      - "\u30AE\u30A2\u30FC\u30BA\u535A\u58EB"
+      title: SCP-2000
+  - scp-2000-jp/offset/1/page2_limit/1#u-back:
+      links:
+      - scp-2000
+      - scp-2000-jp#u-back
+      - scp-3519
+      - scp-2000-jp/offset/1/page2_limit/1#u-open4
+      - scp-2000-jp/offset/1/page2_limit/1#u-open9
+      - scp-2000-jp/offset/1/page2_limit/1#u-open10
+      - scp-2000-jp/offset/1/page2_limit/1#u-open0
+      - scp-2000-jp/offset/1/page2_limit/1#u-open5
+      - scp-2000-jp/offset/1/page2_limit/1#u-open3
+      - scp-2000-jp/offset/1/page2_limit/1#u-open7
+      - scp-2000-jp/offset/1/page2_limit/1#u-open8
+      - scp-2000-jp/offset/1/page2_limit/1#u-open6
+      - scp-2000-jp/offset/1/page2_limit/1#u-open2
+      - scp-2000-jp/offset/1/page2_limit/1#u-open1
+      rate: '+814'
+      tags:
+      - jp
+      - "\u81EA\u6211"
+      - "\u30E1\u30BF"
+      - "\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF"
+      - "\u52D5\u7269"
+      - "\u5171\u8457"
+      - scp
+      - "\u72AC"
+      - thaumiel
+      - 2000jp
+      - "\u77E5\u6027"
+      title: SCP-2000-JP
+  - scp-2000-jp#u-back:
+      links:
+      - scp-2000-jp/offset/1/page2_limit/1
+      - scp-2000-jp/offset/1/page3_limit/1
+      rate: '+814'
+      tags:
+      - jp
+      - "\u81EA\u6211"
+      - "\u30E1\u30BF"
+      - "\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF"
+      - "\u52D5\u7269"
+      - "\u5171\u8457"
+      - scp
+      - "\u72AC"
+      - thaumiel
+      - 2000jp
+      - "\u77E5\u6027"
+      title: SCP-2000-JP
+  - scp-2000-jp/offset/1/page2_limit/1#u-open4:
+      links:
+      - scp-2000
+      - scp-2000-jp/offset/1/page2_limit/1#u-back
+      - scp-2000-jp#u-back
+      - scp-3519
+      - scp-2000-jp/offset/1/page2_limit/1#u-open9
+      - scp-2000-jp/offset/1/page2_limit/1#u-open10
+      - scp-2000-jp/offset/1/page2_limit/1#u-open0
+      - scp-2000-jp/offset/1/page2_limit/1#u-open5
+      - scp-2000-jp/offset/1/page2_limit/1#u-open3
+      - scp-2000-jp/offset/1/page2_limit/1#u-open7
+      - scp-2000-jp/offset/1/page2_limit/1#u-open8
+      - scp-2000-jp/offset/1/page2_limit/1#u-open6
+      - scp-2000-jp/offset/1/page2_limit/1#u-open2
+      - scp-2000-jp/offset/1/page2_limit/1#u-open1
+      rate: '+814'
+      tags:
+      - jp
+      - "\u81EA\u6211"
+      - "\u30E1\u30BF"
+      - "\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF"
+      - "\u52D5\u7269"
+      - "\u5171\u8457"
+      - scp
+      - "\u72AC"
+      - thaumiel
+      - 2000jp
+      - "\u77E5\u6027"
+      title: SCP-2000-JP
+  - scp-2000-jp/offset/1/page2_limit/1#u-open9:
+      links:
+      - scp-2000
+      - scp-2000-jp/offset/1/page2_limit/1#u-back
+      - scp-2000-jp#u-back
+      - scp-3519
+      - scp-2000-jp/offset/1/page2_limit/1#u-open4
+      - scp-2000-jp/offset/1/page2_limit/1#u-open10
+      - scp-2000-jp/offset/1/page2_limit/1#u-open0
+      - scp-2000-jp/offset/1/page2_limit/1#u-open5
+      - scp-2000-jp/offset/1/page2_limit/1#u-open3
+      - scp-2000-jp/offset/1/page2_limit/1#u-open7
+      - scp-2000-jp/offset/1/page2_limit/1#u-open8
+      - scp-2000-jp/offset/1/page2_limit/1#u-open6
+      - scp-2000-jp/offset/1/page2_limit/1#u-open2
+      - scp-2000-jp/offset/1/page2_limit/1#u-open1
+      rate: '+814'
+      tags:
+      - jp
+      - "\u81EA\u6211"
+      - "\u30E1\u30BF"
+      - "\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF"
+      - "\u52D5\u7269"
+      - "\u5171\u8457"
+      - scp
+      - "\u72AC"
+      - thaumiel
+      - 2000jp
+      - "\u77E5\u6027"
+      title: SCP-2000-JP
+  - scp-2000-jp/offset/1/page2_limit/1#u-open10:
+      links:
+      - scp-2000
+      - scp-2000-jp/offset/1/page2_limit/1#u-back
+      - scp-2000-jp#u-back
+      - scp-3519
+      - scp-2000-jp/offset/1/page2_limit/1#u-open4
+      - scp-2000-jp/offset/1/page2_limit/1#u-open9
+      - scp-2000-jp/offset/1/page2_limit/1#u-open0
+      - scp-2000-jp/offset/1/page2_limit/1#u-open5
+      - scp-2000-jp/offset/1/page2_limit/1#u-open3
+      - scp-2000-jp/offset/1/page2_limit/1#u-open7
+      - scp-2000-jp/offset/1/page2_limit/1#u-open8
+      - scp-2000-jp/offset/1/page2_limit/1#u-open6
+      - scp-2000-jp/offset/1/page2_limit/1#u-open2
+      - scp-2000-jp/offset/1/page2_limit/1#u-open1
+      rate: '+814'
+      tags:
+      - jp
+      - "\u81EA\u6211"
+      - "\u30E1\u30BF"
+      - "\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF"
+      - "\u52D5\u7269"
+      - "\u5171\u8457"
+      - scp
+      - "\u72AC"
+      - thaumiel
+      - 2000jp
+      - "\u77E5\u6027"
+      title: SCP-2000-JP
+  - scp-2000-jp/offset/1/page2_limit/1#u-open0:
+      links:
+      - scp-2000
+      - scp-2000-jp/offset/1/page2_limit/1#u-back
+      - scp-2000-jp#u-back
+      - scp-3519
+      - scp-2000-jp/offset/1/page2_limit/1#u-open4
+      - scp-2000-jp/offset/1/page2_limit/1#u-open9
+      - scp-2000-jp/offset/1/page2_limit/1#u-open10
+      - scp-2000-jp/offset/1/page2_limit/1#u-open5
+      - scp-2000-jp/offset/1/page2_limit/1#u-open3
+      - scp-2000-jp/offset/1/page2_limit/1#u-open7
+      - scp-2000-jp/offset/1/page2_limit/1#u-open8
+      - scp-2000-jp/offset/1/page2_limit/1#u-open6
+      - scp-2000-jp/offset/1/page2_limit/1#u-open2
+      - scp-2000-jp/offset/1/page2_limit/1#u-open1
+      rate: '+814'
+      tags:
+      - jp
+      - "\u81EA\u6211"
+      - "\u30E1\u30BF"
+      - "\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF"
+      - "\u52D5\u7269"
+      - "\u5171\u8457"
+      - scp
+      - "\u72AC"
+      - thaumiel
+      - 2000jp
+      - "\u77E5\u6027"
+      title: SCP-2000-JP
+  - scp-2000-jp/offset/1/page2_limit/1#u-open5:
+      links:
+      - scp-2000
+      - scp-2000-jp/offset/1/page2_limit/1#u-back
+      - scp-2000-jp#u-back
+      - scp-3519
+      - scp-2000-jp/offset/1/page2_limit/1#u-open4
+      - scp-2000-jp/offset/1/page2_limit/1#u-open9
+      - scp-2000-jp/offset/1/page2_limit/1#u-open10
+      - scp-2000-jp/offset/1/page2_limit/1#u-open0
+      - scp-2000-jp/offset/1/page2_limit/1#u-open3
+      - scp-2000-jp/offset/1/page2_limit/1#u-open7
+      - scp-2000-jp/offset/1/page2_limit/1#u-open8
+      - scp-2000-jp/offset/1/page2_limit/1#u-open6
+      - scp-2000-jp/offset/1/page2_limit/1#u-open2
+      - scp-2000-jp/offset/1/page2_limit/1#u-open1
+      rate: '+814'
+      tags:
+      - jp
+      - "\u81EA\u6211"
+      - "\u30E1\u30BF"
+      - "\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF"
+      - "\u52D5\u7269"
+      - "\u5171\u8457"
+      - scp
+      - "\u72AC"
+      - thaumiel
+      - 2000jp
+      - "\u77E5\u6027"
+      title: SCP-2000-JP
+  - scp-2000-jp/offset/1/page2_limit/1#u-open3:
+      links:
+      - scp-2000
+      - scp-2000-jp/offset/1/page2_limit/1#u-back
+      - scp-2000-jp#u-back
+      - scp-3519
+      - scp-2000-jp/offset/1/page2_limit/1#u-open4
+      - scp-2000-jp/offset/1/page2_limit/1#u-open9
+      - scp-2000-jp/offset/1/page2_limit/1#u-open10
+      - scp-2000-jp/offset/1/page2_limit/1#u-open0
+      - scp-2000-jp/offset/1/page2_limit/1#u-open5
+      - scp-2000-jp/offset/1/page2_limit/1#u-open7
+      - scp-2000-jp/offset/1/page2_limit/1#u-open8
+      - scp-2000-jp/offset/1/page2_limit/1#u-open6
+      - scp-2000-jp/offset/1/page2_limit/1#u-open2
+      - scp-2000-jp/offset/1/page2_limit/1#u-open1
+      rate: '+814'
+      tags:
+      - jp
+      - "\u81EA\u6211"
+      - "\u30E1\u30BF"
+      - "\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF"
+      - "\u52D5\u7269"
+      - "\u5171\u8457"
+      - scp
+      - "\u72AC"
+      - thaumiel
+      - 2000jp
+      - "\u77E5\u6027"
+      title: SCP-2000-JP
+  - scp-2000-jp/offset/1/page2_limit/1#u-open7:
+      links:
+      - scp-2000
+      - scp-2000-jp/offset/1/page2_limit/1#u-back
+      - scp-2000-jp#u-back
+      - scp-3519
+      - scp-2000-jp/offset/1/page2_limit/1#u-open4
+      - scp-2000-jp/offset/1/page2_limit/1#u-open9
+      - scp-2000-jp/offset/1/page2_limit/1#u-open10
+      - scp-2000-jp/offset/1/page2_limit/1#u-open0
+      - scp-2000-jp/offset/1/page2_limit/1#u-open5
+      - scp-2000-jp/offset/1/page2_limit/1#u-open3
+      - scp-2000-jp/offset/1/page2_limit/1#u-open8
+      - scp-2000-jp/offset/1/page2_limit/1#u-open6
+      - scp-2000-jp/offset/1/page2_limit/1#u-open2
+      - scp-2000-jp/offset/1/page2_limit/1#u-open1
+      rate: '+814'
+      tags:
+      - jp
+      - "\u81EA\u6211"
+      - "\u30E1\u30BF"
+      - "\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF"
+      - "\u52D5\u7269"
+      - "\u5171\u8457"
+      - scp
+      - "\u72AC"
+      - thaumiel
+      - 2000jp
+      - "\u77E5\u6027"
+      title: SCP-2000-JP
+  - scp-2000-jp/offset/1/page2_limit/1#u-open8:
+      links:
+      - scp-2000
+      - scp-2000-jp/offset/1/page2_limit/1#u-back
+      - scp-2000-jp#u-back
+      - scp-3519
+      - scp-2000-jp/offset/1/page2_limit/1#u-open4
+      - scp-2000-jp/offset/1/page2_limit/1#u-open9
+      - scp-2000-jp/offset/1/page2_limit/1#u-open0
+      - scp-2000-jp/offset/1/page2_limit/1#u-open5
+      - scp-2000-jp/offset/1/page2_limit/1#u-open3
+      - scp-2000-jp/offset/1/page2_limit/1#u-open7
+      - scp-2000-jp/offset/1/page2_limit/1#u-open10
+      - scp-2000-jp/offset/1/page2_limit/1#u-open6
+      - scp-2000-jp/offset/1/page2_limit/1#u-open2
+      - scp-2000-jp/offset/1/page2_limit/1#u-open1
+      rate: '+814'
+      tags:
+      - jp
+      - "\u81EA\u6211"
+      - "\u30E1\u30BF"
+      - "\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF"
+      - "\u52D5\u7269"
+      - "\u5171\u8457"
+      - scp
+      - "\u72AC"
+      - thaumiel
+      - 2000jp
+      - "\u77E5\u6027"
+      title: SCP-2000-JP
+  - scp-2000-jp/offset/1/page2_limit/1#u-open6:
+      links:
+      - scp-2000
+      - scp-2000-jp/offset/1/page2_limit/1#u-back
+      - scp-2000-jp#u-back
+      - scp-3519
+      - scp-2000-jp/offset/1/page2_limit/1#u-open4
+      - scp-2000-jp/offset/1/page2_limit/1#u-open9
+      - scp-2000-jp/offset/1/page2_limit/1#u-open10
+      - scp-2000-jp/offset/1/page2_limit/1#u-open0
+      - scp-2000-jp/offset/1/page2_limit/1#u-open5
+      - scp-2000-jp/offset/1/page2_limit/1#u-open3
+      - scp-2000-jp/offset/1/page2_limit/1#u-open7
+      - scp-2000-jp/offset/1/page2_limit/1#u-open8
+      - scp-2000-jp/offset/1/page2_limit/1#u-open2
+      - scp-2000-jp/offset/1/page2_limit/1#u-open1
+      rate: '+814'
+      tags:
+      - jp
+      - "\u81EA\u6211"
+      - "\u30E1\u30BF"
+      - "\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF"
+      - "\u52D5\u7269"
+      - "\u5171\u8457"
+      - scp
+      - "\u72AC"
+      - thaumiel
+      - 2000jp
+      - "\u77E5\u6027"
+      title: SCP-2000-JP
+  - scp-2000-jp/offset/1/page2_limit/1#u-open2:
+      links:
+      - scp-2000
+      - scp-2000-jp/offset/1/page2_limit/1#u-back
+      - scp-2000-jp#u-back
+      - scp-3519
+      - scp-2000-jp/offset/1/page2_limit/1#u-open4
+      - scp-2000-jp/offset/1/page2_limit/1#u-open9
+      - scp-2000-jp/offset/1/page2_limit/1#u-open10
+      - scp-2000-jp/offset/1/page2_limit/1#u-open0
+      - scp-2000-jp/offset/1/page2_limit/1#u-open5
+      - scp-2000-jp/offset/1/page2_limit/1#u-open3
+      - scp-2000-jp/offset/1/page2_limit/1#u-open7
+      - scp-2000-jp/offset/1/page2_limit/1#u-open8
+      - scp-2000-jp/offset/1/page2_limit/1#u-open6
+      - scp-2000-jp/offset/1/page2_limit/1#u-open1
+      rate: '+814'
+      tags:
+      - jp
+      - "\u81EA\u6211"
+      - "\u30E1\u30BF"
+      - "\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF"
+      - "\u52D5\u7269"
+      - "\u5171\u8457"
+      - scp
+      - "\u72AC"
+      - thaumiel
+      - 2000jp
+      - "\u77E5\u6027"
+      title: SCP-2000-JP
+  - scp-2000-jp/offset/1/page2_limit/1#u-open1:
+      links:
+      - scp-2000
+      - scp-2000-jp/offset/1/page2_limit/1#u-back
+      - scp-2000-jp#u-back
+      - scp-3519
+      - scp-2000-jp/offset/1/page2_limit/1#u-open4
+      - scp-2000-jp/offset/1/page2_limit/1#u-open9
+      - scp-2000-jp/offset/1/page2_limit/1#u-open10
+      - scp-2000-jp/offset/1/page2_limit/1#u-open0
+      - scp-2000-jp/offset/1/page2_limit/1#u-open5
+      - scp-2000-jp/offset/1/page2_limit/1#u-open3
+      - scp-2000-jp/offset/1/page2_limit/1#u-open7
+      - scp-2000-jp/offset/1/page2_limit/1#u-open8
+      - scp-2000-jp/offset/1/page2_limit/1#u-open6
+      - scp-2000-jp/offset/1/page2_limit/1#u-open2
+      rate: '+814'
+      tags:
+      - jp
+      - "\u81EA\u6211"
+      - "\u30E1\u30BF"
+      - "\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF"
+      - "\u52D5\u7269"
+      - "\u5171\u8457"
+      - scp
+      - "\u72AC"
+      - thaumiel
+      - 2000jp
+      - "\u77E5\u6027"
+      title: SCP-2000-JP
+scp-2010-jp:
+  links:
+  - scp-2010-jp/offset/1/page2_limit/1:
+      links:
+      - scp-1280-jp
+      - author:sanks269
+      rate: '+70'
+      tags:
+      - jp
+      - keter
+      - "\u4EBA\u5DE5"
+      - "\u591A\u9762\u4F53"
+      - "\u751F\u7269\u5B66"
+      - scp
+      - "\u73FE\u5B9F\u6539\u5909"
+      - "\u7834\u58CA\u4E0D\u80FD"
+      - 2000jp
+      - "\u5F6B\u308A\u7269"
+      - "\u77F3"
+      title: SCP-2010-JP
+scp-2087-jp:
+  links:
+  - scp-2087-jp/offset/1/page2_limit/1:
+      links:
+      - scp-2087-jp/offset/1/page3_limit/1
+      - scp-1690-jp
+      rate: '+77'
+      tags:
+      - "\u885B\u661F"
+      - jp
+      - "\u81EA\u6211"
+      - "\u4EBA\u5DE5"
+      - "\u77AC\u9593\u79FB\u52D5"
+      - "\u672A\u53CE\u5BB9"
+      - euclid
+      - "\u5171\u8457"
+      - scp
+      - "\u7570\u6B21\u5143"
+      - "\u81EA\u52D5\u88C5\u7F6E"
+      - "\u5730\u7403\u5916"
+      - "\u6642\u7A7A\u9593"
+      - "\u77E5\u6027"
+      - "\u6A5F\u68B0"
+      title: SCP-2087-JP
+  - scp-2087-jp/offset/1/page3_limit/1:
+      links:
+      - scp-2087-jp/offset/1/page4_limit/1#u-display
+      - scp-1690-jp
+      rate: '+77'
+      tags:
+      - "\u885B\u661F"
+      - jp
+      - "\u81EA\u6211"
+      - "\u4EBA\u5DE5"
+      - "\u77AC\u9593\u79FB\u52D5"
+      - "\u672A\u53CE\u5BB9"
+      - euclid
+      - "\u5171\u8457"
+      - scp
+      - "\u7570\u6B21\u5143"
+      - "\u81EA\u52D5\u88C5\u7F6E"
+      - "\u5730\u7403\u5916"
+      - "\u6642\u7A7A\u9593"
+      - "\u77E5\u6027"
+      - "\u6A5F\u68B0"
+      title: SCP-2087-JP
+  - scp-2087-jp/offset/1/page4_limit/1#u-display:
+      links:
+      - scp-2087-jp/offset/1/page3_limit/1
+      - scp-1690-jp
+      rate: '+77'
+      tags:
+      - "\u885B\u661F"
+      - jp
+      - "\u81EA\u6211"
+      - "\u4EBA\u5DE5"
+      - "\u77AC\u9593\u79FB\u52D5"
+      - "\u672A\u53CE\u5BB9"
+      - euclid
+      - "\u5171\u8457"
+      - scp
+      - "\u7570\u6B21\u5143"
+      - "\u81EA\u52D5\u88C5\u7F6E"
+      - "\u5730\u7403\u5916"
+      - "\u6642\u7A7A\u9593"
+      - "\u77E5\u6027"
+      - "\u6A5F\u68B0"
+      title: SCP-2087-JP
+scp-2144-jp:
+  links:
+  - scp-2144-jp/offset/1/page2_limit/1:
+      links:
+      - scp-2144-jp/offset/1/page3_limit/1
+      rate: '+381'
+      tags:
+      - "\u8A9E\u308A"
+      - jp
+      - "\u81EA\u6211"
+      - "\u30E1\u30BF"
+      - "\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF"
+      - "\u6575\u5BFE\u7684"
+      - "\u8CA1\u56E3\u88FD"
+      - euclid
+      - scp
+      - "\u5618\u30B3\u30F320"
+      title: SCP-2144-JP
+  - scp-2144-jp/offset/1/page3_limit/1:
+      links:
+      - scp-2144-jp/offset/1/page4_limit/1
+      rate: '+381'
+      tags:
+      - "\u8A9E\u308A"
+      - jp
+      - "\u81EA\u6211"
+      - "\u30E1\u30BF"
+      - "\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF"
+      - "\u6575\u5BFE\u7684"
+      - "\u8CA1\u56E3\u88FD"
+      - euclid
+      - scp
+      - "\u5618\u30B3\u30F320"
+      title: SCP-2144-JP
+  - scp-2144-jp/offset/1/page4_limit/1:
+      links:
+      - scp-2144-jp/offset/1/page5_limit/1
+      rate: '+381'
+      tags:
+      - "\u8A9E\u308A"
+      - jp
+      - "\u81EA\u6211"
+      - "\u30E1\u30BF"
+      - "\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF"
+      - "\u6575\u5BFE\u7684"
+      - "\u8CA1\u56E3\u88FD"
+      - euclid
+      - scp
+      - "\u5618\u30B3\u30F320"
+      title: SCP-2144-JP
+  - scp-2144-jp/offset/1/page5_limit/1:
+      links:
+      - scp-2144-jp/offset/1/page6_limit/1
+      rate: '+381'
+      tags:
+      - "\u8A9E\u308A"
+      - jp
+      - "\u81EA\u6211"
+      - "\u30E1\u30BF"
+      - "\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF"
+      - "\u6575\u5BFE\u7684"
+      - "\u8CA1\u56E3\u88FD"
+      - euclid
+      - scp
+      - "\u5618\u30B3\u30F320"
+      title: SCP-2144-JP
+  - scp-2144-jp/offset/1/page6_limit/1:
+      links:
+      - scp-2144-jp/offset/1/page7_limit/1
+      rate: '+381'
+      tags:
+      - "\u8A9E\u308A"
+      - jp
+      - "\u81EA\u6211"
+      - "\u30E1\u30BF"
+      - "\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF"
+      - "\u6575\u5BFE\u7684"
+      - "\u8CA1\u56E3\u88FD"
+      - euclid
+      - scp
+      - "\u5618\u30B3\u30F320"
+      title: SCP-2144-JP
+  - scp-2144-jp/offset/1/page7_limit/1:
+      links: []
+      rate: '+381'
+      tags:
+      - "\u8A9E\u308A"
+      - jp
+      - "\u81EA\u6211"
+      - "\u30E1\u30BF"
+      - "\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF"
+      - "\u6575\u5BFE\u7684"
+      - "\u8CA1\u56E3\u88FD"
+      - euclid
+      - scp
+      - "\u5618\u30B3\u30F320"
+      title: SCP-2144-JP
+scp-2183-jp:
+  links:
+  - scp-2183-jp/offset/1/page2_limit/1#u-hoge:
+      links:
+      - g-b-0134
+      rate: '+63'
+      tags:
+      - "\u30B0\u30EA\u30FC\u30F3\u30FB\u30B9\u30D1\u30ED\u30A6\u8CA1\u56E3"
+      - jp
+      - "\u65E5\u672C\u751F\u985E\u5275\u7814"
+      - "\u751F\u6B96"
+      - "\u751F\u547D"
+      - euclid
+      - "\u5171\u8457"
+      - scp
+      - "\u6027\u7684"
+      - "\u533B\u7642"
+      title: SCP-2183-JP
+scp-2201-jp:
+  links:
+  - scp-2201-jp/offset/1/page2_limit/1:
+      links:
+      - archives-f
+      - iwayurubakuhatsuochitteyatsudayone
+      - scp-2201-jp/offset/1/page3_limit/1
+      - scp-1856-jp
+      - prometheus-labs-hub
+      rate: '+37'
+      tags:
+      - "\u8A18\u61B6\u5F71\u97FF"
+      - jp
+      - keter
+      - "\u30C1\u30FC\u30E0\u30B3\u30F320"
+      - "\u60C5\u5831\u707D\u5BB3"
+      - "\u53CD\u30DF\u30FC\u30E0"
+      - "\u7CBE\u795E\u5F71\u97FF"
+      - scp
+      - "\u7121\u5C3D\u6708\u5C0E\u8846"
+      - "\u8A8D\u8B58\u707D\u5BB3"
+      - "\u5F37\u5236\u529B"
+      - "\u30D7\u30ED\u30E1\u30C6\u30A6\u30B9"
+      - "\u8490\u96C6\u9662"
+      title: SCP-2201-JP
+  - scp-2201-jp/offset/1/page3_limit/1:
+      links:
+      - mujin-getsudo-hub
+      - system:page-tags/tag/%E7%84%A1%E5%B0%BD%E6%9C%88%E5%B0%8E%E8%A1%86
+      rate: '+37'
+      tags:
+      - "\u8A18\u61B6\u5F71\u97FF"
+      - jp
+      - keter
+      - "\u30C1\u30FC\u30E0\u30B3\u30F320"
+      - "\u60C5\u5831\u707D\u5BB3"
+      - "\u53CD\u30DF\u30FC\u30E0"
+      - "\u7CBE\u795E\u5F71\u97FF"
+      - scp
+      - "\u7121\u5C3D\u6708\u5C0E\u8846"
+      - "\u8A8D\u8B58\u707D\u5BB3"
+      - "\u5F37\u5236\u529B"
+      - "\u30D7\u30ED\u30E1\u30C6\u30A6\u30B9"
+      - "\u8490\u96C6\u9662"
+      title: SCP-2201-JP
+scp-2203-jp:
+  links:
+  - scp-2203-jp-b:
+      links: []
+      rate: unknown
+      tags:
+      - jp
+      - "\u30C1\u30FC\u30E0\u30B3\u30F320"
+      - "\u88DC\u8DB3"
+      title: "SCP-2203-JP\u5831\u544A\u66F8\u8349\u6848\uFF08\u7279\u5225\u53CE\u5BB9\
+        \u30D7\u30ED\u30C8\u30B3\u30EB\u5BE9\u8B70\u4E2D\uFF09"
+scp-2256-jp:
+  links:
+  - scp-2256-jp/offset/1/page2_limit/1:
+      links:
+      - scp-2256-jp/offset/1/page3_limit/1
+      rate: '+14'
+      tags:
+      - jp
+      - "\u5BB9\u5668"
+      - "\u77AC\u9593\u79FB\u52D5"
+      - "\u672A\u53CE\u5BB9"
+      - esoteric-class
+      - scp
+      title: SCP-2256-JP
+  - scp-2256-jp/offset/1/page3_limit/1:
+      links:
+      - scp-2256-jp/offset/1/page2_limit/1
+      - esoteric-classes-complete-list#toc0%E2%80%A6
+      rate: '+14'
+      tags:
+      - jp
+      - "\u5BB9\u5668"
+      - "\u77AC\u9593\u79FB\u52D5"
+      - "\u672A\u53CE\u5BB9"
+      - esoteric-class
+      - scp
+      title: SCP-2256-JP
+scp-2308-jp:
+  links:
+  - scp-2308-jp-1:
+      links:
+      - scp-series-ko-4
+      - scp-series-cn
+      - scp-series-ua-2
+      - scp-series-pt-2
+      - eden-leap-117
+      - discord-guideline
+      - scp-series-cn-2
+      - scp-series-es-2
+      - goi-formats-jp
+      - foundation-tales-cs
+      - scp-series-ua
+      - scp-series-it-2
+      - foundation-tales
+      - canon-hub
+      - scp-series-pl-4
+      - scp-series-6
+      - foundation-tales-jp
+      - scp-series-2
+      - scp-series-th
+      - scp-series-de-3
+      - scp-series-ru-4
+      - scp-series-cs-3
+      - scp-series-cn-3
+      - foundation-tales-es
+      - scp-series-7
+      - scp-series-it-3
+      - scp-series-de
+      - scp-series-th-4
+      - scp-series-fr-2
+      - scp-series-pt-3
+      - foundation-tales-fr
+      - scp-series-cs-2
+      - scp-series-pt-4
+      - scp-series-de-4
+      - scp-series-it-4
+      - scp-series-4
+      - scp-series-ko-3
+      - foundation-tales-cn
+      - scp-series-it
+      - foundation-tales-th
+      - canon-hub-jp
+      - forum:start
+      - scp-series-ko
+      - scp-series-jp
+      - scp-1885-jp
+      - scp-series-pl-2
+      - scp-series-th-2
+      - scp-series-3
+      - indonootoko-s-proposal-iii
+      - yamizushi-blacklist-008
+      - scp-series-fr
+      - scp-series-ru
+      - foundation-tales-pl
+      - scp-series-jp-3
+      - scp-series-jp-4
+      - scp-series-de-2
+      - scp-series-pl
+      - foundation-tales-ru
+      - scp-series-es-3
+      - scp-series-ko-2
+      - scp-series-ru-3
+      - scp-series-ru-2
+      - foundation-tales-ko
+      - most-recently-created
+      - scp-series-jp-2
+      - scp-series-5
+      - system:list-all-pages
+      - scp-series-es
+      - scp-series-es-4
+      - foundation-tales-ua
+      - forum:recent-posts
+      - most-recently-edited
+      - awkward-three
+      - system:members
+      - scp-series
+      - foundation-tales-de
+      - scp-series-pt
+      - scp-series-ua-4
+      - scp-series-pl-3
+      - scp-series-fr-4
+      - scp-series-th-3
+      - foundation-tales-it
+      - scp-series-fr-3
+      - scp-series-cn-4
+      - foundation-tales-pt
+      - scp-series-cs
+      - scp-series-ua-3
+      - scp-series-cs-4
+      - goi-formats
+      - system:recent-changes
+      rate: '+36'
+      tags:
+      - jp
+      - "\u88DC\u8DB3"
+      - tale
+      title: "\u8349\u6728\u6E56\u7554\u5150\u7AE5\u884C\u65B9\u4E0D\u660E\u4E8B\u4EF6\
+        \ - Wikipedia"
+scp-2317-jp:
+  links:
+  - scp-2317-jp/offset/1/page2_limit/1:
+      links:
+      - scp-2317-jp/offset/1/page3_limit/1
+      - scp-1000
+      rate: '+92'
+      tags:
+      - "\u8A18\u61B6\u5F71\u97FF"
+      - jp
+      - "\u4EBA\u9593\u578B"
+      - "\u5730\u8CEA"
+      - "\u79FB\u52D5\u4E0D\u53EF"
+      - "\u751F\u547D"
+      - "\u7CBE\u795E\u5F71\u97FF"
+      - scp
+      - "\u73FE\u5B9F\u6539\u5909"
+      - neutralized
+      - 2000jp
+      - "\u30DF\u30FC\u30E0"
+      title: SCP-2317-JP
+  - scp-2317-jp/offset/1/page3_limit/1:
+      links:
+      - scp-2000
+      - scp-1000
+      - scp-2317-jp/offset/1/page4_limit/1
+      rate: '+92'
+      tags:
+      - "\u8A18\u61B6\u5F71\u97FF"
+      - jp
+      - "\u4EBA\u9593\u578B"
+      - "\u5730\u8CEA"
+      - "\u79FB\u52D5\u4E0D\u53EF"
+      - "\u751F\u547D"
+      - "\u7CBE\u795E\u5F71\u97FF"
+      - scp
+      - "\u73FE\u5B9F\u6539\u5909"
+      - neutralized
+      - 2000jp
+      - "\u30DF\u30FC\u30E0"
+      title: SCP-2317-JP
+  - scp-2317-jp/offset/1/page4_limit/1:
+      links:
+      - scp-2000
+      - scp-1000
+      - scp-2317-jp/offset/1/page5_limit/1
+      - scp-3000
+      rate: '+92'
+      tags:
+      - "\u8A18\u61B6\u5F71\u97FF"
+      - jp
+      - "\u4EBA\u9593\u578B"
+      - "\u5730\u8CEA"
+      - "\u79FB\u52D5\u4E0D\u53EF"
+      - "\u751F\u547D"
+      - "\u7CBE\u795E\u5F71\u97FF"
+      - scp
+      - "\u73FE\u5B9F\u6539\u5909"
+      - neutralized
+      - 2000jp
+      - "\u30DF\u30FC\u30E0"
+      title: SCP-2317-JP
+  - scp-2317-jp/offset/1/page5_limit/1:
+      links:
+      - taboo
+      - scp-2000
+      - scp-1000
+      - scp-3000
+      rate: '+92'
+      tags:
+      - "\u8A18\u61B6\u5F71\u97FF"
+      - jp
+      - "\u4EBA\u9593\u578B"
+      - "\u5730\u8CEA"
+      - "\u79FB\u52D5\u4E0D\u53EF"
+      - "\u751F\u547D"
+      - "\u7CBE\u795E\u5F71\u97FF"
+      - scp
+      - "\u73FE\u5B9F\u6539\u5909"
+      - neutralized
+      - 2000jp
+      - "\u30DF\u30FC\u30E0"
+      title: SCP-2317-JP
+scp-2326-jp:
+  links:
+  - scp-2326-jp/offset/1/page2_limit/1:
+      links: []
+      rate: '+10'
+      tags:
+      - jp
+      - safe
+      - "\u795E\u67B7\u4E00\u65CF"
+      - "\u30C1\u30FC\u30E0\u30B3\u30F320"
+      - scp
+      - "\u533B\u7642"
+      - "\u77F3"
+      title: SCP-2326-JP
+scp-2370-jp:
+  links:
+  - scp-2370-jp/offset/1/page2_limit/1:
+      links: []
+      rate: '+17'
+      tags:
+      - jp
+      - safe
+      - "\u89B3\u6E2C"
+      - "\u77AC\u9593\u79FB\u52D5"
+      - scp
+      - "\u4E57\u308A\u7269"
+      - "\u7269\u7406\u6CD5\u5247"
+      - "\u8996\u899A"
+      - "\u611F\u899A"
+      title: SCP-2370-JP
+scp-2373-jp:
+  links:
+  - scp-2373-jp/offset/1/page2_limit/1:
+      links: []
+      rate: '+21'
+      tags:
+      - "\u975E\u5B9F\u4F53"
+      - jp
+      - safe
+      - "\u89E6\u899A"
+      - "\u8490\u96C6\u9662"
+      - "\u77AC\u9593\u79FB\u52D5"
+      - scp
+      - "\u30A8\u30EB\u30DE\u5916\u6559"
+      - "\u5100\u5F0F"
+      - "\u6642\u7A7A\u9593"
+      - "\u4E0D\u5B9A\u5F62"
+      title: "\u4E16\u754C\u5883\u754C\u7A7A\u9593\u306B\u3064\u3044\u3066"
+scp-2395-jp:
+  links:
+  - scp-2395:
+      links:
+      - scp-1740
+      - scp-1920
+      - scp-1940
+      - radiance-and-cachinnation
+      - scp-2940
+      rate: '+42'
+      tags:
+      - "\u5FF5\u529B"
+      - "\u5EFA\u9020\u7269"
+      - "\u4EBA\u5DE5"
+      - euclid
+      - "\u6587\u5B57\u5165\u308A"
+      - en
+      - scp
+      - "\u30E9\u30A4\u30C8\u30FB\u30AF\u30FC\u30EA\u30A8\u30FB\u30A8\u30F3\u30BF\u30FC\
+        \u30D7\u30E9\u30A4\u30BA"
+      title: SCP-2395
+scp-2521-jp:
+  links:
+  - scp-2521:
+      links: []
+      rate: '+558'
+      tags:
+      - "\u81EA\u6211"
+      - "\u4EBA\u9593\u578B"
+      - "\u30E1\u30BF"
+      - keter
+      - "\u77AC\u9593\u79FB\u52D5"
+      - "\u60C5\u5831\u707D\u5BB3"
+      - "\u672A\u53CE\u5BB9"
+      - scp
+      - en
+      - sc2015
+      title: "\u25CF\u25CF|\u25CF\u25CF\u25CF\u25CF\u25CF|\u25CF\u25CF|\u25CF"
+  - 'scp-2521#:':
+      links: []
+      rate: '+558'
+      tags:
+      - "\u81EA\u6211"
+      - "\u4EBA\u9593\u578B"
+      - "\u30E1\u30BF"
+      - keter
+      - "\u77AC\u9593\u79FB\u52D5"
+      - "\u60C5\u5831\u707D\u5BB3"
+      - "\u672A\u53CE\u5BB9"
+      - scp
+      - en
+      - sc2015
+      title: "\u25CF\u25CF|\u25CF\u25CF\u25CF\u25CF\u25CF|\u25CF\u25CF|\u25CF"
+scp-2533-jp:
+  links:
+  - scp-2533-jp/offset/1/page2_limit/1:
+      links:
+      - scp-2109-jp
+      - scp-1337
+      - scp-752
+      - scp-2237
+      - scp-2996
+      - critics-hub
+      - scp-2480
+      - scp-179
+      - scp-3989
+      - shade-of-demise-oblique-light-of-resurrection-02
+      - operation-trapped-genius
+      - sarkicism-hub
+      - scp-1348
+      rate: '+24'
+      tags:
+      - jp
+      - keter
+      - "\u30B5\u30FC\u30AD\u30C3\u30AF"
+      - scp
+      - critics
+      title: SCP-2533-JP
+scp-2626-jp:
+  links:
+  - scp-2626-jp/offset/1/page2_limit/1:
+      links:
+      - scp-2000
+      - higashi-no-kamisama
+      - early-summer-rain-on-arca
+      - author:benjaminchong
+      - comeout-from-arca
+      - making-2000-hub
+      - scp-1970-jp
+      - scp-3171
+      - get-rid-of-the-veil
+      - fixedflowers
+      - scp-3000
+      - lily-s-proposal
+      - scp-514
+      rate: '+55'
+      tags:
+      - "\u8A18\u61B6\u5F71\u97FF"
+      - jp
+      - "\u56FD\u5916\u53CE\u5BB9"
+      - "\u89B3\u6E2C"
+      - "\u65E5\u672C\u751F\u985E\u5275\u7814"
+      - "\u7B50\u4F53\u9020\u308A"
+      - "\u4FEE\u6B63\u82B1\u5349"
+      - scp
+      - thaumiel
+      - "\u8A18\u61B6\u5A92\u4F53"
+      title: SCP-2626-JP (SCP-262-IE)
+scp-2627-jp:
+  links:
+  - scp-2627-jp/offset/1/page2_limit/1:
+      links:
+      - double-hometown-hub
+      - kanshin-ryoiki-tono
+      rate: '+127'
+      tags:
+      - jp
+      - "\u6771\u5F0A\u91CD\u5DE5"
+      - "\u5730\u8CEA"
+      - "\u65E5\u672C\u751F\u985E\u5275\u7814"
+      - "\u8239\u8236"
+      - "\u672A\u53CE\u5BB9"
+      - esoteric-class
+      - scp
+      - "\u5171\u8457"
+      - "\u30DE\u30CA\u306B\u3088\u308B\u6148\u5584\u8CA1\u56E3"
+      - "\u9060\u91CE\u5996\u602A\u4FDD\u8B77\u533A"
+      - "\u4E57\u308A\u7269"
+      - "\u6728\u88FD"
+      - "\u4E8C\u91CD\u306E\u6545\u90F7"
+      title: SCP-2627-JP
+scp-2630-jp:
+  links:
+  - scp-2630-jp#8:
+      links:
+      - scp-2630-jp#6
+      - scp-2863
+      - scp-2630-jp#4
+      - scp-2630-jp#2
+      - scp-1111-jp
+      - scp-1777-jp
+      - classification-committee-memo
+      - scp-2630-jp#7
+      - scp-1875-jp
+      - scp-2630-jp#1
+      - scp-2630-jp#3
+      - scp-1500-jp
+      - anomaly-classification-system-guide
+      - scp-2630-jp#5
+      - scp-2630-jp#9
+      - scp-2630-jp#10
+      rate: '+24'
+      tags:
+      - "\u30C6\u30EC\u30D1\u30B7\u30FC"
+      - "\u6B74\u53F2"
+      - "\u4EA4\u63DB"
+      - "\u8CA0\u53F7\u90E8\u968A"
+      - scp
+      - "\u5916\u90E8\u30A8\u30F3\u30C8\u30ED\u30D4\u30FC"
+      - "\u9670\u967D\u5BEE"
+      - "\u30DD\u30FC\u30BF\u30EB"
+      - 2000jp
+      - "\u5909\u8EAB"
+      - "\u7280\u8CC0\u6D3E"
+      - ijamea
+      - "\u611F\u60C5"
+      - "\u8266\u653F\u672C\u90E8\u5BFE\u8D85\u5E38\u8AB2"
+      - "\u78BA\u7387"
+      - "\u91D1\u5C5E"
+      - "\u88C5\u98FE\u54C1"
+      - "\u30DF\u30FC\u30E0"
+      - "\u5100\u5F0F"
+      - "\u8490\u96C6\u9662"
+      - "\u6B66\u5668"
+      - "\u8ECD\u4E8B"
+      - "\u53CD\u30DF\u30FC\u30E0"
+      - "\u516C\u5B89\u90E8\u7279\u4E8B\u8AB2"
+      - "\u653E\u5C04\u6027"
+      - "\u7CBE\u795E\u5F71\u97FF"
+      - "\u6642\u7A7A\u9593"
+      - "\u535A\u58EB"
+      - jp
+      - "\u5FF5\u529B"
+      - "\u30D1\u30E9\u30C9\u30C3\u30AF\u30B9"
+      - "\u81EA\u6211"
+      - "\u65E5\u5949\u4E00\u65CF"
+      - "\u5B97\u6559"
+      - esoteric-class
+      - "\u9060\u91CE\u5996\u602A\u4FDD\u8B77\u533A"
+      - "\u4E94\u884C\u7D50\u793E"
+      title: SCP-2630-JP
+  - scp-2630-jp#6:
+      links:
+      - scp-2863
+      - scp-2630-jp#4
+      - scp-2630-jp#2
+      - scp-1111-jp
+      - scp-1777-jp
+      - classification-committee-memo
+      - scp-2630-jp#7
+      - scp-1875-jp
+      - scp-2630-jp#10
+      - scp-2630-jp#1
+      - scp-2630-jp#3
+      - scp-1500-jp
+      - anomaly-classification-system-guide
+      - scp-2630-jp#5
+      - scp-2630-jp#9
+      - scp-2630-jp#8
+      rate: '+24'
+      tags:
+      - "\u30C6\u30EC\u30D1\u30B7\u30FC"
+      - "\u6B74\u53F2"
+      - "\u4EA4\u63DB"
+      - "\u8CA0\u53F7\u90E8\u968A"
+      - scp
+      - "\u5916\u90E8\u30A8\u30F3\u30C8\u30ED\u30D4\u30FC"
+      - "\u9670\u967D\u5BEE"
+      - "\u30DD\u30FC\u30BF\u30EB"
+      - 2000jp
+      - "\u5909\u8EAB"
+      - "\u7280\u8CC0\u6D3E"
+      - ijamea
+      - "\u611F\u60C5"
+      - "\u8266\u653F\u672C\u90E8\u5BFE\u8D85\u5E38\u8AB2"
+      - "\u78BA\u7387"
+      - "\u91D1\u5C5E"
+      - "\u88C5\u98FE\u54C1"
+      - "\u30DF\u30FC\u30E0"
+      - "\u5100\u5F0F"
+      - "\u8490\u96C6\u9662"
+      - "\u6B66\u5668"
+      - "\u8ECD\u4E8B"
+      - "\u53CD\u30DF\u30FC\u30E0"
+      - "\u516C\u5B89\u90E8\u7279\u4E8B\u8AB2"
+      - "\u653E\u5C04\u6027"
+      - "\u7CBE\u795E\u5F71\u97FF"
+      - "\u6642\u7A7A\u9593"
+      - "\u535A\u58EB"
+      - jp
+      - "\u5FF5\u529B"
+      - "\u30D1\u30E9\u30C9\u30C3\u30AF\u30B9"
+      - "\u81EA\u6211"
+      - "\u65E5\u5949\u4E00\u65CF"
+      - "\u5B97\u6559"
+      - esoteric-class
+      - "\u9060\u91CE\u5996\u602A\u4FDD\u8B77\u533A"
+      - "\u4E94\u884C\u7D50\u793E"
+      title: SCP-2630-JP
+  - scp-2630-jp#5:
+      links:
+      - scp-2630-jp#6
+      - scp-2863
+      - scp-2630-jp#4
+      - scp-2630-jp#2
+      - scp-1111-jp
+      - scp-1777-jp
+      - classification-committee-memo
+      - scp-2630-jp#7
+      - scp-1875-jp
+      - scp-2630-jp#10
+      - scp-2630-jp#1
+      - scp-2630-jp#3
+      - scp-1500-jp
+      - anomaly-classification-system-guide
+      - scp-2630-jp#9
+      - scp-2630-jp#8
+      rate: '+24'
+      tags:
+      - "\u30C6\u30EC\u30D1\u30B7\u30FC"
+      - "\u6B74\u53F2"
+      - "\u4EA4\u63DB"
+      - "\u8CA0\u53F7\u90E8\u968A"
+      - scp
+      - "\u5916\u90E8\u30A8\u30F3\u30C8\u30ED\u30D4\u30FC"
+      - "\u9670\u967D\u5BEE"
+      - "\u30DD\u30FC\u30BF\u30EB"
+      - 2000jp
+      - "\u5909\u8EAB"
+      - "\u7280\u8CC0\u6D3E"
+      - ijamea
+      - "\u611F\u60C5"
+      - "\u8266\u653F\u672C\u90E8\u5BFE\u8D85\u5E38\u8AB2"
+      - "\u78BA\u7387"
+      - "\u91D1\u5C5E"
+      - "\u88C5\u98FE\u54C1"
+      - "\u30DF\u30FC\u30E0"
+      - "\u5100\u5F0F"
+      - "\u8490\u96C6\u9662"
+      - "\u6B66\u5668"
+      - "\u8ECD\u4E8B"
+      - "\u53CD\u30DF\u30FC\u30E0"
+      - "\u516C\u5B89\u90E8\u7279\u4E8B\u8AB2"
+      - "\u653E\u5C04\u6027"
+      - "\u7CBE\u795E\u5F71\u97FF"
+      - "\u6642\u7A7A\u9593"
+      - "\u535A\u58EB"
+      - jp
+      - "\u5FF5\u529B"
+      - "\u30D1\u30E9\u30C9\u30C3\u30AF\u30B9"
+      - "\u81EA\u6211"
+      - "\u65E5\u5949\u4E00\u65CF"
+      - "\u5B97\u6559"
+      - esoteric-class
+      - "\u9060\u91CE\u5996\u602A\u4FDD\u8B77\u533A"
+      - "\u4E94\u884C\u7D50\u793E"
+      title: SCP-2630-JP
+  - scp-2630-jp#7:
+      links:
+      - scp-2630-jp#6
+      - scp-2863
+      - scp-2630-jp#4
+      - scp-2630-jp#2
+      - scp-1111-jp
+      - scp-1777-jp
+      - classification-committee-memo
+      - scp-1875-jp
+      - scp-2630-jp#10
+      - scp-2630-jp#1
+      - scp-2630-jp#3
+      - scp-1500-jp
+      - anomaly-classification-system-guide
+      - scp-2630-jp#5
+      - scp-2630-jp#9
+      - scp-2630-jp#8
+      rate: '+24'
+      tags:
+      - "\u30C6\u30EC\u30D1\u30B7\u30FC"
+      - "\u6B74\u53F2"
+      - "\u4EA4\u63DB"
+      - "\u8CA0\u53F7\u90E8\u968A"
+      - scp
+      - "\u5916\u90E8\u30A8\u30F3\u30C8\u30ED\u30D4\u30FC"
+      - "\u9670\u967D\u5BEE"
+      - "\u30DD\u30FC\u30BF\u30EB"
+      - 2000jp
+      - "\u5909\u8EAB"
+      - "\u7280\u8CC0\u6D3E"
+      - ijamea
+      - "\u611F\u60C5"
+      - "\u8266\u653F\u672C\u90E8\u5BFE\u8D85\u5E38\u8AB2"
+      - "\u78BA\u7387"
+      - "\u91D1\u5C5E"
+      - "\u88C5\u98FE\u54C1"
+      - "\u30DF\u30FC\u30E0"
+      - "\u5100\u5F0F"
+      - "\u8490\u96C6\u9662"
+      - "\u6B66\u5668"
+      - "\u8ECD\u4E8B"
+      - "\u53CD\u30DF\u30FC\u30E0"
+      - "\u516C\u5B89\u90E8\u7279\u4E8B\u8AB2"
+      - "\u653E\u5C04\u6027"
+      - "\u7CBE\u795E\u5F71\u97FF"
+      - "\u6642\u7A7A\u9593"
+      - "\u535A\u58EB"
+      - jp
+      - "\u5FF5\u529B"
+      - "\u30D1\u30E9\u30C9\u30C3\u30AF\u30B9"
+      - "\u81EA\u6211"
+      - "\u65E5\u5949\u4E00\u65CF"
+      - "\u5B97\u6559"
+      - esoteric-class
+      - "\u9060\u91CE\u5996\u602A\u4FDD\u8B77\u533A"
+      - "\u4E94\u884C\u7D50\u793E"
+      title: SCP-2630-JP
+  - scp-2630-jp#1:
+      links:
+      - scp-2630-jp#6
+      - scp-2863
+      - scp-2630-jp#4
+      - scp-2630-jp#2
+      - scp-1111-jp
+      - scp-1777-jp
+      - classification-committee-memo
+      - scp-2630-jp#7
+      - scp-1875-jp
+      - scp-2630-jp#10
+      - scp-2630-jp#3
+      - scp-1500-jp
+      - anomaly-classification-system-guide
+      - scp-2630-jp#5
+      - scp-2630-jp#9
+      - scp-2630-jp#8
+      rate: '+24'
+      tags:
+      - "\u30C6\u30EC\u30D1\u30B7\u30FC"
+      - "\u6B74\u53F2"
+      - "\u4EA4\u63DB"
+      - "\u8CA0\u53F7\u90E8\u968A"
+      - scp
+      - "\u5916\u90E8\u30A8\u30F3\u30C8\u30ED\u30D4\u30FC"
+      - "\u9670\u967D\u5BEE"
+      - "\u30DD\u30FC\u30BF\u30EB"
+      - 2000jp
+      - "\u5909\u8EAB"
+      - "\u7280\u8CC0\u6D3E"
+      - ijamea
+      - "\u611F\u60C5"
+      - "\u8266\u653F\u672C\u90E8\u5BFE\u8D85\u5E38\u8AB2"
+      - "\u78BA\u7387"
+      - "\u91D1\u5C5E"
+      - "\u88C5\u98FE\u54C1"
+      - "\u30DF\u30FC\u30E0"
+      - "\u5100\u5F0F"
+      - "\u8490\u96C6\u9662"
+      - "\u6B66\u5668"
+      - "\u8ECD\u4E8B"
+      - "\u53CD\u30DF\u30FC\u30E0"
+      - "\u516C\u5B89\u90E8\u7279\u4E8B\u8AB2"
+      - "\u653E\u5C04\u6027"
+      - "\u7CBE\u795E\u5F71\u97FF"
+      - "\u6642\u7A7A\u9593"
+      - "\u535A\u58EB"
+      - jp
+      - "\u5FF5\u529B"
+      - "\u30D1\u30E9\u30C9\u30C3\u30AF\u30B9"
+      - "\u81EA\u6211"
+      - "\u65E5\u5949\u4E00\u65CF"
+      - "\u5B97\u6559"
+      - esoteric-class
+      - "\u9060\u91CE\u5996\u602A\u4FDD\u8B77\u533A"
+      - "\u4E94\u884C\u7D50\u793E"
+      title: SCP-2630-JP
+  - scp-2630-jp#3:
+      links:
+      - scp-2630-jp#6
+      - scp-2863
+      - scp-2630-jp#4
+      - scp-2630-jp#2
+      - scp-1111-jp
+      - scp-1777-jp
+      - classification-committee-memo
+      - scp-2630-jp#7
+      - scp-1875-jp
+      - scp-2630-jp#10
+      - scp-2630-jp#1
+      - scp-1500-jp
+      - anomaly-classification-system-guide
+      - scp-2630-jp#5
+      - scp-2630-jp#9
+      - scp-2630-jp#8
+      rate: '+24'
+      tags:
+      - "\u30C6\u30EC\u30D1\u30B7\u30FC"
+      - "\u6B74\u53F2"
+      - "\u4EA4\u63DB"
+      - "\u8CA0\u53F7\u90E8\u968A"
+      - scp
+      - "\u5916\u90E8\u30A8\u30F3\u30C8\u30ED\u30D4\u30FC"
+      - "\u9670\u967D\u5BEE"
+      - "\u30DD\u30FC\u30BF\u30EB"
+      - 2000jp
+      - "\u5909\u8EAB"
+      - "\u7280\u8CC0\u6D3E"
+      - ijamea
+      - "\u611F\u60C5"
+      - "\u8266\u653F\u672C\u90E8\u5BFE\u8D85\u5E38\u8AB2"
+      - "\u78BA\u7387"
+      - "\u91D1\u5C5E"
+      - "\u88C5\u98FE\u54C1"
+      - "\u30DF\u30FC\u30E0"
+      - "\u5100\u5F0F"
+      - "\u8490\u96C6\u9662"
+      - "\u6B66\u5668"
+      - "\u8ECD\u4E8B"
+      - "\u53CD\u30DF\u30FC\u30E0"
+      - "\u516C\u5B89\u90E8\u7279\u4E8B\u8AB2"
+      - "\u653E\u5C04\u6027"
+      - "\u7CBE\u795E\u5F71\u97FF"
+      - "\u6642\u7A7A\u9593"
+      - "\u535A\u58EB"
+      - jp
+      - "\u5FF5\u529B"
+      - "\u30D1\u30E9\u30C9\u30C3\u30AF\u30B9"
+      - "\u81EA\u6211"
+      - "\u65E5\u5949\u4E00\u65CF"
+      - "\u5B97\u6559"
+      - esoteric-class
+      - "\u9060\u91CE\u5996\u602A\u4FDD\u8B77\u533A"
+      - "\u4E94\u884C\u7D50\u793E"
+      title: SCP-2630-JP
+  - scp-2630-jp#10:
+      links:
+      - scp-2630-jp#6
+      - scp-2863
+      - scp-2630-jp#4
+      - scp-2630-jp#2
+      - scp-1111-jp
+      - scp-1777-jp
+      - classification-committee-memo
+      - scp-2630-jp#7
+      - scp-1875-jp
+      - scp-2630-jp#1
+      - scp-2630-jp#3
+      - scp-1500-jp
+      - anomaly-classification-system-guide
+      - scp-2630-jp#5
+      - scp-2630-jp#9
+      - scp-2630-jp#8
+      rate: '+24'
+      tags:
+      - "\u30C6\u30EC\u30D1\u30B7\u30FC"
+      - "\u6B74\u53F2"
+      - "\u4EA4\u63DB"
+      - "\u8CA0\u53F7\u90E8\u968A"
+      - scp
+      - "\u5916\u90E8\u30A8\u30F3\u30C8\u30ED\u30D4\u30FC"
+      - "\u9670\u967D\u5BEE"
+      - "\u30DD\u30FC\u30BF\u30EB"
+      - 2000jp
+      - "\u5909\u8EAB"
+      - "\u7280\u8CC0\u6D3E"
+      - ijamea
+      - "\u611F\u60C5"
+      - "\u8266\u653F\u672C\u90E8\u5BFE\u8D85\u5E38\u8AB2"
+      - "\u78BA\u7387"
+      - "\u91D1\u5C5E"
+      - "\u88C5\u98FE\u54C1"
+      - "\u30DF\u30FC\u30E0"
+      - "\u5100\u5F0F"
+      - "\u8490\u96C6\u9662"
+      - "\u6B66\u5668"
+      - "\u8ECD\u4E8B"
+      - "\u53CD\u30DF\u30FC\u30E0"
+      - "\u516C\u5B89\u90E8\u7279\u4E8B\u8AB2"
+      - "\u653E\u5C04\u6027"
+      - "\u7CBE\u795E\u5F71\u97FF"
+      - "\u6642\u7A7A\u9593"
+      - "\u535A\u58EB"
+      - jp
+      - "\u5FF5\u529B"
+      - "\u30D1\u30E9\u30C9\u30C3\u30AF\u30B9"
+      - "\u81EA\u6211"
+      - "\u65E5\u5949\u4E00\u65CF"
+      - "\u5B97\u6559"
+      - esoteric-class
+      - "\u9060\u91CE\u5996\u602A\u4FDD\u8B77\u533A"
+      - "\u4E94\u884C\u7D50\u793E"
+      title: SCP-2630-JP
+  - scp-2630-jp#9:
+      links:
+      - scp-2630-jp#6
+      - scp-2863
+      - scp-2630-jp#4
+      - scp-2630-jp#2
+      - scp-1111-jp
+      - scp-1777-jp
+      - classification-committee-memo
+      - scp-2630-jp#7
+      - scp-1875-jp
+      - scp-2630-jp#10
+      - scp-2630-jp#1
+      - scp-2630-jp#3
+      - scp-1500-jp
+      - anomaly-classification-system-guide
+      - scp-2630-jp#5
+      - scp-2630-jp#8
+      rate: '+24'
+      tags:
+      - "\u30C6\u30EC\u30D1\u30B7\u30FC"
+      - "\u6B74\u53F2"
+      - "\u4EA4\u63DB"
+      - "\u8CA0\u53F7\u90E8\u968A"
+      - scp
+      - "\u5916\u90E8\u30A8\u30F3\u30C8\u30ED\u30D4\u30FC"
+      - "\u9670\u967D\u5BEE"
+      - "\u30DD\u30FC\u30BF\u30EB"
+      - 2000jp
+      - "\u5909\u8EAB"
+      - "\u7280\u8CC0\u6D3E"
+      - ijamea
+      - "\u611F\u60C5"
+      - "\u8266\u653F\u672C\u90E8\u5BFE\u8D85\u5E38\u8AB2"
+      - "\u78BA\u7387"
+      - "\u91D1\u5C5E"
+      - "\u88C5\u98FE\u54C1"
+      - "\u30DF\u30FC\u30E0"
+      - "\u5100\u5F0F"
+      - "\u8490\u96C6\u9662"
+      - "\u6B66\u5668"
+      - "\u8ECD\u4E8B"
+      - "\u53CD\u30DF\u30FC\u30E0"
+      - "\u516C\u5B89\u90E8\u7279\u4E8B\u8AB2"
+      - "\u653E\u5C04\u6027"
+      - "\u7CBE\u795E\u5F71\u97FF"
+      - "\u6642\u7A7A\u9593"
+      - "\u535A\u58EB"
+      - jp
+      - "\u5FF5\u529B"
+      - "\u30D1\u30E9\u30C9\u30C3\u30AF\u30B9"
+      - "\u81EA\u6211"
+      - "\u65E5\u5949\u4E00\u65CF"
+      - "\u5B97\u6559"
+      - esoteric-class
+      - "\u9060\u91CE\u5996\u602A\u4FDD\u8B77\u533A"
+      - "\u4E94\u884C\u7D50\u793E"
+      title: SCP-2630-JP
+  - scp-2630-jp#2:
+      links:
+      - scp-2630-jp#6
+      - scp-2863
+      - scp-2630-jp#4
+      - scp-1111-jp
+      - scp-1777-jp
+      - classification-committee-memo
+      - scp-2630-jp#7
+      - scp-1875-jp
+      - scp-2630-jp#10
+      - scp-2630-jp#1
+      - scp-2630-jp#3
+      - scp-1500-jp
+      - anomaly-classification-system-guide
+      - scp-2630-jp#5
+      - scp-2630-jp#9
+      - scp-2630-jp#8
+      rate: '+24'
+      tags:
+      - "\u30C6\u30EC\u30D1\u30B7\u30FC"
+      - "\u6B74\u53F2"
+      - "\u4EA4\u63DB"
+      - "\u8CA0\u53F7\u90E8\u968A"
+      - scp
+      - "\u5916\u90E8\u30A8\u30F3\u30C8\u30ED\u30D4\u30FC"
+      - "\u9670\u967D\u5BEE"
+      - "\u30DD\u30FC\u30BF\u30EB"
+      - 2000jp
+      - "\u5909\u8EAB"
+      - "\u7280\u8CC0\u6D3E"
+      - ijamea
+      - "\u611F\u60C5"
+      - "\u8266\u653F\u672C\u90E8\u5BFE\u8D85\u5E38\u8AB2"
+      - "\u78BA\u7387"
+      - "\u91D1\u5C5E"
+      - "\u88C5\u98FE\u54C1"
+      - "\u30DF\u30FC\u30E0"
+      - "\u5100\u5F0F"
+      - "\u8490\u96C6\u9662"
+      - "\u6B66\u5668"
+      - "\u8ECD\u4E8B"
+      - "\u53CD\u30DF\u30FC\u30E0"
+      - "\u516C\u5B89\u90E8\u7279\u4E8B\u8AB2"
+      - "\u653E\u5C04\u6027"
+      - "\u7CBE\u795E\u5F71\u97FF"
+      - "\u6642\u7A7A\u9593"
+      - "\u535A\u58EB"
+      - jp
+      - "\u5FF5\u529B"
+      - "\u30D1\u30E9\u30C9\u30C3\u30AF\u30B9"
+      - "\u81EA\u6211"
+      - "\u65E5\u5949\u4E00\u65CF"
+      - "\u5B97\u6559"
+      - esoteric-class
+      - "\u9060\u91CE\u5996\u602A\u4FDD\u8B77\u533A"
+      - "\u4E94\u884C\u7D50\u793E"
+      title: SCP-2630-JP
+  - scp-2630-jp#4:
+      links:
+      - scp-2630-jp#6
+      - scp-2863
+      - scp-2630-jp#2
+      - scp-1111-jp
+      - scp-1777-jp
+      - classification-committee-memo
+      - scp-2630-jp#7
+      - scp-1875-jp
+      - scp-2630-jp#10
+      - scp-2630-jp#1
+      - scp-2630-jp#3
+      - scp-1500-jp
+      - anomaly-classification-system-guide
+      - scp-2630-jp#5
+      - scp-2630-jp#9
+      - scp-2630-jp#8
+      rate: '+24'
+      tags:
+      - "\u30C6\u30EC\u30D1\u30B7\u30FC"
+      - "\u6B74\u53F2"
+      - "\u4EA4\u63DB"
+      - "\u8CA0\u53F7\u90E8\u968A"
+      - scp
+      - "\u5916\u90E8\u30A8\u30F3\u30C8\u30ED\u30D4\u30FC"
+      - "\u9670\u967D\u5BEE"
+      - "\u30DD\u30FC\u30BF\u30EB"
+      - 2000jp
+      - "\u5909\u8EAB"
+      - "\u7280\u8CC0\u6D3E"
+      - ijamea
+      - "\u611F\u60C5"
+      - "\u8266\u653F\u672C\u90E8\u5BFE\u8D85\u5E38\u8AB2"
+      - "\u78BA\u7387"
+      - "\u91D1\u5C5E"
+      - "\u88C5\u98FE\u54C1"
+      - "\u30DF\u30FC\u30E0"
+      - "\u5100\u5F0F"
+      - "\u8490\u96C6\u9662"
+      - "\u6B66\u5668"
+      - "\u8ECD\u4E8B"
+      - "\u53CD\u30DF\u30FC\u30E0"
+      - "\u516C\u5B89\u90E8\u7279\u4E8B\u8AB2"
+      - "\u653E\u5C04\u6027"
+      - "\u7CBE\u795E\u5F71\u97FF"
+      - "\u6642\u7A7A\u9593"
+      - "\u535A\u58EB"
+      - jp
+      - "\u5FF5\u529B"
+      - "\u30D1\u30E9\u30C9\u30C3\u30AF\u30B9"
+      - "\u81EA\u6211"
+      - "\u65E5\u5949\u4E00\u65CF"
+      - "\u5B97\u6559"
+      - esoteric-class
+      - "\u9060\u91CE\u5996\u602A\u4FDD\u8B77\u533A"
+      - "\u4E94\u884C\u7D50\u793E"
+      title: SCP-2630-JP
+scp-2642-jp:
+  links:
+  - scp-2642-jp/offset/1/page2_limit/1:
+      links: []
+      rate: '+17'
+      tags:
+      - "\u6587\u66F8"
+      - jp
+      - "\u77E5\u8B58"
+      - safe
+      - "\u89B3\u6E2C"
+      - "\u8CA1\u56E3\u88FD"
+      - "\u7B50\u4F53\u9020\u308A"
+      - "\u86C7\u306E\u624B"
+      - scp
+      - "\u73FE\u5B9F\u6539\u5909"
+      - "\u7570\u6B21\u5143"
+      - "\u7269\u7406\u6CD5\u5247"
+      - "\u7280\u8CC0\u6D3E"
+      - "\u6A5F\u68B0"
+      - "\u5618\u30B3\u30F320"
+      title: SCP-2642-JP
+scp-2777-jp:
+  links:
+  - scp-2777-jp/offset/1/page2_limit/1:
+      links:
+      - scp-2777-jp/offset/1/page3_limit/1
+      - formality-department-hub
+      rate: '+52'
+      tags:
+      - "\u751F\u547D"
+      - "\u5F62\u5F0F\u90E8\u9580"
+      - scp
+      - "\u53EF\u8996\u5149"
+      - "\u5909\u8EAB"
+      - "\u611F\u60C5"
+      - "\u885B\u661F"
+      - "\u6708"
+      - safe
+      - "\u5730\u8CEA"
+      - "\u5F37\u5236\u529B"
+      - "\u77F3"
+      - "\u30C1\u30FC\u30E0\u30B3\u30F320"
+      - "\u7403\u4F53"
+      - "\u773C\u7403"
+      - jp
+      - "\u81EA\u6211"
+      - "\u72AC"
+      - "\u5730\u7403\u5916"
+      title: SCP-2777-JP
+  - scp-2777-jp/offset/1/page3_limit/1:
+      links:
+      - scp-2777-jp/offset/1/page4_limit/1
+      rate: '+52'
+      tags:
+      - "\u751F\u547D"
+      - "\u5F62\u5F0F\u90E8\u9580"
+      - scp
+      - "\u53EF\u8996\u5149"
+      - "\u5909\u8EAB"
+      - "\u611F\u60C5"
+      - "\u885B\u661F"
+      - "\u6708"
+      - safe
+      - "\u5730\u8CEA"
+      - "\u5F37\u5236\u529B"
+      - "\u77F3"
+      - "\u30C1\u30FC\u30E0\u30B3\u30F320"
+      - "\u7403\u4F53"
+      - "\u773C\u7403"
+      - jp
+      - "\u81EA\u6211"
+      - "\u72AC"
+      - "\u5730\u7403\u5916"
+      title: SCP-2777-JP
+  - scp-2777-jp/offset/1/page4_limit/1:
+      links: []
+      rate: '+52'
+      tags:
+      - "\u751F\u547D"
+      - "\u5F62\u5F0F\u90E8\u9580"
+      - scp
+      - "\u53EF\u8996\u5149"
+      - "\u5909\u8EAB"
+      - "\u611F\u60C5"
+      - "\u885B\u661F"
+      - "\u6708"
+      - safe
+      - "\u5730\u8CEA"
+      - "\u5F37\u5236\u529B"
+      - "\u77F3"
+      - "\u30C1\u30FC\u30E0\u30B3\u30F320"
+      - "\u7403\u4F53"
+      - "\u773C\u7403"
+      - jp
+      - "\u81EA\u6211"
+      - "\u72AC"
+      - "\u5730\u7403\u5916"
+      title: SCP-2777-JP
+scp-2851-jp:
+  links:
+  - scp-2851-jp/offset/1/page2_limit/1:
+      links:
+      - scp-3790
+      rate: '+51'
+      tags:
+      - jp
+      - "\u5EFA\u9020\u7269"
+      - "\u8CA1\u56E3\u88FD"
+      - "\u72AC"
+      - scp
+      - neutralized
+      - "\u5618\u30B3\u30F320"
+      title: SCP-2851-JP
+scp-2909-jp:
+  links:
+  - scp-2909-jp/offset/1/page2_limit/1:
+      links:
+      - system:page-tags/tag/%E9%BB%92%E6%9C%8D%E3%81%AE%E3%82%A2%E3%83%B3%E3%83%81%E3%82%AB%E3%83%BC%E3%83%8B%E3%82%BA%E3%83%A0
+      rate: '+26'
+      tags:
+      - "\u30C6\u30EC\u30D1\u30B7\u30FC"
+      - jp
+      - "\u6B7B\u4F53"
+      - "\u8089\u98DF"
+      - "\u4EBA\u5DE5"
+      - "\u77AC\u9593\u79FB\u52D5"
+      - "\u9ED2\u670D\u306E\u30A2\u30F3\u30C1\u30AB\u30FC\u30CB\u30BA\u30E0"
+      - "\u7CBE\u795E\u5F71\u97FF"
+      - euclid
+      - "\u751F\u7269\u5B66"
+      - scp
+      - "\u7834\u58CA\u4E0D\u80FD"
+      title: AO-2909-JP
+scp-2995-jp:
+  links:
+  - scp-2995-jp/offset/2:
+      links:
+      - usocontest2020-hub
+      - esoteric-classes-complete-list#toc0
+      - sandrewswann-s-proposal
+      - tokage-otoko-s-proposal-2
+      - scp-1450-jp
+      rate: '+156'
+      tags:
+      - jp
+      - "\u30E1\u30BF"
+      - esoteric-class
+      - scp
+      - "\u5171\u8457"
+      - "\u5618\u30B3\u30F320"
+      title: "sanks269=solvex\u306E\u63D0\u8A00"
+  - scp-2995-jp/offset/1:
+      links: []
+      rate: '+156'
+      tags:
+      - jp
+      - "\u30E1\u30BF"
+      - esoteric-class
+      - scp
+      - "\u5171\u8457"
+      - "\u5618\u30B3\u30F320"
+      title: "sanks269=solvex\u306E\u63D0\u8A00"
