@@ -5,7 +5,7 @@
 - You can also enjoy the visualization of SCP network [here](https://iwasaki501.github.io/ternbusty/visualization/SCP%20network%20visualization.html).
 
 ### Data collection
-- The data were collected from [SCP Foundation](https://scp-wiki.wikidot.com/) on February 17, 2021.
+- The data were collected from [SCP Foundation](https://scp-wiki.wikidot.com/) on March 8, 2021.
 - The list of 'assosiated with' articles for each SCP is made by scanning all the tales in [Tales by Title](https://scp-wiki.wikidot.com/tales-by-title) and scraping [SCP Tales by Series](https://scp-wiki.wikidot.com/scp-series-1-tales-edition/noredirect/true).
 
 ### ToDo
