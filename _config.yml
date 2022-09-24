@@ -3,11 +3,11 @@ lang: en
 description: A wiki for exploring the world of SCP
 
 ## local method ##
-theme: jekyll-rtd-theme
-debug:
-  compress: false
-  dist: true
-  shortcodes: true
+# theme: jekyll-rtd-theme
+# debug:
+#   compress: false
+#   dist: true
+#   shortcodes: true
 
 ## remote method ##
 remote_theme: rundocs/jekyll-rtd-theme
